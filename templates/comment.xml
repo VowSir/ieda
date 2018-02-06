@@ -1,0 +1,7 @@
+<templateSet group="comment">
+  <template name="/**" value="/**&#10; *&#10; * 〈$END$〉&#10; */" shortcut="ENTER" description="comment" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

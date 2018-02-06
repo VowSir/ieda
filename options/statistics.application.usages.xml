@@ -1,0 +1,57 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="5" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="8" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.with_mappings" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="74" />
+      <entry feature="OpenInBrowser.Firefox" count="14" />
+      <entry feature="debugger.reload.classes" count="308" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="14" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="125" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="15" />
+      <entry feature="execute.Application.Run" count="9" />
+      <entry feature="execute.JUnit.JRebel Debug" count="1" />
+      <entry feature="execute.JUnit.Run" count="1" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="1" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="2" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JRebel Debug" count="5" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="15" />
+      <entry feature="ide.settings.Advanced" count="3" />
+      <entry feature="ide.settings.Annotation_Processors" count="7" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Application&#10;Servers" count="2" />
+      <entry feature="ide.settings.Auto_Import" count="5" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Color_Scheme" count="1" />
+      <entry feature="ide.settings.Color_Scheme_Font" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="1" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="18" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.JRebel" count="3" />
+      <entry feature="ide.settings.Java_Compiler" count="9" />
+      <entry feature="ide.settings.Keymap" count="2" />
+      <entry feature="ide.settings.Kotlin_Compiler" count="6" />
+      <entry feature="ide.settings.Live_Templates" count="5" />
+      <entry feature="ide.settings.Maven" count="5" />
+      <entry feature="ide.settings.Plugins" count="11" />
+      <entry feature="ide.settings.Runner" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="3" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ideaapp.started" count="68" />
+      <entry feature="tips.of.the.day.next" count="12" />
+      <entry feature="uml.ShowDiagram.JavaScript-modules-diagram.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="18" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="30" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="8" />
+    </counts>
+  </component>
+</application>
