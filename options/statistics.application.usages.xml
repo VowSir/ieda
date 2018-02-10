@@ -1,11 +1,12 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="5" />
+      <entry feature="CreateFile.CreateFileAction" count="6" />
       <entry feature="CreateFile.CreateTaglibFileAction" count="8" />
       <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.with_mappings" count="1" />
       <entry feature="OpenInBrowser.Chrome" count="74" />
       <entry feature="OpenInBrowser.Firefox" count="14" />
+      <entry feature="StripeButton[Version_Control].shown" count="1" />
       <entry feature="debugger.reload.classes" count="308" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="14" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="125" />
@@ -43,7 +44,7 @@
       <entry feature="ide.settings.System_Settings" count="1" />
       <entry feature="ide.settings.Tomcat_Server" count="3" />
       <entry feature="ide.settings.Updates" count="1" />
-      <entry feature="ideaapp.started" count="68" />
+      <entry feature="ideaapp.started" count="71" />
       <entry feature="tips.of.the.day.next" count="12" />
       <entry feature="uml.ShowDiagram.JavaScript-modules-diagram.popup" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="18" />

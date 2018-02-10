@@ -4,15 +4,8 @@
       <list>
         <option value="D:/develop/idea/develop/web" />
         <option value="D:/develop/idea/develop/store_v2.0" />
-        <option value="D:/develop/idea/develop/store_3.0" />
-        <option value="D:/develop/idea/develop/girl" />
-        <option value="D:/develop/idea/develop/HelloMaven" />
         <option value="D:/develop/idea/develop/store" />
         <option value="D:/develop/idea/develop/studay" />
-        <option value="D:/develop/idea/develop/daydayup" />
-        <option value="D:/develop/idea/develop/web_jQuery" />
-        <option value="D:/develop/idea/develop/jQuery" />
-        <option value="D:/develop/idea/develop/bookstore" />
       </list>
     </option>
     <option name="additionalInfo">
@@ -199,8 +192,8 @@
               <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1517830146440" />
-              <option name="buildTimestamp" value="1510606425684" />
+              <option name="projectOpenTimestamp" value="1518001604848" />
+              <option name="buildTimestamp" value="1510606420793" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

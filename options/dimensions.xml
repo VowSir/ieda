@@ -1,6 +1,6 @@
 <application>
   <component name="DimensionService">
-    <location key="SettingsEditor.0.0.1366.768" x="57" y="0" />
+    <location key="SettingsEditor.0.0.1366.768" x="40" y="0" />
     <location key="FileChooserDialogImpl.0.0.1366.768" x="315" y="101" />
     <location key="new project wizard.0.0.1366.768" x="421" y="81" />
     <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
@@ -32,6 +32,9 @@
     <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" x="233" y="139" />
     <location key="com.intellij.javaee.MapExternalResourceDialog.0.0.1366.768" x="312" y="99" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1366.768" x="290" y="40" />
+    <location key="GitCloneDialog.0.0.1366.768" x="487" y="279" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="305" y="0" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="448" y="248" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="543" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="176" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="176" />

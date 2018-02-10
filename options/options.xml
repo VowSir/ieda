@@ -9,18 +9,18 @@
     <property name="file.chooser.recent.files" value="D:/ming/picture/two.jpg&#10;D:/code/javaweb_day10(servlet&amp;request&amp;response)/资料&#10;D:/sky/tomcat/apache-tomcat-9.0.2&#10;D:/sky/maven/settings.xml&#10;D:/sky/maven/repository&#10;D:/sky/maven/apache-maven-3.3.3/conf/settings.xml&#10;D:/sky/maven/apache-maven-3.3.3&#10;D:/develop/maven/repository&#10;D:/develop/maven/settings.xml&#10;D:/develop/maven/apache-maven-3.5.2&#10;D:/develop/Java/jdk1.8.0_151&#10;D:/idea/plugin/jr-ide-idea-6.3.1-idea-13-15.zip&#10;D:/develop/idea/develop/jQuery&#10;D:/develop/maven/apache-maven-3.5.2/conf/settings.xml&#10;D:/develop/Java/jdk1.7.0_72&#10;D:/idea/theme/1432977083.jar&#10;D:/tomcat/apache-tomcat-7.0.52&#10;D:/tomcat/apache-tomcat-9.0.2&#10;D:/develop/idea/develop" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="70" />
+    <property name="lastTip" value="71" />
     <property name="KEYMAP" value="view&#10;full&#10;basic" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
     <property name="selected.color.option.type" value="COFFEESCRIPT.BLOCK_COMMENT" />
     <property name="ColorChooser.RecentColors" value="195-255-156-255" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="backg&#10;backgroud&#10;back&#10;imgb&#10;bcki" />
+    <property name="PLUGIN_FILTER" value="git&#10;backg&#10;backgroud&#10;back&#10;imgb" />
     <property name="plugins.preselection.path" value="D:/idea/plugin" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 9.0.2" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="199" />
+    <property name="file.gist.reindex.count" value="201" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="3" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
@@ -67,5 +67,6 @@
     <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
     <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
     <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6233766" />
   </component>
 </application>
