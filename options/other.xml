@@ -4,8 +4,24 @@
     <option name="localFile" value="false" />
     <option name="enabled" value="false" />
   </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+  </component>
   <component name="RefactoringSettings">
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/maangming/hibenatedemo.git" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/maangming/hibenatedemo.git" />
+      </list>
+    </option>
   </component>
 </application>

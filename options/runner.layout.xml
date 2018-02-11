@@ -146,7 +146,7 @@
       </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Database Console" />
-        <option name="rightProportion" value="0.19910179" />
+        <option name="rightProportion" value="0.1989164" />
       </TabImpl>
       <General />
     </runner>

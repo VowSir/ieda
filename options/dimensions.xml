@@ -1,24 +1,24 @@
 <application>
   <component name="DimensionService">
-    <location key="SettingsEditor.0.0.1366.768" x="40" y="0" />
+    <location key="SettingsEditor.0.0.1366.768" x="20" y="0" />
     <location key="FileChooserDialogImpl.0.0.1366.768" x="315" y="101" />
     <location key="new project wizard.0.0.1366.768" x="421" y="81" />
     <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="365" y="147" />
     <location key="#Tomcat_Server.0.0.1366.768" x="463" y="254" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="146" y="80" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="146" y="42" />
     <location key="#Browse_Repositories.0.0.1366.768" x="276" y="45" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1366.768" x="354" y="40" />
     <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="413" y="155" />
     <location key="ProcessPopupWindow.0.0.1366.768" x="633" y="522" />
     <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="112" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="412" y="204" />
-    <location key="#Project_Structure.0.0.1366.768" x="163" y="40" />
+    <location key="#Project_Structure.0.0.1366.768" x="163" y="0" />
     <location key="#xdebugger.evaluate.0.0.1366.768" x="670" y="206" />
     <location key="IdeErrosDialog.0.0.1366.768" x="177" y="269" />
-    <location key="#Plugins.0.0.1366.768" x="476" y="69" />
+    <location key="#Plugins.0.0.1366.768" x="476" y="49" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="97" />
-    <location key="find.popup.0.0.1366.768" x="365" y="159" />
+    <location key="find.popup.0.0.1366.768" x="354" y="204" />
     <location key="Maven.ArtifactSearchDialog.0.0.1366.768" x="213" y="61" />
     <location key="spring file set editor.0.0.1366.768" x="398" y="141" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="404" y="203" />
@@ -35,11 +35,19 @@
     <location key="GitCloneDialog.0.0.1366.768" x="487" y="279" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="305" y="0" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="448" y="248" />
-    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="543" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1366" height="176" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1366" height="176" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1366" height="176" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1366" height="176" />
+    <location key="svn.repositoryBrowser.0.0.1366.768" x="513" y="158" />
+    <location key="svn4idea.import.options.0.0.1366.768" x="466" y="146" />
+    <location key="Github.CreateGistDialog.0.0.1366.768" x="511" y="271" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1366.768" x="457" y="162" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1366.768" x="488" y="238" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="94" />
+    <location key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" x="353" y="0" />
+    <location key="#Assign_Data_Sources.0.0.1366.768" x="438" y="107" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="686" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="168" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="168" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="168" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="168" />
     <size key="GridCell.Tab.1.left.0.0.1366.768" width="1366" height="196" />
     <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="196" />
     <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="196" />
@@ -63,5 +71,6 @@
     <size key="GridCell.Tab.4.bottom.0.0.1366.768" width="1322" height="154" />
     <size key="DebuggerActiveHint.0.0.1366.768" width="475" height="445" />
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" width="899" height="564" />
+    <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" width="727" height="728" />
   </component>
 </application>
