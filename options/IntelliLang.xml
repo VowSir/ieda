@@ -1,0 +1,24 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="XML" injector-id="xml">
+      <display-name>class/@table</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("table")).withParent(xmlTag().withLocalName(string().equalTo("class")).withNamespace(string().equalTo("http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd")))]]></place>
+    </injection>
+    <injection language="XML" injector-id="xml">
+      <display-name>column/@name</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("name")).withParent(xmlTag().withLocalName(string().equalTo("column")).withNamespace(string().equalTo("http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd")))]]></place>
+    </injection>
+    <injection language="XML" injector-id="xml">
+      <display-name>id/@column</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("column")).withParent(xmlTag().withLocalName(string().equalTo("id")).withNamespace(string().equalTo("http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd")))]]></place>
+    </injection>
+    <injection language="XML" injector-id="xml">
+      <display-name>mapping/@resource</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("resource")).withParent(xmlTag().withLocalName(string().equalTo("mapping")).withNamespace(string().equalTo("http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd")))]]></place>
+    </injection>
+    <injection language="XML" injector-id="xml">
+      <display-name>property/@column</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("column")).withParent(xmlTag().withLocalName(string().equalTo("property")).withNamespace(string().equalTo("http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd")))]]></place>
+    </injection>
+  </component>
+</application>
