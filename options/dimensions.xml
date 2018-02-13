@@ -2,12 +2,12 @@
   <component name="DimensionService">
     <location key="SettingsEditor.0.0.1366.768" x="20" y="0" />
     <location key="FileChooserDialogImpl.0.0.1366.768" x="315" y="101" />
-    <location key="new project wizard.0.0.1366.768" x="421" y="81" />
+    <location key="new project wizard.0.0.1366.768" x="143" y="85" />
     <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="365" y="147" />
     <location key="#Tomcat_Server.0.0.1366.768" x="463" y="254" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="146" y="42" />
-    <location key="#Browse_Repositories.0.0.1366.768" x="276" y="45" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="276" y="42" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1366.768" x="354" y="40" />
     <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="413" y="155" />
     <location key="ProcessPopupWindow.0.0.1366.768" x="633" y="522" />
@@ -43,19 +43,29 @@
     <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="94" />
     <location key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" x="353" y="0" />
     <location key="#Assign_Data_Sources.0.0.1366.768" x="438" y="107" />
+    <location key="#Plugins.0.0.1920.1080@120dpi" x="553" y="108" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="315" y="0" />
+    <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="541" y="106" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="691" y="197" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="585" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="456" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="600" y="296" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="413" y="164" />
+    <location key="#Tomcat_Server.0.0.1920.1080@120dpi" x="707" y="426" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080@120dpi" x="655" y="128" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="686" />
-    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="168" />
-    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="168" />
-    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="168" />
-    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="168" />
-    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1366" height="196" />
-    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1366" height="196" />
-    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1366" height="196" />
-    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1366" height="196" />
-    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1366" height="196" />
-    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1366" height="196" />
-    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1366" height="196" />
-    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1366" height="196" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.2.left.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.2.center.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.2.right.0.0.1366.768" width="1322" height="209" />
+    <size key="GridCell.Tab.2.bottom.0.0.1366.768" width="1322" height="209" />
     <size key="javadoc.popup.0.0.1366.768" width="446" height="163" />
     <size key="SettingsEditor.0.0.1366.768" width="1251" height="728" />
     <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="197" />
@@ -72,5 +82,18 @@
     <size key="DebuggerActiveHint.0.0.1366.768" width="475" height="445" />
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" width="899" height="564" />
     <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" width="727" height="728" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1094" height="786" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1864" height="223" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="1864" height="223" />
   </component>
 </application>

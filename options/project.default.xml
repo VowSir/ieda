@@ -21,7 +21,7 @@
         <option name="jreName" value="1.8" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="database.main" />
+        <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AdvancedConfigurable" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />

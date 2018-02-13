@@ -2,22 +2,28 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:/develop/idea/develop/hibernateImport" />
-        <option value="D:/develop/idea/develop/hibenatedemo" />
-        <option value="D:/develop/idea/develop/web" />
-        <option value="D:/develop/idea/develop/store_v2.0" />
-        <option value="D:/develop/idea/develop/store" />
-        <option value="D:/develop/idea/develop/studay" />
+        <option value="C:/develop/ideaproject" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/develop/idea/develop/hibernateImport" />
+        <option value="C:/develop/ideaproject" />
       </list>
     </option>
-    <option name="lastPath" value="D:/develop/idea/develop/hibernateImport" />
+    <option name="lastPath" value="C:/develop/ideaproject" />
     <option name="additionalInfo">
       <map>
+        <entry key="C:/develop/ideaproject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518513025517" />
+              <option name="buildTimestamp" value="1506404240698" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/develop/idea/develop/HelloMaven">
           <value>
             <RecentProjectMetaInfo>
@@ -112,8 +118,8 @@
               <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518345803269" />
-              <option name="buildTimestamp" value="1510606392726" />
+              <option name="projectOpenTimestamp" value="1518445619432" />
+              <option name="buildTimestamp" value="1510606414502" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -262,6 +268,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="D:/develop/idea/develop" />
+    <option name="lastProjectLocation" value="C:/develop" />
   </component>
 </application>

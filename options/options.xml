@@ -6,21 +6,21 @@
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="JavaEE" />
     <property name="project.wizard.template" value="Java" />
-    <property name="file.chooser.recent.files" value="D:/develop/idea/develop/hibernatedemo&#10;D:/ming/picture/two.jpg&#10;D:/code/javaweb_day10(servlet&amp;request&amp;response)/资料&#10;D:/sky/tomcat/apache-tomcat-9.0.2&#10;D:/sky/maven/settings.xml&#10;D:/sky/maven/repository&#10;D:/sky/maven/apache-maven-3.3.3/conf/settings.xml&#10;D:/sky/maven/apache-maven-3.3.3&#10;D:/develop/maven/repository&#10;D:/develop/maven/settings.xml&#10;D:/develop/maven/apache-maven-3.5.2&#10;D:/develop/Java/jdk1.8.0_151&#10;D:/idea/plugin/jr-ide-idea-6.3.1-idea-13-15.zip&#10;D:/develop/idea/develop/jQuery&#10;D:/develop/maven/apache-maven-3.5.2/conf/settings.xml&#10;D:/develop/Java/jdk1.7.0_72&#10;D:/idea/theme/1432977083.jar&#10;D:/tomcat/apache-tomcat-7.0.52&#10;D:/tomcat/apache-tomcat-9.0.2&#10;D:/develop/idea/develop" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="file.chooser.recent.files" value="C:/develop/apache-tomcat-8.5.27&#10;C:/develop/Java/jdk&#10;C:/develop/ideaproject&#10;D:/develop/idea/develop/hibernatedemo&#10;D:/ming/picture/two.jpg&#10;D:/code/javaweb_day10(servlet&amp;request&amp;response)/资料&#10;D:/sky/tomcat/apache-tomcat-9.0.2&#10;D:/sky/maven/settings.xml&#10;D:/sky/maven/repository&#10;D:/sky/maven/apache-maven-3.3.3/conf/settings.xml&#10;D:/sky/maven/apache-maven-3.3.3&#10;D:/develop/maven/repository&#10;D:/develop/maven/settings.xml&#10;D:/develop/maven/apache-maven-3.5.2&#10;D:/develop/Java/jdk1.8.0_151&#10;D:/idea/plugin/jr-ide-idea-6.3.1-idea-13-15.zip&#10;D:/develop/idea/develop/jQuery&#10;D:/develop/maven/apache-maven-3.5.2/conf/settings.xml&#10;D:/develop/Java/jdk1.7.0_72&#10;D:/idea/theme/1432977083.jar&#10;D:/tomcat/apache-tomcat-7.0.52&#10;D:/tomcat/apache-tomcat-9.0.2&#10;D:/develop/idea/develop" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="78" />
+    <property name="lastTip" value="84" />
     <property name="KEYMAP" value="view&#10;full&#10;basic" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
     <property name="selected.color.option.type" value="COFFEESCRIPT.BLOCK_COMMENT" />
     <property name="ColorChooser.RecentColors" value="195-255-156-255" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="lom&#10;h&#10;javaee&#10;git&#10;backg" />
+    <property name="PLUGIN_FILTER" value="jrebel&#10;jr&#10;mybatis&#10;spring&#10;lom" />
     <property name="plugins.preselection.path" value="D:/idea/plugin" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 9.0.2" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="235" />
+    <property name="file.gist.reindex.count" value="245" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
@@ -80,5 +80,6 @@
     <property name="FrameworksFinderRecursivePanel[4]" value="0.40899795" />
     <property name="FrameworksFinderRecursivePanel[5]" value="0.6944444" />
     <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="ignore.ide.set.hidpi.mode" value="true" />
   </component>
 </application>

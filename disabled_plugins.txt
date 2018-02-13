@@ -32,7 +32,6 @@ com.intellij.jbpm
 com.intellij.seam
 com.intellij.seam.pageflow
 com.intellij.seam.pages
-com.intellij.spring.websocket
 com.intellij.tapestry
 com.intellij.thymeleaf
 com.intellij.uiDesigner
