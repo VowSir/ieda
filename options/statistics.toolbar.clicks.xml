@@ -4,7 +4,7 @@
       <entry action="$Redo@MainToolbar" count="5" />
       <entry action="CheckinProject@MainToolbar" count="1" />
       <entry action="Compare.SameVersion@MainToolbar" count="2" />
-      <entry action="CompileDirty@MainToolbar" count="14" />
+      <entry action="CompileDirty@MainToolbar" count="15" />
       <entry action="Console.Jdbc.Execute@EditorToolbar" count="29" />
       <entry action="Console.TableResult.CountRows@unknown" count="1" />
       <entry action="Console.TableResult.DumpGroup@EditorToolbar" count="1" />
@@ -20,7 +20,7 @@
       <entry action="EvaluateExpression@DebuggerToolbar" count="1" />
       <entry action="FileChooser.NewFolder@FileChooserDialog" count="1" />
       <entry action="ForceStepInto@DebuggerToolbar" count="5" />
-      <entry action="JRebel_Debug@MainToolbar" count="131" />
+      <entry action="JRebel_Debug@MainToolbar" count="134" />
       <entry action="JRebel_Executor@MainToolbar" count="1" />
       <entry action="Jdbc.OpenConsole@ProjectViewToolbar" count="9" />
       <entry action="Jdbc.OpenEditor.Data@ProjectViewToolbar" count="1" />
@@ -34,17 +34,17 @@
       <entry action="Rerun@DebuggerToolbar" count="1" />
       <entry action="Rerun@RunnerToolbar" count="2" />
       <entry action="Resume@DebuggerToolbar" count="73" />
-      <entry action="Run@MainToolbar" count="26" />
+      <entry action="Run@MainToolbar" count="27" />
       <entry action="RunToCursor@DebuggerToolbar" count="3" />
       <entry action="Runner.RestoreLayout@DebuggerToolbar" count="1" />
       <entry action="ShowExecutionPoint@DebuggerToolbar" count="34" />
-      <entry action="ShowProjectStructureSettings@MainToolbar" count="47" />
-      <entry action="ShowSettings@MainToolbar" count="120" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="60" />
+      <entry action="ShowSettings@MainToolbar" count="149" />
       <entry action="StepInto@DebuggerToolbar" count="19" />
       <entry action="StepOut@DebuggerToolbar" count="23" />
       <entry action="StepOver@DebuggerToolbar" count="432" />
       <entry action="Stop@DebuggerToolbar" count="3" />
-      <entry action="Stop@MainToolbar" count="145" />
+      <entry action="Stop@MainToolbar" count="148" />
       <entry action="Stop@RunnerToolbar" count="1" />
       <entry action="Synchronize@MainToolbar" count="14" />
       <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="2" />
@@ -58,8 +58,8 @@
       <entry action="com.intellij.database.run.AbstractQueryLanguageConsole$7@toolbar" count="2" />
       <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$AddAction@ProjectViewToolbar" count="1" />
       <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$GoToDriverAction@ProjectViewToolbar" count="1" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="303" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@TestRunnerResults" count="3" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="304" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@TestRunnerResults" count="8" />
       <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="3" />
       <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="2" />
       <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="6" />
@@ -70,11 +70,11 @@
       <entry action="com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog$MyJavaeeTreeView$8@ProjectViewToolbar" count="7" />
       <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="4" />
       <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DebuggerToolbar" count="1" />
-      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="2" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="4" />
       <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="1" />
       <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="3" />
-      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="11" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="34" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="25" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="47" />
       <entry action="com.intellij.ui.classFilter.ClassFilterEditor$1@ToolbarDecorator" count="3" />
       <entry action="com.intellij.ui.navigation.BackAction@ProjectViewToolbar" count="3" />
       <entry action="javaee.UpdateRunningApplication@DebuggerToolbar" count="1" />

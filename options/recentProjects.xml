@@ -2,15 +2,16 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="C:/develop/ideaproject" />
+        <option value="C:/develop/ideaproject/testmaven" />
+        <option value="C:/develop/ideaproject/springfirst" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:/develop/ideaproject" />
+        <option value="C:/develop/ideaproject/testmaven" />
       </list>
     </option>
-    <option name="lastPath" value="C:/develop/ideaproject" />
+    <option name="lastPath" value="C:/develop/ideaproject/testmaven" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/develop/ideaproject">
@@ -19,8 +20,63 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518518471839" />
-              <option name="buildTimestamp" value="1506404223302" />
+              <option name="projectOpenTimestamp" value="1518526340619" />
+              <option name="buildTimestamp" value="1506404236867" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/helloworld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518750380836" />
+              <option name="buildTimestamp" value="1506404236448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/springfirst">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518688769058" />
+              <option name="buildTimestamp" value="1506404226081" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/testmaven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518757531328" />
+              <option name="buildTimestamp" value="1506404253909" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/springdemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518571945746" />
+              <option name="buildTimestamp" value="1506404221688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/springfirst">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518573872043" />
+              <option name="buildTimestamp" value="1506404221688" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -268,6 +324,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="C:/develop" />
+    <option name="lastProjectLocation" value="C:/develop/ideaproject" />
   </component>
 </application>
