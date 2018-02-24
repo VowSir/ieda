@@ -4,27 +4,27 @@
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
     <property name="FileTemplates.SelectedTemplate" value="Servlet Annotated Class" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
-    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
-    <property name="project.wizard.template" value="Maven" />
-    <property name="file.chooser.recent.files" value="C:/develop/mvn_repository&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9/conf/settings.xml&#10;C:/codeapp/Git/Git/cmd/git.exe&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9&#10;D:/picture/twow.png&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/aop/spring-aop-4.2.xsd&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/beans/spring-beans-4.2.xsd&#10;C:/develop/apache-tomcat-8.5.27&#10;C:/develop/Java/jdk&#10;C:/develop/ideaproject&#10;D:/develop/idea/develop/hibernatedemo&#10;D:/ming/picture/two.jpg&#10;D:/code/javaweb_day10(servlet&amp;request&amp;response)/资料&#10;D:/sky/tomcat/apache-tomcat-9.0.2&#10;D:/sky/maven/settings.xml&#10;D:/sky/maven/repository&#10;D:/sky/maven/apache-maven-3.3.3/conf/settings.xml&#10;D:/sky/maven/apache-maven-3.3.3&#10;D:/develop/maven/repository&#10;D:/develop/maven/settings.xml&#10;D:/develop/maven/apache-maven-3.5.2&#10;D:/develop/Java/jdk1.8.0_151&#10;D:/idea/plugin/jr-ide-idea-6.3.1-idea-13-15.zip&#10;D:/develop/idea/develop/jQuery&#10;D:/develop/maven/apache-maven-3.5.2/conf/settings.xml&#10;D:/develop/Java/jdk1.7.0_72&#10;D:/idea/theme/1432977083.jar&#10;D:/tomcat/apache-tomcat-7.0.52&#10;D:/tomcat/apache-tomcat-9.0.2&#10;D:/develop/idea/develop" />
+    <property name="project.wizard.group" value="JavaEE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="file.chooser.recent.files" value="C:/idea/.IntelliJIdea/theme/1433232482.zip&#10;C:/idea/.IntelliJIdea/theme/1433952012.zip&#10;C:/develop/ideaproject/modulecreate/lib&#10;C:/develop/ideaproject/modulecreate/web/WEB-INF/lib&#10;C:/develop/ideaproject/strust2quickstart&#10;C:/develop/ideaproject/ajax&#10;C:/develop/ideaproject/mavenweb&#10;C:/develop/ideaproject/mavendem/src/main/web/WEB-INF&#10;C:/develop/ideaproject/girl&#10;C:/develop/ideaproject/girl/src/main/java/com/study/girl&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9/conf/settings.xml&#10;C:/develop/mvn_repository&#10;C:/codeapp/Git/Git/cmd/git.exe&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9&#10;D:/picture/twow.png&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/aop/spring-aop-4.2.xsd&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/beans/spring-beans-4.2.xsd&#10;C:/develop/apache-tomcat-8.5.27&#10;C:/develop/Java/jdk&#10;C:/develop/ideaproject&#10;D:/develop/idea/develop/hibernatedemo&#10;D:/ming/picture/two.jpg&#10;D:/code/javaweb_day10(servlet&amp;request&amp;response)/资料&#10;D:/sky/tomcat/apache-tomcat-9.0.2&#10;D:/sky/maven/settings.xml&#10;D:/sky/maven/repository&#10;D:/sky/maven/apache-maven-3.3.3/conf/settings.xml&#10;D:/sky/maven/apache-maven-3.3.3&#10;D:/develop/maven/repository&#10;D:/develop/maven/settings.xml" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="91" />
-    <property name="KEYMAP" value="view&#10;full&#10;basic" />
+    <property name="lastTip" value="108" />
+    <property name="KEYMAP" value="ful&#10;view&#10;full&#10;basic" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
     <property name="selected.color.option.type" value="COFFEESCRIPT.BLOCK_COMMENT" />
     <property name="ColorChooser.RecentColors" value="195-255-156-255" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="st&#10;jrebel&#10;jr&#10;mybatis&#10;spring" />
+    <property name="PLUGIN_FILTER" value="gson&#10;checksty&#10;findbug&#10;uml&#10;myba" />
     <property name="plugins.preselection.path" value="D:/idea/plugin" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.27" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="248" />
+    <property name="file.gist.reindex.count" value="330" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="spring.initializr.service.url.history" value="" />
@@ -67,7 +67,7 @@
     <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
     <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
     <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.66233766" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.9233766" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="LAST_INJECTED_LANGUAGE" value="XML" />
@@ -82,5 +82,8 @@
     <property name="FileTemplates.CurrentTab" value="Other" />
     <property name="ignore.ide.set.hidpi.mode" value="true" />
     <property name="ProjectStructure.TopLevelElements" value="0.15461704" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="dir.diff.space.button.info" value="1" />
   </component>
 </application>

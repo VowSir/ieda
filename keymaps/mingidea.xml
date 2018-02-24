@@ -3,7 +3,4 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="HippieCompletion" />
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
 </keymap>

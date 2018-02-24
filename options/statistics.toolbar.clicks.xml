@@ -2,81 +2,92 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="$Redo@MainToolbar" count="5" />
-      <entry action="CheckinProject@MainToolbar" count="1" />
+      <entry action="CaptureMemorySnapShot@MainToolbar" count="1" />
+      <entry action="CheckStyleDisplayErrorsAction@CheckStyle" count="1" />
+      <entry action="CheckinProject@MainToolbar" count="18" />
       <entry action="Compare.SameVersion@MainToolbar" count="2" />
-      <entry action="CompileDirty@MainToolbar" count="15" />
-      <entry action="Console.Jdbc.Execute@EditorToolbar" count="29" />
+      <entry action="CompileDirty@MainToolbar" count="17" />
+      <entry action="Console.Jdbc.Execute@EditorToolbar" count="32" />
+      <entry action="Console.TableResult.AddRow@EditorToolbar" count="4" />
       <entry action="Console.TableResult.CountRows@unknown" count="1" />
       <entry action="Console.TableResult.DumpGroup@EditorToolbar" count="1" />
       <entry action="Console.TableResult.Options@EditorToolbar" count="1" />
-      <entry action="Console.TableResult.Reload@EditorToolbar" count="5" />
-      <entry action="Console.TableResult.Submit@EditorToolbar" count="2" />
-      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="14" />
+      <entry action="Console.TableResult.Reload@EditorToolbar" count="77" />
+      <entry action="Console.TableResult.Submit@EditorToolbar" count="7" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="19" />
       <entry action="DatabaseView.CloseConnectionAction@ProjectViewToolbar" count="3" />
       <entry action="DatabaseView.PropertiesAction@ProjectViewToolbar" count="5" />
-      <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="8" />
-      <entry action="Debug@MainToolbar" count="17" />
+      <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="53" />
+      <entry action="Debug@MainToolbar" count="18" />
       <entry action="Debugger.PopFrame@DebuggerToolbar" count="3" />
       <entry action="EvaluateExpression@DebuggerToolbar" count="1" />
       <entry action="FileChooser.NewFolder@FileChooserDialog" count="1" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="1" />
       <entry action="ForceStepInto@DebuggerToolbar" count="5" />
-      <entry action="JRebel_Debug@MainToolbar" count="134" />
+      <entry action="JRebel_Debug@MainToolbar" count="168" />
       <entry action="JRebel_Executor@MainToolbar" count="1" />
-      <entry action="Jdbc.OpenConsole@ProjectViewToolbar" count="9" />
+      <entry action="Javaee.RefreshDeploymentStatus@unknown" count="3" />
+      <entry action="Jdbc.OpenConsole@ProjectViewToolbar" count="13" />
       <entry action="Jdbc.OpenEditor.Data@ProjectViewToolbar" count="1" />
       <entry action="Maven.AddManagedFiles@Maven_Navigator_Toolbar" count="1" />
       <entry action="Maven.DownloadAllGroupPopup@Maven_Navigator_Toolbar" count="1" />
-      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="9" />
-      <entry action="Maven.RunBuild@Maven_Navigator_Toolbar" count="2" />
+      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="52" />
+      <entry action="Maven.RunBuild@Maven_Navigator_Toolbar" count="13" />
       <entry action="Maven.UpdateFolders@Maven_Navigator_Toolbar" count="1" />
       <entry action="OpenFile@MainToolbar" count="2" />
       <entry action="Print@RunnerToolbar" count="1" />
       <entry action="Rerun@DebuggerToolbar" count="1" />
-      <entry action="Rerun@RunnerToolbar" count="2" />
-      <entry action="Resume@DebuggerToolbar" count="73" />
-      <entry action="Run@MainToolbar" count="27" />
+      <entry action="Rerun@RunnerToolbar" count="9" />
+      <entry action="Resume@DebuggerToolbar" count="81" />
+      <entry action="Run@MainToolbar" count="98" />
       <entry action="RunToCursor@DebuggerToolbar" count="3" />
       <entry action="Runner.RestoreLayout@DebuggerToolbar" count="1" />
-      <entry action="ShowExecutionPoint@DebuggerToolbar" count="34" />
-      <entry action="ShowProjectStructureSettings@MainToolbar" count="60" />
-      <entry action="ShowSettings@MainToolbar" count="149" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="40" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="79" />
+      <entry action="ShowSettings@MainToolbar" count="176" />
       <entry action="StepInto@DebuggerToolbar" count="19" />
       <entry action="StepOut@DebuggerToolbar" count="23" />
-      <entry action="StepOver@DebuggerToolbar" count="432" />
+      <entry action="StepOver@DebuggerToolbar" count="446" />
       <entry action="Stop@DebuggerToolbar" count="3" />
-      <entry action="Stop@MainToolbar" count="148" />
-      <entry action="Stop@RunnerToolbar" count="1" />
+      <entry action="Stop@MainToolbar" count="226" />
+      <entry action="Stop@RunnerToolbar" count="7" />
       <entry action="Synchronize@MainToolbar" count="14" />
       <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="2" />
+      <entry action="Vcs.UpdateProject@MainToolbar" count="16" />
       <entry action="ViewBreakpoints@DebuggerToolbar" count="1" />
       <entry action="XDebugger.NewWatch@DebuggerToolbar" count="1" />
       <entry action="XDebugger.SwitchWatchesInVariables@DebuggerToolbar" count="2" />
-      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="2" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="3" />
       <entry action="com.intellij.codeInsight.documentation.DockablePopupManager$3@JavadocToolbar" count="6" />
       <entry action="com.intellij.database.console.JdbcConsole$8@toolbar" count="1" />
       <entry action="com.intellij.database.run.AbstractQueryLanguageConsole$7@EditorToolbar" count="5" />
       <entry action="com.intellij.database.run.AbstractQueryLanguageConsole$7@toolbar" count="2" />
       <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$AddAction@ProjectViewToolbar" count="1" />
       <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$GoToDriverAction@ProjectViewToolbar" count="1" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="304" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@TestRunnerResults" count="8" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="3" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="365" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@TestRunnerResults" count="9" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="6" />
       <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="2" />
       <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="6" />
-      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="88" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="90" />
       <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="1" />
       <entry action="com.intellij.ide.plugins.PluginManagerMain$RefreshAction@PluginManager" count="1" />
       <entry action="com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog$MyJavaeeTreeView$5@ProjectViewToolbar" count="1" />
       <entry action="com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog$MyJavaeeTreeView$8@ProjectViewToolbar" count="7" />
-      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="4" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="6" />
       <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DebuggerToolbar" count="1" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="4" />
       <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="1" />
-      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="3" />
-      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="25" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="47" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="4" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="5" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="5" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="33" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="87" />
       <entry action="com.intellij.ui.classFilter.ClassFilterEditor$1@ToolbarDecorator" count="3" />
       <entry action="com.intellij.ui.navigation.BackAction@ProjectViewToolbar" count="3" />
+      <entry action="com.intellij.ws.rest.client.RESTClient$2@RestClient" count="140" />
       <entry action="javaee.UpdateRunningApplication@DebuggerToolbar" count="1" />
       <entry action="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$AddLocationAction@RepositoryBrowser.Toolbar" count="5" />
     </counts>

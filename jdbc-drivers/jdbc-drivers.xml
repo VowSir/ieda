@@ -42,6 +42,12 @@
           md5=""/>
     <item name="mysql-connector-license.txt" url="https://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.45/COPYING" md5=""/>
   </artifact>
+  <artifact version="2.2.1" name="MariaDB Connector J">
+    <item name="mariadb-java-client-2.2.1.jar"
+          url="https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/2.2.1/mariadb-java-client-2.2.1.jar"
+          md5=""/>
+    <item name="mariadb-connector-license.txt" url="https://download.jetbrains.com/idea/jdbc-drivers/mariadb-connector-license.txt" md5=""/>
+  </artifact>
   <artifact version="9.4-1201" name="PostgreSQL">
     <item name="postgresql-9.4-1201.jdbc4.jar"
           url="https://download.jetbrains.com/idea/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar"
