@@ -215,6 +215,7 @@
       <entry action="ShowIntentionActions" count="510" />
       <entry action="ShowProjectStructureSettings" count="80" />
       <entry action="ShowSettings" count="176" />
+      <entry action="ShowUmlDiagram" count="1" />
       <entry action="ShowUmlDiagramPopup" count="1" />
       <entry action="SmartTypeCompletion" count="6" />
       <entry action="Start.Use.Vcs" count="1" />

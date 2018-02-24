@@ -76,7 +76,7 @@
     <feature id="codeassists.comment.block" count="11" last-shown="0" last-used="1518327979747" shown-count="0" />
     <feature id="codeassists.quickjavadoc" count="27" last-shown="1518862503479" last-used="1519025782918" shown-count="30" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="diagram.show" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show" count="1" last-shown="0" last-used="1519476313553" shown-count="0" />
     <feature id="editing.completion.second.basic" count="389" last-shown="0" last-used="1519468414443" shown-count="0" />
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="1519030308006" last-used="0" shown-count="26" />
