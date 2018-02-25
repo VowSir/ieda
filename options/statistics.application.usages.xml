@@ -7,11 +7,11 @@
       <entry feature="OpenInBrowser.Chrome" count="78" />
       <entry feature="OpenInBrowser.Firefox" count="14" />
       <entry feature="StripeButton[Version_Control].shown" count="6" />
-      <entry feature="debugger.reload.classes" count="330" />
+      <entry feature="debugger.reload.classes" count="335" />
       <entry feature="diff.DirDiffTableModel" count="1" />
       <entry feature="diff.DirDiffViewer" count="1" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="15" />
-      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="179" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="181" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="1" />
       <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="21" />
       <entry feature="execute.Application.Run" count="36" />
@@ -55,7 +55,7 @@
       <entry feature="ide.settings.Updates" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
       <entry feature="ide.settings.XML_Catalog" count="2" />
-      <entry feature="ideaapp.started" count="116" />
+      <entry feature="ideaapp.started" count="117" />
       <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="1" />
       <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="2" />
       <entry feature="terminal.win" count="5" />
@@ -64,7 +64,7 @@
       <entry feature="uml.ShowDiagram.JAVA" count="1" />
       <entry feature="uml.ShowDiagram.JavaScript-modules-diagram.popup" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="32" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="75" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="76" />
       <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.Plugins" count="11" />

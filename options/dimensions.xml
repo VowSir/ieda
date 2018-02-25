@@ -44,7 +44,7 @@
     <location key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" x="353" y="0" />
     <location key="#Assign_Data_Sources.0.0.1366.768" x="438" y="107" />
     <location key="#Plugins.0.0.1920.1080@120dpi" x="553" y="108" />
-    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="284" y="59" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="146" y="73" />
     <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="541" y="106" />
     <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="1152" y="136" />
     <location key="new project wizard.0.0.1920.1080@120dpi" x="480" y="228" />
@@ -109,18 +109,18 @@
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" width="899" height="564" />
     <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" width="727" height="728" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1191" height="881" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1864" height="280" />
-    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="1864" height="280" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1864" height="312" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="1864" height="312" />
     <size key="javadoc.popup.0.0.1920.1080@120dpi" width="557" height="201" />
     <size key="StructurePopup.0.0.1920.1080@120dpi" width="562" height="404" />
     <size key="new project wizard.0.0.1920.1080@120dpi" width="1022" height="686" />
