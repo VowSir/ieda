@@ -6,21 +6,21 @@
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="JavaEE" />
     <property name="project.wizard.template" value="Java" />
-    <property name="file.chooser.recent.files" value="C:/idea/.IntelliJIdea/theme/1433232482.zip&#10;C:/idea/.IntelliJIdea/theme/1433952012.zip&#10;C:/develop/ideaproject/modulecreate/lib&#10;C:/develop/ideaproject/modulecreate/web/WEB-INF/lib&#10;C:/develop/ideaproject/strust2quickstart&#10;C:/develop/ideaproject/ajax&#10;C:/develop/ideaproject/mavenweb&#10;C:/develop/ideaproject/mavendem/src/main/web/WEB-INF&#10;C:/develop/ideaproject/girl&#10;C:/develop/ideaproject/girl/src/main/java/com/study/girl&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9/conf/settings.xml&#10;C:/develop/mvn_repository&#10;C:/codeapp/Git/Git/cmd/git.exe&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9&#10;D:/picture/twow.png&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/aop/spring-aop-4.2.xsd&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/beans/spring-beans-4.2.xsd&#10;C:/develop/apache-tomcat-8.5.27&#10;C:/develop/Java/jdk&#10;C:/develop/ideaproject&#10;D:/develop/idea/develop/hibernatedemo&#10;D:/ming/picture/two.jpg&#10;D:/code/javaweb_day10(servlet&amp;request&amp;response)/资料&#10;D:/sky/tomcat/apache-tomcat-9.0.2&#10;D:/sky/maven/settings.xml&#10;D:/sky/maven/repository&#10;D:/sky/maven/apache-maven-3.3.3/conf/settings.xml&#10;D:/sky/maven/apache-maven-3.3.3&#10;D:/develop/maven/repository&#10;D:/develop/maven/settings.xml" />
+    <property name="file.chooser.recent.files" value="C:/ming/book/struts2/struts-2.3.24&#10;C:/ming&#10;C:/develop/ideaproject/struts2/quickstart&#10;C:/develop/ideaproject/struts2/quickstart/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/struts2quick/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2&#10;C:/develop/ideaproject/struts2/src&#10;C:/ming/book/struts2/struts-2.3.24/src&#10;C:/idea/.IntelliJIdea/theme/1433232482.zip&#10;C:/idea/.IntelliJIdea/theme/1433952012.zip&#10;C:/develop/ideaproject/modulecreate/lib&#10;C:/develop/ideaproject/modulecreate/web/WEB-INF/lib&#10;C:/develop/ideaproject/strust2quickstart&#10;C:/develop/ideaproject/ajax&#10;C:/develop/ideaproject/mavenweb&#10;C:/develop/ideaproject/mavendem/src/main/web/WEB-INF&#10;C:/develop/ideaproject/girl&#10;C:/develop/ideaproject/girl/src/main/java/com/study/girl&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9/conf/settings.xml&#10;C:/develop/mvn_repository&#10;C:/codeapp/Git/Git/cmd/git.exe&#10;C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9&#10;D:/picture/twow.png&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/aop/spring-aop-4.2.xsd&#10;D:/Java/java黑马32面授/spring（43-46天）/spring-day01/spring-day01/resource/spring-framework-4.2.4.RELEASE-dist/spring-framework-4.2.4.RELEASE/schema/beans/spring-beans-4.2.xsd&#10;C:/develop/apache-tomcat-8.5.27&#10;C:/develop/Java/jdk&#10;C:/develop/ideaproject&#10;D:/develop/idea/develop/hibernatedemo" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="109" />
+    <property name="lastTip" value="111" />
     <property name="KEYMAP" value="ful&#10;view&#10;full&#10;basic" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
-    <property name="selected.color.option.type" value="COFFEESCRIPT.BLOCK_COMMENT" />
-    <property name="ColorChooser.RecentColors" value="195-255-156-255" />
+    <property name="selected.color.option.type" value="ABSTRACT_CLASS_NAME_ATTRIBUTES" />
+    <property name="ColorChooser.RecentColors" value="195-255-156-255,,,65-12-22-255,,,228-94-66-255,,,226-228-219-255,,,62-255-50-255,,,0-0-0-255" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="PLUGIN_FILTER" value="gson&#10;checksty&#10;findbug&#10;uml&#10;myba" />
     <property name="plugins.preselection.path" value="D:/idea/plugin" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.27" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="330" />
+    <property name="file.gist.reindex.count" value="331" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
@@ -67,7 +67,7 @@
     <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
     <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
     <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.9233766" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.9590571" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="LAST_INJECTED_LANGUAGE" value="XML" />
@@ -81,9 +81,10 @@
     <property name="FrameworksFinderRecursivePanel[5]" value="0.6944444" />
     <property name="FileTemplates.CurrentTab" value="Other" />
     <property name="ignore.ide.set.hidpi.mode" value="true" />
-    <property name="ProjectStructure.TopLevelElements" value="0.15461704" />
+    <property name="ProjectStructure.TopLevelElements" value="0.10045662" />
     <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
     <property name="dir.diff.space.button.info" value="1" />
+    <property name="FileChooser.ShowPath" value="true" />
   </component>
 </application>

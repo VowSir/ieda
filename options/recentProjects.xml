@@ -2,6 +2,8 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="C:/develop/ideaproject/struts2" />
+        <option value="C:/develop/ideaproject/untitled" />
         <option value="C:/develop/ideaproject/strust2quickstart" />
         <option value="C:/develop/ideaproject/ajax" />
         <option value="C:/develop/ideaproject/sql" />
@@ -13,10 +15,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:/develop/ideaproject/strust2quickstart" />
+        <option value="C:/develop/ideaproject/struts2" />
       </list>
     </option>
-    <option name="lastPath" value="C:/develop/ideaproject/strust2quickstart" />
+    <option name="lastPath" value="C:/develop/ideaproject/struts2" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/develop/ideaproject">
@@ -256,8 +258,30 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1519476290457" />
-              <option name="buildTimestamp" value="1506404262899" />
+              <option name="projectOpenTimestamp" value="1519533833890" />
+              <option name="buildTimestamp" value="1506404275694" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/struts2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519556430951" />
+              <option name="buildTimestamp" value="1506404235783" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519532821760" />
+              <option name="buildTimestamp" value="1506404275694" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -269,6 +293,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1518940696876" />
               <option name="buildTimestamp" value="1506404239805" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519556118840" />
+              <option name="buildTimestamp" value="1506404235783" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
