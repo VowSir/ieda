@@ -1,6 +1,14 @@
 <keymap version="1" name="mingidea" parent="$default">
+  <action id="BaseOnThisFunction" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="HippieCompletion" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy.BaseOnThisType" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>

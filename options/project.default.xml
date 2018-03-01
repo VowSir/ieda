@@ -39,6 +39,11 @@
             <option name="userSettingsFile" value="C:\develop\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
           </MavenGeneralSettings>
         </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
       </component>
       <component name="MavenRunner">
         <option name="jreName" value="1.8" />
@@ -64,13 +69,24 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
               <splitter-proportions>

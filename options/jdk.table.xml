@@ -4,7 +4,7 @@
       <name value="1.8" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.8.0_161&quot;" />
-      <homePath value="C:/develop/Java/jdk" />
+      <homePath value="C:\develop\Java\jdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -39,7 +39,9 @@
           </root>
         </classPath>
         <javadocPath>
-          <root type="composite" />
+          <root type="composite">
+            <root type="simple" url="jar://C:/develop/Java/jdk-8u161-docs-all.zip!/docs/api" />
+          </root>
         </javadocPath>
         <sourcePath>
           <root type="composite">
