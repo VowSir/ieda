@@ -225,6 +225,20 @@
         <option name="tabIndex" value="2" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_strust2quickstart\logs\localhost.2018-03-01.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_strust2quickstart\logs\catalina.2018-03-01.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
         <option name="leftProportion" value="0.09429824" />
@@ -430,6 +444,90 @@
         <option name="tabIndex" value="2" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_strust2quickstart\logs\localhost.2018-03-01.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_strust2quickstart\logs\catalina.2018-03-01.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_struts2_2\logs\localhost.2018-02-27.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="3" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_struts2_2\logs\catalina.2018-02-27.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="4" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_struts2_2\logs\localhost.2018-03-01.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_struts2_2\logs\catalina.2018-03-01.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_struts2_2\logs\localhost.2018-03-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_struts2_2\logs\catalina.2018-03-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_exam\logs\localhost.2018-03-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_exam\logs\catalina.2018-03-02.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_hibernate_crm\logs\localhost.2018-03-03.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_hibernate_crm\logs\catalina.2018-03-03.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
         <option name="leftProportion" value="0.1995614" />
@@ -437,12 +535,28 @@
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
-        <option name="defaultIndex" value="3" />
+        <option name="defaultIndex" value="5" />
         <option name="index" value="1" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="6" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="3" />
+        <option name="index" value="3" />
+      </TabImpl>
+      <TabImpl>
         <option name="defaultIndex" value="4" />
+        <option name="index" value="4" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="5" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="6" />
         <option name="index" value="2" />
       </TabImpl>
       <General />
