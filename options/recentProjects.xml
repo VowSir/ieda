@@ -2,8 +2,10 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="C:/develop/ideaproject/hibernatebasic" />
         <option value="C:/develop/ideaproject/hibenate" />
         <option value="C:/develop/ideaproject/hibernate_crm" />
+        <option value="C:/develop/ideaproject/hibernate_maven" />
         <option value="C:/develop/ideaproject/exam" />
         <option value="C:/develop/ideaproject/struts2" />
         <option value="C:/develop/ideaproject/struts2quick/web" />
@@ -19,10 +21,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:/develop/ideaproject/exam" />
+        <option value="C:/develop/ideaproject/hibernatebasic" />
       </list>
     </option>
-    <option name="lastPath" value="C:/develop/ideaproject/hibenate" />
+    <option name="lastPath" value="C:/develop/ideaproject/hibernatebasic" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/develop/ideaproject">
@@ -196,8 +198,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520134777586" />
-              <option name="buildTimestamp" value="1506404242163" />
+              <option name="projectOpenTimestamp" value="1520316240430" />
+              <option name="buildTimestamp" value="1506404263675" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -218,8 +220,30 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520039514047" />
-              <option name="buildTimestamp" value="1506404248678" />
+              <option name="projectOpenTimestamp" value="1520244760959" />
+              <option name="buildTimestamp" value="1506404229366" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/hibernate_maven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520170470485" />
+              <option name="buildTimestamp" value="1506404229529" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/hibernatebasic">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520354105065" />
+              <option name="buildTimestamp" value="1506404259196" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

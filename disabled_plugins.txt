@@ -29,6 +29,7 @@ com.intellij.javaee.view
 com.intellij.jboss.arquillian
 com.intellij.jboss.core
 com.intellij.jbpm
+com.intellij.plugins.watcher
 com.intellij.seam
 com.intellij.seam.pageflow
 com.intellij.seam.pages

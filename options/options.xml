@@ -2,25 +2,25 @@
   <component name="PropertiesComponent">
     <property name="evlsprt3.172" value="14" />
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
-    <property name="FileTemplates.SelectedTemplate" value="Servlet Annotated Class" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="JavaEE" />
-    <property name="project.wizard.template" value="Java" />
-    <property name="file.chooser.recent.files" value="C:/develop/ideaproject/hibernate_crm/web/WEB-INF/lib&#10;C:/develop/ideaproject/exam/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2quick&#10;C:/develop/ideaproject/struts2quick/web&#10;C:/develop/ideaproject/strust2quickstart&#10;C:/develop/ideaproject/strust2quickstart/web/WEB-INF/classes&#10;C:/develop/ideaproject/strust2quickstart/.idea&#10;C:/ming/book/struts2&#10;C:/develop/ideaproject/hibenate/src/io/maang/entity/Customer.hbm.xml&#10;C:/ming/twow.png&#10;C:/develop/ideaproject/hibenatetest/web/WEB-INF/lib&#10;C:/develop/ideaproject/hibenate/web/WEB-INF/lib&#10;C:/develop/Java/jdk/bin&#10;C:/develop/ideaproject/sell&#10;C:/ming/book/struts2/struts-2.3.24&#10;C:/ming&#10;C:/develop/ideaproject/struts2/quickstart&#10;C:/develop/ideaproject/struts2/quickstart/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/struts2quick/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2&#10;C:/develop/ideaproject/struts2/src&#10;C:/ming/book/struts2/struts-2.3.24/src&#10;C:/idea/.IntelliJIdea/theme/1433232482.zip&#10;C:/idea/.IntelliJIdea/theme/1433952012.zip&#10;C:/develop/ideaproject/modulecreate/lib&#10;C:/develop/ideaproject/modulecreate/web/WEB-INF/lib&#10;C:/develop/ideaproject/ajax&#10;C:/develop/ideaproject/mavenweb&#10;C:/develop/ideaproject/mavendem/src/main/web/WEB-INF" />
+    <property name="project.wizard.template" value="JavaFX Application" />
+    <property name="file.chooser.recent.files" value="C:/ming/picture4k/狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:/develop/ideaproject/hibernatebasic&#10;C:/develop/ideaproject/hibernatebasic/web/WEB-INF/lib&#10;C:/develop/ideaproject/hibenate&#10;C:/develop/ideaproject/hibernate_maven/src/main/java/io/maang/entity/Customer.hbm.xml&#10;C:/develop/ideaproject/hibernate_crm/web/WEB-INF/lib&#10;C:/develop/ideaproject/exam/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2quick&#10;C:/develop/ideaproject/struts2quick/web&#10;C:/develop/ideaproject/strust2quickstart&#10;C:/develop/ideaproject/strust2quickstart/web/WEB-INF/classes&#10;C:/develop/ideaproject/strust2quickstart/.idea&#10;C:/ming/book/struts2&#10;C:/develop/ideaproject/hibenate/src/io/maang/entity/Customer.hbm.xml&#10;C:/ming/twow.png&#10;C:/develop/ideaproject/hibenatetest/web/WEB-INF/lib&#10;C:/develop/ideaproject/hibenate/web/WEB-INF/lib&#10;C:/develop/Java/jdk/bin&#10;C:/develop/ideaproject/sell&#10;C:/ming/book/struts2/struts-2.3.24&#10;C:/ming&#10;C:/develop/ideaproject/struts2/quickstart&#10;C:/develop/ideaproject/struts2/quickstart/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/struts2quick/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2&#10;C:/develop/ideaproject/struts2/src&#10;C:/ming/book/struts2/struts-2.3.24/src&#10;C:/idea/.IntelliJIdea/theme/1433232482.zip&#10;C:/idea/.IntelliJIdea/theme/1433952012.zip" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="128" />
+    <property name="lastTip" value="130" />
     <property name="KEYMAP" value="sel&#10;filed&#10;su&#10;sur&#10;impl" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
     <property name="selected.color.option.type" value="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
     <property name="ColorChooser.RecentColors" value="185-255-21-255,,,222-42-224-255,,,28-255-34-255,,,85-224-52-255,,,61-255-48-255,,,255-42-47-255,,,255-32-75-255,,,76-255-32-255,,,251-120-255-255,,,58-255-72-255,,,58-82-255-255,,,38-97-84-255,,,100-255-21-255,,,95-97-13-255,,,97-55-17-255,,,242-246-255-255,,,248-254-255-255,,,254-255-204-255,,,17-215-255-255,,,41-231-255-255" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="prom&#10;keyp&#10;ke&#10;key&#10;keypro" />
+    <property name="PLUGIN_FILTER" value="my&#10;mybatis&#10;myb&#10;fil&#10;File Watchers" />
     <property name="plugins.preselection.path" value="D:/idea/plugin" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.27" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="499" />
+    <property name="file.gist.reindex.count" value="527" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
@@ -37,8 +37,8 @@
     <property name="SpringBeansModulesPanel[0]" value="0.15467905" />
     <property name="LiveContextsPanel[1]" value="0.18796992" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
-    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="C:\ming\twow.png&#10;D:\picture\twow.png&#10;D:\ming\picture\two.jpg" />
-    <property name="idea.background.editor" value="C:\ming\twow.png,16,scale,center" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="C:\ming\twow.png&#10;D:\picture\twow.png&#10;D:\ming\picture\two.jpg&#10;C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg" />
+    <property name="idea.background.editor" value="C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,16,scale,center" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
@@ -67,7 +67,7 @@
     <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
     <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
     <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7655087" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.942928" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="LAST_INJECTED_LANGUAGE" value="XML" />
@@ -79,7 +79,6 @@
     <property name="FrameworksFinderRecursivePanel[3]" value="0.28985506" />
     <property name="FrameworksFinderRecursivePanel[4]" value="0.40899795" />
     <property name="FrameworksFinderRecursivePanel[5]" value="0.6944444" />
-    <property name="FileTemplates.CurrentTab" value="Other" />
     <property name="ignore.ide.set.hidpi.mode" value="true" />
     <property name="ProjectStructure.TopLevelElements" value="0.15461704" />
     <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
@@ -87,9 +86,9 @@
     <property name="dir.diff.space.button.info" value="1" />
     <property name="FileChooser.ShowPath" value="true" />
     <property name="dir.diff.panel.divider.location" value="150" />
-    <property name="idea.background.frame" value="C:\ming\twow.png,16,scale,center" />
+    <property name="idea.background.frame" value="C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,16,scale,center" />
     <property name="last.imported.location" value="C:/develop/ideaproject/strust2quickstart" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
-    <property name="search.everywhere.max.popup.width" value="770" />
+    <property name="MavenHelper.lastRadioButton" value="list" />
   </component>
 </application>

@@ -69,7 +69,7 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />

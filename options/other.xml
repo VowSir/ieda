@@ -6,8 +6,10 @@
   </component>
   <component name="PersistenceGenerationSettings">
     <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="" />
     <option name="generateAnnotations" value="false" />
     <option name="generateSingleXml" value="true" />
+    <option name="ENTITY_SUFFIX" value="" />
     <option name="GENERATE_ANNOTATIONS" value="false" />
     <option name="GENERATE_XML" value="true" />
     <option name="ADD_TO_UNIT" value="true" />
