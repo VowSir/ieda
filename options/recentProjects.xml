@@ -2,12 +2,14 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="C:/develop/ideaproject/ssh_crm" />
+        <option value="C:/develop/ideaproject/studyframwork" />
+        <option value="C:/develop/ideaproject/struts2" />
         <option value="C:/develop/ideaproject/hibernatebasic" />
         <option value="C:/develop/ideaproject/hibenate" />
         <option value="C:/develop/ideaproject/hibernate_crm" />
         <option value="C:/develop/ideaproject/hibernate_maven" />
         <option value="C:/develop/ideaproject/exam" />
-        <option value="C:/develop/ideaproject/struts2" />
         <option value="C:/develop/ideaproject/struts2quick/web" />
         <option value="C:/develop/ideaproject/sell" />
         <option value="C:/develop/ideaproject/struts2_maven" />
@@ -21,10 +23,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:/develop/ideaproject/hibernatebasic" />
+        <option value="C:/develop/ideaproject/ssh_crm" />
       </list>
     </option>
-    <option name="lastPath" value="C:/develop/ideaproject/hibernatebasic" />
+    <option name="lastPath" value="C:/develop/ideaproject/ssh_crm" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/develop/ideaproject">
@@ -198,8 +200,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520316240430" />
-              <option name="buildTimestamp" value="1506404263675" />
+              <option name="projectOpenTimestamp" value="1520560447608" />
+              <option name="buildTimestamp" value="1506404275749" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -220,8 +222,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520244760959" />
-              <option name="buildTimestamp" value="1506404229366" />
+              <option name="projectOpenTimestamp" value="1520555220202" />
+              <option name="buildTimestamp" value="1506404275749" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -242,8 +244,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520354105065" />
-              <option name="buildTimestamp" value="1506404259196" />
+              <option name="projectOpenTimestamp" value="1520581197668" />
+              <option name="buildTimestamp" value="1506404229264" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -346,6 +348,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/develop/ideaproject/ssh_crm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521021173143" />
+              <option name="buildTimestamp" value="1506404259842" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/develop/ideaproject/strust2quickstart">
           <value>
             <RecentProjectMetaInfo>
@@ -374,8 +387,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1519917223805" />
-              <option name="buildTimestamp" value="1506404232838" />
+              <option name="projectOpenTimestamp" value="1520919766106" />
+              <option name="buildTimestamp" value="1506404271010" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -409,6 +422,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1519910616418" />
               <option name="buildTimestamp" value="1506404220341" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/studyframwork">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520987343842" />
+              <option name="buildTimestamp" value="1506404268360" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -720,8 +744,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-02/代码/spring-demo4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520936735745" />
+              <option name="buildTimestamp" value="1506404249946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-03/代码/spring-demo5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520936674583" />
+              <option name="buildTimestamp" value="1506404249946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-03/代码/spring-demo6">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520936609351" />
+              <option name="buildTimestamp" value="1506404249946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="C:/develop/ideaproject" />
+    <option name="lastProjectLocation" value="D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-02/代码" />
   </component>
 </application>

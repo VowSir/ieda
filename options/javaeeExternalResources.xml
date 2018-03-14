@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.springframework.org/schema/context/spring-context.xsd" />
     <CATALOG_PROPERTIES />
   </component>
 </application>

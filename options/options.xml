@@ -2,29 +2,29 @@
   <component name="PropertiesComponent">
     <property name="evlsprt3.172" value="14" />
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FileTemplates.SelectedTemplate" value="hibernate.hbm.xml" />
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="JavaEE" />
-    <property name="project.wizard.template" value="JavaFX Application" />
-    <property name="file.chooser.recent.files" value="C:/ming/picture4k/狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:/develop/ideaproject/hibernatebasic&#10;C:/develop/ideaproject/hibernatebasic/web/WEB-INF/lib&#10;C:/develop/ideaproject/hibenate&#10;C:/develop/ideaproject/hibernate_maven/src/main/java/io/maang/entity/Customer.hbm.xml&#10;C:/develop/ideaproject/hibernate_crm/web/WEB-INF/lib&#10;C:/develop/ideaproject/exam/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2quick&#10;C:/develop/ideaproject/struts2quick/web&#10;C:/develop/ideaproject/strust2quickstart&#10;C:/develop/ideaproject/strust2quickstart/web/WEB-INF/classes&#10;C:/develop/ideaproject/strust2quickstart/.idea&#10;C:/ming/book/struts2&#10;C:/develop/ideaproject/hibenate/src/io/maang/entity/Customer.hbm.xml&#10;C:/ming/twow.png&#10;C:/develop/ideaproject/hibenatetest/web/WEB-INF/lib&#10;C:/develop/ideaproject/hibenate/web/WEB-INF/lib&#10;C:/develop/Java/jdk/bin&#10;C:/develop/ideaproject/sell&#10;C:/ming/book/struts2/struts-2.3.24&#10;C:/ming&#10;C:/develop/ideaproject/struts2/quickstart&#10;C:/develop/ideaproject/struts2/quickstart/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/struts2quick/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2&#10;C:/develop/ideaproject/struts2/src&#10;C:/ming/book/struts2/struts-2.3.24/src&#10;C:/idea/.IntelliJIdea/theme/1433232482.zip&#10;C:/idea/.IntelliJIdea/theme/1433952012.zip" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="file.chooser.recent.files" value="D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-02/代码/spring-demo4/WebContent/WEB-INF/lib&#10;D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-02/代码/spring-demo4&#10;D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-03/代码/spring-demo5&#10;D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-03/代码/spring-demo6&#10;C:/ming/book/spring/zip&#10;C:/ming/book&#10;C:/develop/ideaproject/ssh_crm/web/WEB-INF/lib&#10;C:/develop/ideaproject/studyframwork/web/WEB-INF/lib&#10;C:/develop/ideaproject/studyframwork&#10;C:/ming/picture4k/狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:/ming/picture4k/717234.jpg&#10;C:/ming/picture4k/485812.jpg&#10;C:/ming/picture4k/468739.jpg&#10;C:/develop/ideaproject/hibernatebasic&#10;C:/develop/ideaproject/hibernatebasic/web/WEB-INF/lib&#10;C:/develop/ideaproject/hibenate&#10;C:/develop/ideaproject/hibernate_maven/src/main/java/io/maang/entity/Customer.hbm.xml&#10;C:/develop/ideaproject/hibernate_crm/web/WEB-INF/lib&#10;C:/develop/ideaproject/exam/web/WEB-INF/lib&#10;C:/develop/ideaproject/struts2quick&#10;C:/develop/ideaproject/struts2quick/web&#10;C:/develop/ideaproject/strust2quickstart&#10;C:/develop/ideaproject/strust2quickstart/web/WEB-INF/classes&#10;C:/develop/ideaproject/strust2quickstart/.idea&#10;C:/ming/book/struts2&#10;C:/develop/ideaproject/hibenate/src/io/maang/entity/Customer.hbm.xml&#10;C:/ming/twow.png&#10;C:/develop/ideaproject/hibenatetest/web/WEB-INF/lib&#10;C:/develop/ideaproject/hibenate/web/WEB-INF/lib&#10;C:/develop/Java/jdk/bin" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="130" />
-    <property name="KEYMAP" value="sel&#10;filed&#10;su&#10;sur&#10;impl" />
+    <property name="KEYMAP" value="comment with&#10;du&#10;sel&#10;filed&#10;su" />
     <property name="typescript.show.auto.import" value="true" />
     <property name="es6.show.auto.import" value="true" />
     <property name="selected.color.option.type" value="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
     <property name="ColorChooser.RecentColors" value="185-255-21-255,,,222-42-224-255,,,28-255-34-255,,,85-224-52-255,,,61-255-48-255,,,255-42-47-255,,,255-32-75-255,,,76-255-32-255,,,251-120-255-255,,,58-255-72-255,,,58-82-255-255,,,38-97-84-255,,,100-255-21-255,,,95-97-13-255,,,97-55-17-255,,,242-246-255-255,,,248-254-255-255,,,254-255-204-255,,,17-215-255-255,,,41-231-255-255" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="my&#10;mybatis&#10;myb&#10;fil&#10;File Watchers" />
+    <property name="PLUGIN_FILTER" value="vim&#10;asp&#10;my&#10;mybatis&#10;myb" />
     <property name="plugins.preselection.path" value="D:/idea/plugin" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.27" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="527" />
+    <property name="file.gist.reindex.count" value="594" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="4" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="spring.initializr.service.url.history" value="" />
@@ -37,8 +37,8 @@
     <property name="SpringBeansModulesPanel[0]" value="0.15467905" />
     <property name="LiveContextsPanel[1]" value="0.18796992" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
-    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="C:\ming\twow.png&#10;D:\picture\twow.png&#10;D:\ming\picture\two.jpg&#10;C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg" />
-    <property name="idea.background.editor" value="C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,16,scale,center" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:\ming\twow.png&#10;D:\picture\twow.png&#10;D:\ming\picture\two.jpg" />
+    <property name="idea.background.editor" value="C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,3,scale,center" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
@@ -67,7 +67,7 @@
     <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
     <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
     <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.942928" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.75714284" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="LAST_INJECTED_LANGUAGE" value="XML" />
@@ -86,9 +86,11 @@
     <property name="dir.diff.space.button.info" value="1" />
     <property name="FileChooser.ShowPath" value="true" />
     <property name="dir.diff.panel.divider.location" value="150" />
-    <property name="idea.background.frame" value="C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,16,scale,center" />
+    <property name="idea.background.frame" value="C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,58,scale,center" />
     <property name="last.imported.location" value="C:/develop/ideaproject/strust2quickstart" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="MavenHelper.lastRadioButton" value="list" />
+    <property name="ideavim.statistics.timestamp" value="1520904613714" />
+    <property name="search.everywhere.max.popup.width" value="770" />
   </component>
 </application>
