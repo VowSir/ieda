@@ -3,8 +3,8 @@
     <option name="recentPaths">
       <list>
         <option value="C:/develop/ideaproject/ssh_crm" />
-        <option value="C:/develop/ideaproject/studyframwork" />
         <option value="C:/develop/ideaproject/struts2" />
+        <option value="C:/develop/ideaproject/studyframwork" />
         <option value="C:/develop/ideaproject/hibernatebasic" />
         <option value="C:/develop/ideaproject/hibenate" />
         <option value="C:/develop/ideaproject/hibernate_crm" />
@@ -354,8 +354,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1521021173143" />
-              <option name="buildTimestamp" value="1506404259842" />
+              <option name="projectOpenTimestamp" value="1521273526917" />
+              <option name="buildTimestamp" value="1506404239670" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -387,8 +387,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520919766106" />
-              <option name="buildTimestamp" value="1506404271010" />
+              <option name="projectOpenTimestamp" value="1521268768421" />
+              <option name="buildTimestamp" value="1506404244840" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -431,8 +431,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520987343842" />
-              <option name="buildTimestamp" value="1506404268360" />
+              <option name="projectOpenTimestamp" value="1521221464630" />
+              <option name="buildTimestamp" value="1506404277372" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -774,6 +774,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1520936609351" />
               <option name="buildTimestamp" value="1506404249946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SSH">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521050980340" />
+              <option name="buildTimestamp" value="1506404266936" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
