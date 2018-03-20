@@ -281,6 +281,20 @@
         <option name="tabIndex" value="2" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_ssh_demo1_2\logs\localhost.2018-03-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_ssh_demo1_2\logs\catalina.2018-03-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
         <option name="leftProportion" value="0.09409191" />
@@ -710,6 +724,48 @@
         <option name="tabIndex" value="2" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_ssh_crm\logs\localhost.2018-03-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Tomcat_8_5_27_ssh_crm\logs\catalina.2018-03-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_ssh_demo1_2\logs\localhost.2018-03-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_ssh_demo1_2\logs\catalina.2018-03-18.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_maven\logs\localhost.2018-03-20.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_maven\logs\catalina.2018-03-20.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
         <option name="leftProportion" value="0.1963895" />
@@ -732,6 +788,14 @@
       <TabImpl>
         <option name="defaultIndex" value="4" />
         <option name="index" value="4" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="5" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="6" />
+        <option name="index" value="2" />
       </TabImpl>
       <General />
     </runner>

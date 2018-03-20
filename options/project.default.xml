@@ -41,6 +41,8 @@
         </option>
         <option name="importingSettings">
           <MavenImportingSettings>
+            <option name="downloadDocsAutomatically" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
             <option name="importAutomatically" value="true" />
           </MavenImportingSettings>
         </option>
@@ -69,7 +71,7 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="editing.templates" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />

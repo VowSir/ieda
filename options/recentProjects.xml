@@ -2,31 +2,18 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="C:/develop/ideaproject/maven" />
         <option value="C:/develop/ideaproject/ssh_crm" />
         <option value="C:/develop/ideaproject/struts2" />
         <option value="C:/develop/ideaproject/studyframwork" />
         <option value="C:/develop/ideaproject/hibernatebasic" />
         <option value="C:/develop/ideaproject/hibenate" />
-        <option value="C:/develop/ideaproject/hibernate_crm" />
-        <option value="C:/develop/ideaproject/hibernate_maven" />
-        <option value="C:/develop/ideaproject/exam" />
-        <option value="C:/develop/ideaproject/struts2quick/web" />
         <option value="C:/develop/ideaproject/sell" />
-        <option value="C:/develop/ideaproject/struts2_maven" />
-        <option value="C:/develop/ideaproject/ajax" />
-        <option value="C:/develop/ideaproject/sql" />
         <option value="C:/develop/ideaproject/girl" />
         <option value="C:/develop/ideaproject/web" />
-        <option value="C:/develop/ideaproject/springboot" />
-        <option value="C:/develop/ideaproject/springfirst" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="C:/develop/ideaproject/ssh_crm" />
-      </list>
-    </option>
-    <option name="lastPath" value="C:/develop/ideaproject/ssh_crm" />
+    <option name="lastPath" value="C:/develop/ideaproject/maven" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/develop/ideaproject">
@@ -260,6 +247,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/develop/ideaproject/maven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521514730316" />
+              <option name="buildTimestamp" value="1506404276660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/develop/ideaproject/mavendem">
           <value>
             <RecentProjectMetaInfo>
@@ -354,8 +352,8 @@
               <option name="build" value="IU-172.4343.14" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1521273526917" />
-              <option name="buildTimestamp" value="1506404239670" />
+              <option name="projectOpenTimestamp" value="1521334655232" />
+              <option name="buildTimestamp" value="1506404230334" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -744,6 +742,28 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/download/ssh/maven">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521357584299" />
+              <option name="buildTimestamp" value="1506404260841" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/download/ssh/ssh_demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521357506484" />
+              <option name="buildTimestamp" value="1506404260841" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-02/代码/spring-demo4">
           <value>
             <RecentProjectMetaInfo>
@@ -790,6 +810,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="D:/javaee/JAVA课堂文件/5 框架ssh/spring/spring-02/代码" />
+    <option name="lastProjectLocation" value="C:/develop/ideaproject" />
   </component>
 </application>
