@@ -64,8 +64,9 @@
       <entry action="RunToCursor@DebuggerToolbar" count="3" />
       <entry action="Runner.RestoreLayout@DebuggerToolbar" count="2" />
       <entry action="ShowExecutionPoint@DebuggerToolbar" count="52" />
-      <entry action="ShowProjectStructureSettings@MainToolbar" count="270" />
-      <entry action="ShowSettings@MainToolbar" count="380" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="271" />
+      <entry action="ShowSettings@MainToolbar" count="383" />
+      <entry action="StartStopMacroRecording@StatusBarPlace" count="1" />
       <entry action="StepInto@DebuggerToolbar" count="471" />
       <entry action="StepOut@DebuggerToolbar" count="25" />
       <entry action="StepOver@DebuggerToolbar" count="917" />

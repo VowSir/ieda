@@ -49,7 +49,7 @@
       <entry action="CompareFileWithEditor" count="1" />
       <entry action="CompareTwoFiles" count="2" />
       <entry action="Compile" count="2" />
-      <entry action="CompileDirty" count="29" />
+      <entry action="CompileDirty" count="42" />
       <entry action="Console.Jdbc.Execute" count="174" />
       <entry action="Console.TableResult.AddRow" count="20" />
       <entry action="Console.TableResult.ChangeColumnLanguage" count="4" />
@@ -89,9 +89,10 @@
       <entry action="DebugClass" count="1" />
       <entry action="Debugger.AddToWatch" count="1" />
       <entry action="Debugger.PopFrame" count="3" />
+      <entry action="EditMacros" count="1" />
       <entry action="EditSource" count="3" />
       <entry action="EditSourceInNewWindow" count="16" />
-      <entry action="EditorBackSpace" count="19939" />
+      <entry action="EditorBackSpace" count="19942" />
       <entry action="EditorBreadcrumbsShowAbove" count="2" />
       <entry action="EditorBreadcrumbsShowBelow" count="2" />
       <entry action="EditorChooseLookupItem" count="7095" />
@@ -233,6 +234,7 @@
       <entry action="JumpToLastChange" count="69" />
       <entry action="JumpToLastWindow" count="1" />
       <entry action="LocalHistory.PutLabel" count="1" />
+      <entry action="Macro.autoMake" count="12" />
       <entry action="MakeModule" count="2" />
       <entry action="ManageRecentProjects" count="1" />
       <entry action="MarkExcludeRoot" count="1" />
@@ -296,7 +298,7 @@
       <entry action="RunJsbtTask" count="1" />
       <entry action="RunToCursor" count="3" />
       <entry action="Runner.RestoreLayout" count="2" />
-      <entry action="SaveAll" count="40" />
+      <entry action="SaveAll" count="53" />
       <entry action="SearchEverywhere" count="145" />
       <entry action="SelectAllOccurrences" count="42" />
       <entry action="SelectNextOccurrence" count="124" />
@@ -305,15 +307,16 @@
       <entry action="ShowFilePath" count="3" />
       <entry action="ShowIntentionActions" count="905" />
       <entry action="ShowPackageDeps" count="1" />
-      <entry action="ShowProjectStructureSettings" count="271" />
+      <entry action="ShowProjectStructureSettings" count="272" />
       <entry action="ShowRecentTests" count="2" />
       <entry action="ShowReformatFileDialog" count="2" />
-      <entry action="ShowSettings" count="380" />
+      <entry action="ShowSettings" count="383" />
       <entry action="ShowUmlDiagram" count="4" />
       <entry action="ShowUmlDiagramPopup" count="2" />
       <entry action="SmartTypeCompletion" count="13" />
       <entry action="Spring.Create.Context.File" count="2" />
       <entry action="Start.Use.Vcs" count="1" />
+      <entry action="StartStopMacroRecording" count="2" />
       <entry action="StepInto" count="471" />
       <entry action="StepOut" count="25" />
       <entry action="StepOver" count="917" />

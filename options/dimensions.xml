@@ -118,6 +118,7 @@
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080@120dpi" x="575" y="417" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1080@120dpi" x="686" y="381" />
     <location key="Maven.ArtifactSearchDialog.0.0.1920.1080@120dpi" x="376" y="89" />
+    <location key="#com.intellij.ide.actionMacro.EditMacrosDialog.0.0.1920.1080@120dpi" x="786" y="368" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="686" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
@@ -175,5 +176,6 @@
     <size key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" width="880" height="646" />
     <size key="struts2 file set editor.0.0.1920.1080@120dpi" width="1067" height="618" />
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080@120dpi" width="1113" height="685" />
+    <size key="#com.intellij.ide.actionMacro.EditMacrosDialog.0.0.1920.1080@120dpi" width="527" height="293" />
   </component>
 </application>

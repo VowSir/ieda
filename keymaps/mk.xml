@@ -13,7 +13,11 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="HippieCompletion" />
+  <action id="Macro.autoMake">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
