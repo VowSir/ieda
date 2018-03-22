@@ -35,11 +35,9 @@
                 <prop key="hibernate.format_sql">true</prop>
             </props>
         </property>
-        <!-- 映射文件 -->
-        <property name="mappingResources">
-            <list>
-                <value>io/man/entity/*.hbm.xml</value>
-            </list>
+         <!-- 映射文件 -->
+        <property name="mappingLocations">
+                <value>classpath:io/man/mavenweb/entity/*.hbm.xml</value>
         </property>
 
     </bean>

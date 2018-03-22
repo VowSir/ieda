@@ -22,11 +22,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://Mingming:8443/svn/svntest/" />
         <option value="https://github.com/maangming/hibenatedemo.git" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://Mingming:8443/svn/svntest/" />
         <option value="https://github.com/maangming/hibenatedemo.git" />
       </list>
     </option>

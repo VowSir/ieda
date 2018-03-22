@@ -71,7 +71,11 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+        <property name="last_opened_file_path" value="C:/codeapp/TortoiseSVN" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration useDefault="false">C:\codeapp\TortoiseSVN</configuration>
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
