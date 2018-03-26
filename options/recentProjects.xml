@@ -2,17 +2,15 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="C:/develop/ideaproject/sell" />
-        <option value="C:/codeapp/TortoiseSVN/springboot_study" />
-        <option value="C:/develop/ideaproject/maven" />
-        <option value="C:/develop/ideaproject/erp_parent" />
-        <option value="C:/develop/ideaproject/hibernatebasic" />
-        <option value="C:/develop/ideaproject/struts2" />
-        <option value="C:/develop/ideaproject/ssh_crm" />
-        <option value="C:/develop/ideaproject/studyframwork" />
-        <option value="C:/develop/ideaproject/girl" />
+        <option value="C:/develop/ideaproject/bos_2.0" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:/develop/ideaproject/bos_2.0" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:/develop/ideaproject/bos_2.0" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/codeapp/TortoiseSVN/springboot_study">
@@ -70,14 +68,58 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/develop/ideaproject/bos_2.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522049307040" />
+              <option name="buildTimestamp" value="1510606436193" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/bos_2.0/bos_parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521992177773" />
+              <option name="buildTimestamp" value="1510606402868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/bos_parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521903965333" />
+              <option name="buildTimestamp" value="1510606411952" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideaproject/common_parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521991521007" />
+              <option name="buildTimestamp" value="1510606402868" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/develop/ideaproject/dd">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4343.14" />
+              <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518762293291" />
-              <option name="buildTimestamp" value="1506404225649" />
+              <option name="projectOpenTimestamp" value="1521873824973" />
+              <option name="buildTimestamp" value="1510606385894" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -95,11 +137,11 @@
         <entry key="C:/develop/ideaproject/demo">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4343.14" />
+              <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518758496904" />
-              <option name="buildTimestamp" value="1506404253909" />
+              <option name="projectOpenTimestamp" value="1521873320349" />
+              <option name="buildTimestamp" value="1510606418501" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -139,11 +181,11 @@
         <entry key="C:/develop/ideaproject/deom">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4343.14" />
+              <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518771790263" />
-              <option name="buildTimestamp" value="1506404231266" />
+              <option name="projectOpenTimestamp" value="1521992421756" />
+              <option name="buildTimestamp" value="1510606420155" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -502,11 +544,11 @@
         <entry key="C:/develop/ideaproject/untitled">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4343.14" />
+              <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1519556118840" />
-              <option name="buildTimestamp" value="1506404235783" />
+              <option name="projectOpenTimestamp" value="1521873018025" />
+              <option name="buildTimestamp" value="1510606424094" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -853,6 +895,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="C:/codeapp/TortoiseSVN" />
+    <option name="lastProjectLocation" value="C:/develop/ideaproject" />
   </component>
 </application>

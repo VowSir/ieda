@@ -34,9 +34,9 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="localRepository" value="C:\develop\mvn_repository" />
-            <option name="mavenHome" value="C:/develop/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
-            <option name="userSettingsFile" value="C:\develop\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+            <option name="localRepository" value="C:\develop\mymaven\repository" />
+            <option name="mavenHome" value="C:/develop/apache-maven-3.5.2" />
+            <option name="userSettingsFile" value="C:\develop\mymaven\settings.xml" />
           </MavenGeneralSettings>
         </option>
         <option name="importingSettings">
@@ -71,8 +71,8 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
-        <property name="last_opened_file_path" value="C:/codeapp/TortoiseSVN" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="last_opened_file_path" value="C:/decodeapp/Git/git/bin/git.exe" />
       </component>
       <component name="SvnConfiguration">
         <configuration useDefault="false">C:\codeapp\TortoiseSVN</configuration>

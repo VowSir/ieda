@@ -10,14 +10,13 @@ corresponding vendors for additional details.
   Commons Digester 1.8, Commons IO 1.4, Commons Lang 2.6, Commons Lang 3.1,
   Commons Logging 1.1.3, Commons Validator 1.4.0, Apache Harmony and XML Resolver is held by Apache Software Foundation.
   Apache Harmony was included via and with the modifications by Android libcore 4.4.2_r2. 
-  Copyright for Google Gson 2.2.4 and Guava 12.0.1 is held by Google Inc.
+  Copyright for Google Gson 2.2.4 is held by Google Inc.
   Copyright for AntPathMatcher (derivative work based on Spring Framework) is held by SpringSource.
   Copyright for WeakIdentityHashMap.java (derivative work based on MapDB) is held by MapDB.
   Copyright for JavaRebel Stripes Plugin 1.0.12 is held by Andreas Knifh. JRebel embeds a derivative work based on it.
   Copyright for JSON Simple 1.1 is held by Yidong Fang and Chris Nokleberg.
   Copyright for Jetty 6.1.26 is held by Mort Bay Consulting Pty Ltd.
   Copyright for Java Image Filters 2.0.235 is held by JH Labs.
-  Copyright for Jackson Annotations 2.6.0, Jackson Core 2.6.7 and Jackson Databind 2.6.7 is held by FasterXML, LLC.
   Copyright for FSNotifier library is held by JetBrains.
   Copyright for StringUtils.java (extracted from Spring Framework) is held by SpringSource.
   Copyright for ZT Zip is held by ZeroTurnaround.
@@ -693,6 +692,7 @@ corresponding vendors for additional details.
 
 
 * Logback 1.0.9 is also licensed under the Eclipse Public License, version 1.0.
+  Copyright for launchingsupport.jar (extracted from Eclipse Java Development Tools) is held by Eclipse Foundation.
   Copyright for SWT Designer is held by Google, Inc. JRebel embeds a derivative works based on it. Sources for it are made available via Eclipse update-site.zip distribution.
   They are all licensed under Eclipse Public License 1.0. 
 
@@ -913,7 +913,7 @@ corresponding vendors for additional details.
 
 
 
-* Copyright for ASM (asm-all 4.1, 6.0 and asm-debug-all 6.0) is held by INRIA, France Telecom.
+* Copyright for ASM (asm-all 4.1 and asm-debug-all 5.0.3) is held by INRIA, France Telecom.
   They are licensed under the 3-clause BSD license:
 
 
@@ -960,18 +960,6 @@ corresponding vendors for additional details.
 
 
 
-* MurmurHash3 java port was originally created Yonik Seeley.
-  The software is released as public domain software, giving up any copyrights whatsoever. Software is distributed
-  with the following notes:
-  
-  
-            The MurmurHash3 algorithm was created by Austin Appleby and placed in the public domain.
-            his java port was authored by Yonik Seeley and also placed into the public domain.
-            he author hereby disclaims copyright to this source code.
-
-
-
-
 * Copyright for NanoXml Lite 2.2.3 is held by Marc De Scheemaecke.
   The software is licensed under the Zlib/Libpng License:
 
@@ -995,10 +983,10 @@ corresponding vendors for additional details.
 
 
 
-* Copyright for Bouncy Castle 1.55.0 is held by The Legion Of The Bouncy Castle. 
+* Copyright for Bouncy Castle 1.49.0 is held by The Legion Of The Bouncy Castle. 
   Copyright for Analytics Java 0.2.0 is held by Segment, Inc.
   Copyright for SLF4J (API and JCL over SLF4j) 1.6.3 is held by QOS.ch.
-  Copyright for Bugsnag Java notifier 1.3.0 and 3.0.2 is held by Bugsnag Inc.
+  Copyright for Bugsnag Java notifier 1.3.0 is held by Bugsnag Inc.
   Copyright for JSON in Java 20140107 is held by JSON.org.
   They are all licensed under the MIT X11 License (with JSON in Java having the additional restriction: "The software shall be used for good, not evil."):
 

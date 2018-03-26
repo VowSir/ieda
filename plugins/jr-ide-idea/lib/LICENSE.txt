@@ -1,62 +1,86 @@
 License Agreement for ZeroTurnaround Software
-The ZeroTurnaround combined EULA is applicable to all JRebel, XRebel and JRebel for Android licenses. The initial applicable revision of EULA is the latest revision at the moment of purchase of license or acceptance of this Agreement. The applicable EULA revision might change based on section "Alteration of Terms".
+The ZeroTurnaround combined EULA is applicable to all JRebel, XRebel and JRebel for Android licenses purchased on or after 1 September 2015. The initial applicable revision of EULA is the latest revision at the moment of purchase of license or acceptance of this Agreement. The applicable EULA revision might change based on section "Alteration of Terms".
 
-(revision of April 4th, 2017; version 3.8)
+(revision of 2017-01-16; version 3.7)
 
 NOTICE TO ALL USERS: PLEASE READ THIS AGREEMENT CAREFULLY. THIS AGREEMENT HAS BEEN MADE AVAILABLE TO YOU ON ZEROTURNAROUND'S WEBSITE (http://www.zeroturnaround.com) PRIOR TO YOUR PURCHASE OF LICENSE CERTIFICATE OR PRIOR TO INSTALLATION OF LICENSED SOFTWARE FOR EVALUATION. BY PURCHASING THE LICENSE CERTIFICATE OR BY INSTALLING THE LICENSED SOFTWARE INTO YOUR COMPUTER FOR EVALUATION OR OTHER USAGE, YOU HAVE AGREED THAT THIS AGREEMENT IS ENFORCEABLE LIKE ANY WRITTEN CONTRACT SIGNED BY YOU.
 
 
 I. DEFINITIONS
 
-1. "Affiliate" - Any entity belonging to the same group as the Licensor.
+1. "JRebel Software", "XRebel Software", "JRebel for Android Software" - The software program distributed by the Licensor or its distributors, resellers or other authorized business partners, under the name JRebel (or XRebel, or JRebel for Android, respectively) (or under a replacement product name, should the product be renamed in the future), as produced by the Licensor, including its documentation, related explanatory materials in printed, electronic, or online form, and upgrades, updates and modified or subsequent versions of the software.
 
-2. "Agreement" - This end-user license agreement, the current document.
 
-3. "Authorized User(s)" - A natural person or persons that are granted the License to Use Licensed Software according to section III ("Grant of License").
+2. "Licensed Software" - the JRebel Software, the XRebel Software, or the JRebel for Android Software, depending on what the Licensor has licensed to the Licensee.
 
-4. "Business Day" - Business days of Licensor are all days from Monday to Friday, excluding the following dates of the year: 1st of January, 24th of February, 1st of May, 23rd-24th of June, 20th of August, 24th -26th of December.
 
-5. "Business Hours" - The regular business hours for Licensor are 08:00-17:00 GMT (09:00-18:00 CET) on all Business Days.
+3. "to Use the Licensed Software" - To store, load, install, execute, evaluate and/or display (to "Use") the Licensed Software.
 
-6. "Commercial Licensee" - A Licensee who is holding or who has been holding a valid non-free License Certificate.
 
-7. "E-mail Support" - A form of customer support provided by the Licensor. At the time of writing, the corresponding e-mail address is support@zeroturnaround.com; should the address be changed, the new address will be referred to on the Licensor's web site.
+4. "Licensor" - ZeroTurnaround AS, company established under the laws of Estonia, with registration number 11655017 and with its address at Ülikooli 2, Tartu 51006, Estonia. The legal identity of the Licensor may change due to a merger, acquisition or other types of succession. This Agreement can be assigned along with the IP Rights for the Licensed Software.
 
-8. "Employee of Licensee" - A natural person who is an employee, independent contractor or other temporary worker, or a member of the Licensee or its affiliates.
 
-9. "Evaluating Licensee" - A natural person who does not hold and has never been holding a License Certificate and who wants to try Licensed Software for evaluation purposes and who has not been using Licensed Software before the current evaluation period.
+5. "Licensee" - You, the end user of the Licensed Software; a natural or a legal person or entity. The legal identity of the Licensee may change due to a merger, acquisition or other types of succession.
 
-10. "Forum Support" - A form of customer support provided by the Licensor. At the time of writing, the corresponding web address is http://zeroturnaround.com/forums ; should the address be changed, the new address will be referred to on the Licensor's web site.
 
-11. "IP Rights" - Intellectual property rights, such as (i) patents, pending patent applications, designs, trademarks and trade names (whether registered or unregistered), copyright and related rights, database rights, knowhow and confidential information; (ii) all other intellectual property rights and similar or equivalent rights anywhere in the world which currently exist or are recognized in the future; and (iii) applications, extensions and renewals in relation to any such rights.
+6. "License" - The license to Use the Licensed Software, as granted to the Licensee in section III ("Grant of License").
 
-12. "JRebel Software", "XRebel Software", "JRebel for Android Software" - The software program distributed by the Licensor or its distributors, resellers or other authorized business partners, under the name JRebel (or XRebel, or JRebel for Android, respectively) (or under a replacement product name, should the product be renamed in the future), as produced by the Licensor, including its documentation, related explanatory materials in printed, electronic, or online form, and upgrades, updates and modified or subsequent versions of the software.
 
-13. "License" - The license to Use the Licensed Software, as granted to the Licensee in section III ("Grant of License").
+7. "IP Rights" - Intellectual property rights, such as (i) patents, pending patent applications, designs, trademarks and trade names (whether registered or unregistered), copyright and related rights, database rights, knowhow and confidential information; (ii) all other intellectual property rights and similar or equivalent rights anywhere in the world which currently exist or are recognized in the future; and (iii) applications, extensions and renewals in relation to any such rights.
 
-14. "License Certificate" - Evidence of a license provided by Licensor to Licensee in electronic or printed form. 
+
+8. "myJRebel Website" - The public website run by the Licensor serving online licenses for JRebel Software. Refer to the general website of the Licensor for address and specific details.
+
+
+9. "License Key" - A unique key-code that enables an Authorized User to use Licensed Software by unlocking the copy protection mechanism. Only Licensor and/or its representatives are permitted to produce License Keys for the Licensed Software.
+
+
+10. "License Certificate" - Evidence of a license provided by Licensor to Licensee in electronic or printed form. 
 (i) Any e-mail from the Licensor including a License Key and intending to grant or extend the license to Use the Licensed Software is construed as a License Certificate.
 (ii) Active product subscription on myJRebel Website is construed as a License Certificate.
 
-15. "License Key" - A unique key-code that enables an Authorized User to use Licensed Software by unlocking the copy protection mechanism. Only Licensor and/or its representatives are permitted to produce License Keys for the Licensed Software.
 
-16. "Licensed Software" - the JRebel Software, the XRebel Software, or the JRebel for Android Software, depending on what the Licensor has licensed to the Licensee.
+11. "Unpaid Licensee" - A Licensee who is holding an Evaluation License, a Donated License, a Social License or any other type of License that he has not paid the Licensor for.
 
-17. "Licensee" - You, the end user of the Licensed Software; a natural or a legal person or entity. The legal identity of the Licensee may change due to a merger, acquisition or other types of succession.
 
-18. "Licensor" - ZeroTurnaround AS, company established under the laws of Estonia, with registration number 11655017 and with its address at Ülikooli 2, Tartu 51006, Estonia. The legal identity of the Licensor may change due to a merger, acquisition or other types of succession. This Agreement can be assigned along with the IP Rights for the Licensed Software.
+12. "Evaluating Licensee" - A natural person who does not hold and has never been holding a License Certificate and who wants to try Licensed Software for evaluation purposes and who has not been using Licensed Software before the current evaluation period.
 
-19. "myJRebel Website" - The public website run by the Licensor serving online licenses for JRebel Software. Refer to the general website of the Licensor for address and specific details.
 
-20. "Personal Data" - Any personal data which the Licensee has forwarded or may forward (at any time in the future) to the Licensor and/or any Affiliate.
+13. "Commercial Licensee" - A Licensee who is holding or who has been holding a valid non-free License Certificate.
 
-21. "Seat" - A license and right to unlock and use Licensed Software via ZeroTurnaround License Server licensing for a single user on terms and conditions set forth by the corresponding License uploaded to the License Server.
 
-22. "Third Party Software" - Software and other materials prepared and owned by software vendors other than Licensor.
+14. "Agreement" - This end-user license agreement, the current document.
 
-23. "to Use the Licensed Software" - To store, load, install, execute, evaluate and/or display (to "Use") the Licensed Software.
 
-24. "Unpaid Licensee" - A Licensee who is holding an Evaluation License, a Donated License, a Social License or any other type of License that he has not paid the Licensor for.
+15. "Authorized User(s)" - A natural person or persons that are granted the License to Use Licensed Software according to section III ("Grant of License").
+
+
+16. "Employee of Licensee" - A natural person who is an employee, independent contractor or other temporary worker, or a member of the Licensee or its affiliates.
+
+
+17. "Seat" - A license and right to unlock and use Licensed Software via ZeroTurnaround License Server licensing for a single user on terms and conditions set forth by the corresponding License uploaded to the License Server.
+
+
+18. "Third Party Software" - Software and other materials prepared and owned by software vendors other than Licensor.
+
+
+19. "Business Day" - Business days of Licensor are all days from Monday to Friday, excluding the following dates of the year: 1st of January, 24th of February, 1st of May, 23rd-24th of June, 20th of August, 24th -26th of December.
+
+
+20. "Business Hours" - The regular business hours for Licensor are 08:00-17:00 GMT (09:00-18:00 CET) on all Business Days.
+
+
+21. "E-mail Support" - A form of customer support provided by the Licensor. At the time of writing, the corresponding e-mail address is support@zeroturnaround.com; should the address be changed, the new address will be referred to on the Licensor's web site.
+
+
+22. "Forum Support" - A form of customer support provided by the Licensor. At the time of writing, the corresponding web address is http://zeroturnaround.com/forums ; should the address be changed, the new address will be referred to on the Licensor's web site.
+
+
+23. "Affiliate" - Any entity belonging to the same group as the Licensor.
+
+
+24. "Personal Data" - Any personal data which the Licensee has forwarded or may forward (at any time in the future) to the Licensor and/or any Affiliate.
+
 
 
 II. INTELLECTUAL PROPERTY RIGHTS
@@ -117,7 +141,7 @@ All types of Licenses are independent of the product version of the Licensed Sof
 (ii) By upgrading to a newer version, the Licensee accepts the terms and conditions of the Agreement attached to the newer version if the Agreement has changed between the two versions of the Licensed Software.
 
 
-Based on the type of Licensed Software the Licensee is using (JRebel or XRebel or JRebel for Android Software or some or all), the applicable portions of subchapter III-B or subchapter III-C or subchapter III-D will apply.
+Based on the type of Licensed Software the Licensee is using (JRebel or XRebel, or both), the applicable portions of subchapter III-B or subchapter III-C will apply.
 
 
 III-B. GRANT OF LICENSE FOR JREBEL
@@ -149,7 +173,8 @@ Licensor hereby grants the Authorized Users of a Commercial Licensee who is hold
 (vi) The number of devices on which a JRebel Managed License's Seat can be used by the Authorized User will be limited by the number of devices that the Licensed Software will allow to be associated with the Authorized User's email address.
 (vii) In the case of a JRebel Floating License, the Authorized Users are any Employees of the Licensee, with the restriction that the number of concurrent ("floating") users can not exceed the number of allowed concurrent users as specified by the License Certificate held by the Licensee.
 (viii) Licensee acknowledges that for a JRebel Floating License, the License Key cannot be used directly to unlock the Licensed Software. Instead, a ZeroTurnaround License Server must be used to serve tokens that will unlock the Licensed Software for the Authorized Users.
-(ix) The License is granted only for the time period specified in the License Certificate, subject to renewal as set forth in Section 66 hereof.
+(ix) The License is granted only for the time period specified in the License Certificate.
+
 
 37. JRebel Social License
 
@@ -182,7 +207,8 @@ Licensor hereby grants the Authorized Users of a Commercial Licensee who is hold
 (iv) The Authorized User of a XRebel Managed License is required to provide his email address in order to acquire the Seat.
 (v) The Seat of a Managed License is intended to be used by a single Authorized User during the term of the Authorized User's employment with the Licensee or the duration of Authorized User's assignment to a development project. Seats cannot be reassigned on a daily basis and the Licensed Software may include measures to prevent it. Seats can be reassigned under special circumstances (e.g., Employee leaving the company or finishing a project, etc.) and at a frequency of once per month.
 (vi) The number of devices on which a XRebel Managed License's Seat can be used by the Authorized User will be limited by the number of devices that the Licensed Software will allow to be associated with the Authorized User's email address.
-(vii) The License is granted only for the time period specified in the License Certificate, subject to renewal as set forth in Section 66 hereof.
+(vii) The License is granted only for the time period specified in the License Certificate.
+
 
 III-D. GRANT OF LICENSE FOR JREBEL FOR ANDROID LICENSES
 
@@ -202,25 +228,22 @@ Licensor hereby grants the Evaluating Licensee a non-exclusive, non-sublicensabl
 (v) Upon expiration of Evaluation Period, Evaluating Licensee must obtain a License Certificate to continue using Licensed Software or cease using Licensed Software immediately. Licensed Software contains a feature that will automatically disable itself upon expiration of Evaluation Period. Licensee may not disable, destroy, or remove this feature of Licensed Software, and any attempt to do so is deemed a breach of this Agreement and will terminate Licensee's rights to Use Licensed Software.
 
 
-43. JRebel for Android Free License
+43. JRebel for Android Individual License
 
-Licensor hereby grants a Licensee who is holding a valid License Certificate of type "JRebel for Android Free" a non-exclusive, non-sublicensable, non-assignable, termless license ("JRebel for Android License Free") to Use the Licensed Software according to the terms and conditions of this Agreement and the Licensee accepts this License by downloading and subscribing to that product. The JRebel for Android Free License is subject to the following terms:
-(i) The License is termless and either party may terminate the License with 14 day prior notice at any time.
-(ii) JRebel for Android Free License can be used for any personal or for any commercial project by a company whose yearly revenue does not exceed 20 million US dollars.
-(iii) The Licensee recognizes that the feature set of the Licensed Software is different as compared to the JRebel for Android Enterprise License and the Licensor may modify the feature set of the Licensed Software any time without providing prior notice.
-(iv) Upon exceeding yearly revenue of 20 million US dollars, JRebel for Android Free Licensee must obtain a License Certificate of type "JRebel for Android Enterprise", to continue using Licensed Software or cease using Licensed Software immediately. 
+Licensor hereby grants a Licensee who is holding a valid License Certificate of type "JRebel for Android Individual", a non-exclusive, non-sublicensable, non-assignable, time-limited license ("JRebel for Android Individual License") to Use the Licensed Software according to the terms and conditions of this Agreement and the Licensee accepts this License by purchasing the License Certificate. The JRebel for Android Individual License is subject to the following terms:
+(i) JRebel for Android Individual License can be purchased by independent individuals or by organizations with no more than 1 employee at the time of initial purchase. 
+(ii) The Authorized User is solely the Licensee (or the single Employee of the Licensee), a single natural person.
+(iii) The Licensee recognizes that the feature set of the Licensed Software might be different as compared to the JRebel for Android Business License. 
+(iv) The License is granted only for the time period specified in the License Certificate.
 
 
-44. JRebel for Android Enterprise License
+44. JRebel for Android Business License
 
-Licensor hereby grants the Authorized Users of a Commercial Licensee who is holding a valid License Certificate of type "JRebel for Android Enterprise", a non-exclusive, non-sublicensable, non-assignable, time-limited license ("JRebel for Android Enterprise License") to Use the Licensed Software according to the terms and conditions of this Agreement and the Licensee accepts this License by purchasing the License Certificate. The JRebel for Android Enterprise License is subject to the following terms:
-(i) JRebel for Android Enterprise License has the subtypes of JRebel for Android Dedicated License and JRebel for Android Managed License.
-(ii) In the case of a JRebel for Android Dedicated License, the Authorized Users are fixed Employees of Licensee and can only be changed by submitting a change request to sales-operations@zeroturnaround.com. Usage of the Licensed Software by other Employees of Licensee is prohibited.
-(iii) In the case of a JRebel for Android Managed License, the Authorized Users are Employees of the Licensee to whom the Seats have been assigned via the ZeroTurnaround License Server, with the restriction that the number of Authorized Users using Seats cannot exceed the number of Seats specified by the License Certificate held by the Licensee.
-(iv) The Authorized User of a JRebel for Android Managed License is required to provide his email address in order to acquire the Seat.
-(v) The Seat of a JRebel for Android Managed License is intended to be used by a single Authorized User during the term of the Authorized User's employment with the Licensee or the duration of Authorized User's assignment to a development project. Seats can be reassigned at a frequency of once per month.
-(vi) The number of devices on which a JRebel for Android Managed License's Seat can be used by the Authorized User will be limited by the number of devices that the Licensed Software will allow to be associated with the Authorized User's email address.
-(vii) The License is granted only for the time period specified in the License Certificate, subject to renewal as set forth in Section 66 hereof.
+Licensor hereby grants the Authorized Users of a Commercial Licensee who is holding a valid License Certificate of type "JRebel for Android Business", a non-exclusive, non-sublicensable, non-assignable, time-limited license ("JRebel for Android Business License") to Use the Licensed Software according to the terms and conditions of this Agreement and the Licensee accepts this License by purchasing the License Certificate. The JRebel for Android Business License is subject to the following terms:
+(i) The Authorized Users are fixed Employees of Licensee and can only be changed by submitting a change request to sales-operations@zeroturnaround.com. Usage of the Licensed Software by anyone other than Authorized Users is prohibited.
+(ii) The License is granted only for the time period specified in the License Certificate.
+
+
 
 IV. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
 
@@ -365,15 +388,14 @@ Licensor will reserve itself a right to change the terms of the current Agreemen
 (ii) By purchasing or otherwise receiving and accepting a new License Certificate, or otherwise extending the period of Use of the Licensed Software, the Licensee agrees to the latest revision of this Agreement available at that moment on Licensor's web site.
 (iii) If the Licensees are informed of an update of the terms via e-mail, the Licensee who does not agree to the new terms must inform the Licensor about his disagreement by sending an e-mail to E-mail Support within 30 days since Licensor's original e-mail. If a Commercial Licensee does not inform Licensor about his disagreement within 30 days, it is taken that he agrees to the new terms.
 
-66. Automatic Renewal of License
-Each license granted hereunder is granted for the initial time period specified in the License Certificate ("Initial Term") and, other than with respect to any evaluation license and the JRebel Social License (which will terminate at the end of their Initial Terms), unless specified in writing otherwise in the applicable ordering document, each License Certificate's term will renew at the expiration of its Initial Term for a time period of one (1) year (each a "Renewal Period"), and again for an identical period at the end of each such Renewal Period, provided that, Licensee will have the option to terminate any renewal before the commencement of the next Renewal Period (the "Renewal Date") by providing written notice to Licensor at least thirty (30) days prior to the Renewal Date.  Licensor will notify Licensee no more than ninety (90) days prior to each Renewal Date, and no less than sixty (60) days prior thereto, of the upcoming renewal. Thirty (30) days prior to each Renewal Date, Licensor will invoice Licensee applicable fees for the Renewal Period.  Licensor may increase fees applicable to any Renewal Period, provided it notifies Licensee of the new fee at least sixty (60) days prior to the Renewal Date.
 
-67. Termination of Agreement
-(i) This Agreement itself is effective until terminated.
-(ii) Expiration or nonexistence of each License does not terminate the Agreement. The termination of the Agreement also terminates any License given in this Agreement. Should the Licensee fail to comply with any provision of this Agreement, the Agreement will terminate without a refund. If the breach of Agreement is curable, Licensee will have a cure period of 30 days to cure the breach after receiving a notice from Licensor. If the nature of the breach is such that it cannot reasonably be cured, the Agreement will terminate without a cure period.
-(iii) The Evaluating Licensee may terminate this Agreement at any time by destroying all copies of the Licensed Software. The Commercial Licensee may terminate this Agreement at any time by destroying all copies of the Licensed Software and notifying Licensor by e- mail.
+66. Termination of the Agreement
+
+(i) This Agreement is effective until terminated.
+(ii) Expiration or nonexistence of the License does not terminate the Agreement. The termination of the Agreement also terminates any License given in this Agreement. Should the Licensee fail to comply with any provision of this Agreement, the Agreement will terminate without a refund. If the breach of Agreement is curable, Licensee will have a cure period of 30 days to cure the breach after receiving a notice from Licensor. If the nature of the breach is such that it cannot reasonably be cured, the Agreement will terminate without a cure period.
+(iii) The Evaluating Licensee may terminate this Agreement at any time by destroying all copies of the Licensed Software. The Commercial Licensee may terminate this Agreement at any time by destroying all copies of the Licensed Software and notifying Licensor by e-mail.
 (iv) Upon termination of the Agreement, the Licensee must destroy all copies of the Licensed Software.
-(v) Upon termination of this Agreement, all terms in sections "Intellectual Property Rights" (section II), "Disclaimer of Warranty and Limitation of Liability" (section IV), "General terms" (section VI) and other terms that should survive due to their nature will continue to be effective. Invoices issued for License Certificate terms will remain due and payable in accordance with their terms and in accordance herewith.
+(v) Upon termination of this Agreement, all terms in sections "Intellectual Property Rights" (section II), "Disclaimer of Warranty and Limitation of Liability" (section IV), "General terms" (section VI) and other terms that should survive due to their nature will continue to be effective.
 (vi) Licensee agrees that upon termination of this agreement for any reason, Licensor may take actions so that Licensed Software no longer operates.
 
 
@@ -382,4 +404,3 @@ For exceptions or modifications to this Agreement, please contact Licensor at:
 Address: Ülikooli 2, Tartu 51003, Estonia
 E-mail: support@zeroturnaround.com (JRebel; general)
         xrebel@zeroturnaround.com (XRebel)
-        android@zeroturnaround.com (JRebel for Android)
