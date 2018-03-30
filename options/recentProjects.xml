@@ -3,6 +3,7 @@
     <option name="recentPaths">
       <list>
         <option value="C:/develop/ideaproject/bos_2.0" />
+        <option value="C:/develop/ideaproject/bos" />
       </list>
     </option>
     <option name="openPaths">
@@ -68,14 +69,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/develop/ideaproject/bos">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4574.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522336947960" />
+              <option name="buildTimestamp" value="1510606438903" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/develop/ideaproject/bos_2.0">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-172.4574.11" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522049307040" />
-              <option name="buildTimestamp" value="1510606436193" />
+              <option name="projectOpenTimestamp" value="1522387822691" />
+              <option name="buildTimestamp" value="1510606437281" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

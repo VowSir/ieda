@@ -49,7 +49,7 @@
       </component>
       <component name="MavenRunner">
         <option name="jreName" value="1.8" />
-        <option name="vmOptions" value="-DarchetypeCatalog=local" />
+        <option name="vmOptions" value="-DarchetypeCatalog=local -Dfile.encoding=GB2312" />
       </component>
       <component name="ProjectDictionaryState">
         <dictionary name="ming" />
@@ -71,7 +71,7 @@
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
         <property name="last_opened_file_path" value="C:/decodeapp/Git/git/bin/git.exe" />
       </component>
       <component name="SvnConfiguration">

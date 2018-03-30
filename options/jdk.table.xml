@@ -40,7 +40,7 @@
         </classPath>
         <javadocPath>
           <root type="composite">
-            <root type="simple" url="jar://C:/ming/压缩备份下载/jdk/jdk-8u161-docs-all.zip!/docs/api" />
+            <root type="simple" url="jar://C:/aming/jdk-8u161-docs-all.zip!/docs/api" />
           </root>
         </javadocPath>
         <sourcePath>
