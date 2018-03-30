@@ -20,7 +20,7 @@
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.271" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="3514" />
+    <property name="file.gist.reindex.count" value="3515" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="10" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />

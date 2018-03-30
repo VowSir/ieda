@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="mavenautoimport">
+      <action id="SaveAll" />
+      <action id="CompileDirty" />
+      <action id="Maven.Reimport" />
+    </macro>
+  </component>
+</application>
