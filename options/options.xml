@@ -6,7 +6,7 @@
     <property name="ts.lib.d.ts.version" value="2.4.1" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
-    <property name="file.chooser.recent.files" value="C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml&#10;C:/develop/ideaproject/bos/common_parent/pom.xml&#10;C:/develop/ideaproject/bos&#10;C:/develop/ideaproject/bos_2.0&#10;C:/develop/apache-maven-3.5.2&#10;C:/develop/ideaproject/bos_2.0/bos_parent&#10;C:/develop/ideaproject/bos_2.0/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_parent/pom.xml&#10;C:/aming/picture4k/夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/地球和月亮5K壁纸5120x2880_彼岸图网.jpg&#10;C:/aming/picture4k/和服女孩坐在小溪的图片 小提琴,蝴蝶_彼岸图网.jpg&#10;C:/develop/ideaproject/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_parent&#10;C:/develop/ideaproject/common_parent&#10;C:/develop/ideaproject/common_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/common_parent/pom.xml&#10;C:/Users/ming/Downloads/jr-ide-intellij-nightly_13-16.zip&#10;C:/ming/api/jdk8doc&#10;C:/decodeapp/Git/git/bin/git.exe&#10;C:/develop&#10;C:/develop/apache-tomcat-8.5.27" />
+    <property name="file.chooser.recent.files" value="C:/develop/ideaproject/bos_3.0&#10;C:/develop/ideaproject/crm_domain/pom.xml&#10;C:/develop/ideaproject/crm_domain&#10;C:/develop/ideaproject/bos_2.0/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos_2.0/crm_management/pom.xml&#10;C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml&#10;C:/develop/ideaproject/bos/common_parent/pom.xml&#10;C:/develop/ideaproject/bos&#10;C:/develop/ideaproject/bos_2.0&#10;C:/develop/apache-maven-3.5.2&#10;C:/develop/ideaproject/bos_2.0/bos_parent&#10;C:/develop/ideaproject/bos_2.0/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_parent/pom.xml&#10;C:/aming/picture4k/夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/地球和月亮5K壁纸5120x2880_彼岸图网.jpg&#10;C:/aming/picture4k/和服女孩坐在小溪的图片 小提琴,蝴蝶_彼岸图网.jpg&#10;C:/develop/ideaproject/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_parent&#10;C:/develop/ideaproject/common_parent&#10;C:/develop/ideaproject/common_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/common_parent/pom.xml" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="130" />
@@ -20,7 +20,7 @@
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.271" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="3515" />
+    <property name="file.gist.reindex.count" value="6941" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="fileTypeChangedCounter" value="10" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
@@ -66,7 +66,7 @@
     <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
     <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
     <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.67057294" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.68359375" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="LAST_INJECTED_LANGUAGE" value="XML" />
@@ -86,7 +86,7 @@
     <property name="FileChooser.ShowPath" value="true" />
     <property name="dir.diff.panel.divider.location" value="150" />
     <property name="idea.background.frame" value="C:\aming\picture4k\夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg,58,scale,center" />
-    <property name="last.imported.location" value="C:/develop/ideaproject/strust2quickstart" />
+    <property name="last.imported.location" value="C:/develop/ideaproject/crm_domain/pom.xml" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="ideavim.statistics.timestamp" value="1520904613714" />
     <property name="SpringBeansModulesPanel[1]" value="0.1293661" />
@@ -101,6 +101,7 @@
     <property name="idea.background.editor" value="C:\aming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,4,scale,center" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
     <property name="MavenHelper.lastRadioButton" value="list" />
-    <property name="search.everywhere.max.popup.width" value="830" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="search.everywhere.max.popup.width" value="810" />
   </component>
 </application>
