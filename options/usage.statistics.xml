@@ -1,3 +1,1070 @@
 <application>
-  <component name="UsagesStatistic" show-notification="false" />
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="285" />
+      <entry action="$Cut" count="19" />
+      <entry action="$Delete" count="348" />
+      <entry action="$Paste" count="1286" />
+      <entry action="$Redo" count="11" />
+      <entry action="$SelectAll" count="125" />
+      <entry action="$Undo" count="1210" />
+      <entry action="About" count="5" />
+      <entry action="ActivateDatabaseConsoleToolWindow" count="1" />
+      <entry action="ActivateDatabaseToolWindow" count="1" />
+      <entry action="ActivateDebugToolWindow" count="18" />
+      <entry action="ActivateHierarchyToolWindow" count="54" />
+      <entry action="ActivatePersistenceToolWindow" count="4" />
+      <entry action="ActivateProjectToolWindow" count="194" />
+      <entry action="ActivateStructureToolWindow" count="62" />
+      <entry action="ActivateTODOToolWindow" count="14" />
+      <entry action="ActivateTerminalToolWindow" count="45" />
+      <entry action="ActivateVersionControlToolWindow" count="2" />
+      <entry action="AddFrameworkSupport" count="21" />
+      <entry action="Annotate" count="3" />
+      <entry action="AutoIndentLines" count="3" />
+      <entry action="Back" count="18" />
+      <entry action="CallHierarchy" count="4" />
+      <entry action="CaptureMemorySnapShot" count="4" />
+      <entry action="ChangeFileEncodingAction" count="1" />
+      <entry action="ChangeSignature" count="1" />
+      <entry action="ChangesView.AddUnversioned" count="2" />
+      <entry action="ChangesView.ApplyPatch" count="2" />
+      <entry action="ChangesView.Move" count="1" />
+      <entry action="ChangesView.Refresh" count="5" />
+      <entry action="ChangesView.Revert" count="17" />
+      <entry action="CheckStyleCloseAction" count="1" />
+      <entry action="CheckStyleCurrentFileAction" count="11" />
+      <entry action="CheckStyleDisplayErrorsAction" count="3" />
+      <entry action="CheckinFiles" count="4" />
+      <entry action="CheckinProject" count="116" />
+      <entry action="ClassNameCompletion" count="5" />
+      <entry action="CloseAllEditors" count="74" />
+      <entry action="CloseAllEditorsButActive" count="5" />
+      <entry action="CloseAllUnmodifiedEditors" count="1" />
+      <entry action="CloseContent" count="2" />
+      <entry action="CloseProject" count="274" />
+      <entry action="CloudConfigAction" count="1" />
+      <entry action="CloudConfigSilentlyAction" count="1" />
+      <entry action="CodeCompletion" count="1727" />
+      <entry action="CollapseAllRegions" count="2" />
+      <entry action="CollapseRegion" count="24" />
+      <entry action="CollapseSelection" count="43" />
+      <entry action="CommentByBlockComment" count="26" />
+      <entry action="CommentByLineComment" count="454" />
+      <entry action="Compare.SameVersion" count="5" />
+      <entry action="CompareFileWithEditor" count="1" />
+      <entry action="CompareTwoFiles" count="2" />
+      <entry action="Compile" count="2" />
+      <entry action="CompileDirty" count="159" />
+      <entry action="Console.Jdbc.ChooseConsole" count="2" />
+      <entry action="Console.Jdbc.Execute" count="201" />
+      <entry action="Console.TableResult.AddRow" count="38" />
+      <entry action="Console.TableResult.ChangeColumnLanguage" count="4" />
+      <entry action="Console.TableResult.ChooseExtractor" count="4" />
+      <entry action="Console.TableResult.ColumnsList" count="1" />
+      <entry action="Console.TableResult.CompareWith" count="1" />
+      <entry action="Console.TableResult.CountRows" count="1" />
+      <entry action="Console.TableResult.DeleteRows" count="2" />
+      <entry action="Console.TableResult.DumpGroup" count="2" />
+      <entry action="Console.TableResult.EditValue" count="2" />
+      <entry action="Console.TableResult.ImportTable" count="6" />
+      <entry action="Console.TableResult.Options" count="4" />
+      <entry action="Console.TableResult.Reload" count="577" />
+      <entry action="Console.TableResult.Submit" count="83" />
+      <entry action="Console.TableResult.SubmitAndCommit" count="12" />
+      <entry action="Console.Transaction.TxSettings" count="8" />
+      <entry action="ContextHelp" count="2" />
+      <entry action="CopyElement" count="4" />
+      <entry action="CopyPaths" count="7" />
+      <entry action="CopyReference" count="4" />
+      <entry action="CreateFilterAction" count="1" />
+      <entry action="CreateJavaeeWebPageAction" count="23" />
+      <entry action="CreateLibraryFromFile" count="16" />
+      <entry action="CreateRunConfiguration" count="4" />
+      <entry action="CreateServletAction" count="36" />
+      <entry action="CreateTaglibFileAction" count="10" />
+      <entry action="Database.Settings" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup" count="51" />
+      <entry action="DatabaseView.AddSchemasAction" count="1" />
+      <entry action="DatabaseView.AssignColor" count="1" />
+      <entry action="DatabaseView.CloseConnectionAction" count="7" />
+      <entry action="DatabaseView.CopyAction" count="3" />
+      <entry action="DatabaseView.Ddl.AddSchema" count="3" />
+      <entry action="DatabaseView.Ddl.AddTable" count="1" />
+      <entry action="DatabaseView.Import" count="1" />
+      <entry action="DatabaseView.ImportDataSources" count="1" />
+      <entry action="DatabaseView.PropertiesAction" count="39" />
+      <entry action="DatabaseView.SynchronizeAction" count="472" />
+      <entry action="Debug" count="23" />
+      <entry action="DebugClass" count="1" />
+      <entry action="Debugger.AddToWatch" count="1" />
+      <entry action="Debugger.PopFrame" count="3" />
+      <entry action="DialogOkAction Enter" count="6" />
+      <entry action="EditMacros" count="2" />
+      <entry action="EditSource" count="9" />
+      <entry action="EditSourceInNewWindow" count="16" />
+      <entry action="EditorBackSpace" count="23861" />
+      <entry action="EditorBreadcrumbsShowAbove" count="2" />
+      <entry action="EditorBreadcrumbsShowBelow" count="2" />
+      <entry action="EditorChooseLookupItem" count="8951" />
+      <entry action="EditorChooseLookupItemCompleteStatement" count="3" />
+      <entry action="EditorChooseLookupItemDot" count="1" />
+      <entry action="EditorChooseLookupItemReplace" count="14" />
+      <entry action="EditorCodeBlockEnd" count="1" />
+      <entry action="EditorCodeBlockStart" count="5" />
+      <entry action="EditorCodeBlockStartWithSelection" count="3" />
+      <entry action="EditorCompleteStatement" count="374" />
+      <entry action="EditorContextInfo" count="3" />
+      <entry action="EditorCopy" count="1308" />
+      <entry action="EditorCut" count="382" />
+      <entry action="EditorDelete" count="386" />
+      <entry action="EditorDeleteLine" count="328" />
+      <entry action="EditorDeleteToWordEnd" count="27" />
+      <entry action="EditorDeleteToWordStart" count="3" />
+      <entry action="EditorDown" count="7456" />
+      <entry action="EditorDownWithSelection" count="27" />
+      <entry action="EditorDuplicate" count="186" />
+      <entry action="EditorDuplicateLines" count="95" />
+      <entry action="EditorEnter" count="4701" />
+      <entry action="EditorEscape" count="95" />
+      <entry action="EditorGutterToggleGlobalSoftWraps" count="2" />
+      <entry action="EditorIndentSelection" count="71" />
+      <entry action="EditorJoinLines" count="39" />
+      <entry action="EditorLeft" count="3891" />
+      <entry action="EditorLeftWithSelection" count="144" />
+      <entry action="EditorLineEnd" count="22" />
+      <entry action="EditorLineStart" count="16" />
+      <entry action="EditorMatchBrace" count="3" />
+      <entry action="EditorMoveToPageTopWithSelection" count="1" />
+      <entry action="EditorNextWord" count="127" />
+      <entry action="EditorNextWordWithSelection" count="4" />
+      <entry action="EditorPageDown" count="6" />
+      <entry action="EditorPageUp" count="8" />
+      <entry action="EditorPaste" count="814" />
+      <entry action="EditorPasteSimple" count="1" />
+      <entry action="EditorPreviousWord" count="119" />
+      <entry action="EditorPreviousWordWithSelection" count="2" />
+      <entry action="EditorRight" count="5640" />
+      <entry action="EditorRightWithSelection" count="1299" />
+      <entry action="EditorScrollDown" count="67" />
+      <entry action="EditorScrollToCenter" count="3" />
+      <entry action="EditorScrollUp" count="55" />
+      <entry action="EditorSelectWord" count="254" />
+      <entry action="EditorSplitLine" count="34" />
+      <entry action="EditorStartNewLine" count="701" />
+      <entry action="EditorStartNewLineBefore" count="1" />
+      <entry action="EditorTab" count="1290" />
+      <entry action="EditorToggleCase" count="121" />
+      <entry action="EditorToggleInsertState" count="34" />
+      <entry action="EditorUnindentSelection" count="85" />
+      <entry action="EditorUp" count="2390" />
+      <entry action="EditorUpWithSelection" count="50" />
+      <entry action="EmmetNextEditPoint" count="1" />
+      <entry action="EvaluateExpression" count="14" />
+      <entry action="Exit" count="4" />
+      <entry action="ExpandAllRegions" count="11" />
+      <entry action="ExpandAllToLevel1" count="1" />
+      <entry action="ExpandLiveTemplateByTab" count="79" />
+      <entry action="ExpandRegion" count="2" />
+      <entry action="ExportSettings" count="1" />
+      <entry action="ExportToEclipse" count="1" />
+      <entry action="ExpressionTypeInfo" count="16" />
+      <entry action="Faces.CreateFacesConfigAction" count="1" />
+      <entry action="Faces.CreateJsfAction" count="3" />
+      <entry action="FileChooser.Delete" count="1" />
+      <entry action="FileChooser.NewFile" count="1" />
+      <entry action="FileChooser.NewFolder" count="3" />
+      <entry action="FileChooser.Refresh" count="1" />
+      <entry action="FileChooser.ShowHiddens" count="12" />
+      <entry action="FileStructurePopup" count="12" />
+      <entry action="Find" count="38" />
+      <entry action="FindBugs.GroupByBugCategory" count="3" />
+      <entry action="FindBugs.GroupByPackage" count="2" />
+      <entry action="FindBugs.PreviewSelectBugInstance" count="9" />
+      <entry action="FindBugs.ProjectFilesAction" count="1" />
+      <entry action="FindBugs.SelectedFilesAction" count="2" />
+      <entry action="FindBugs.ShowQuickSearch" count="2" />
+      <entry action="FindInPath" count="15" />
+      <entry action="FindNext" count="16" />
+      <entry action="FindPrevious" count="14" />
+      <entry action="FindUsages" count="1" />
+      <entry action="ForceStepInto" count="38" />
+      <entry action="Forward" count="1" />
+      <entry action="Generate" count="73" />
+      <entry action="GenerateAntBuild" count="1" />
+      <entry action="GenerateDTD" count="5" />
+      <entry action="Generify" count="1" />
+      <entry action="Git.Add" count="9" />
+      <entry action="Git.Branches" count="121" />
+      <entry action="Git.Init" count="17" />
+      <entry action="Git.Merge" count="5" />
+      <entry action="Git.Pull" count="2" />
+      <entry action="Git.Rebase" count="2" />
+      <entry action="Git.Reset" count="2" />
+      <entry action="Git.Tag" count="2" />
+      <entry action="Git.Unstash" count="1" />
+      <entry action="Github.Create.Gist" count="2" />
+      <entry action="Github.Share" count="1" />
+      <entry action="GotoAction" count="23" />
+      <entry action="GotoBookmark1" count="3" />
+      <entry action="GotoBookmark2" count="1" />
+      <entry action="GotoBookmark3" count="1" />
+      <entry action="GotoBookmark7" count="2" />
+      <entry action="GotoBookmark8" count="8" />
+      <entry action="GotoBookmark9" count="3" />
+      <entry action="GotoClass" count="5" />
+      <entry action="GotoCustomRegion" count="2" />
+      <entry action="GotoDeclaration" count="207" />
+      <entry action="GotoFile" count="1" />
+      <entry action="GotoImplementation" count="99" />
+      <entry action="GotoNextError" count="9" />
+      <entry action="GotoPrevElementUnderCaretUsage" count="6" />
+      <entry action="GotoPreviousError" count="1" />
+      <entry action="GotoSuperMethod" count="61" />
+      <entry action="GotoTest" count="25" />
+      <entry action="GotoTypeDeclaration" count="4" />
+      <entry action="Gsonformat" count="6" />
+      <entry action="HelpTopics" count="1" />
+      <entry action="Hibernate.SessionFactorySettings" count="6" />
+      <entry action="HideActiveWindow" count="1" />
+      <entry action="HideAllWindows" count="39" />
+      <entry action="HippieCompletion" count="2" />
+      <entry action="ImplementMethods" count="20" />
+      <entry action="ImportModule" count="6" />
+      <entry action="ImportSettings" count="3" />
+      <entry action="Inline" count="1" />
+      <entry action="InsertLiveTemplate" count="22" />
+      <entry action="InspectCode" count="3" />
+      <entry action="IntroduceConstant" count="4" />
+      <entry action="IntroduceField" count="5" />
+      <entry action="IntroduceParameter" count="1" />
+      <entry action="IntroduceVariable" count="4" />
+      <entry action="InvalidateCaches" count="8" />
+      <entry action="JRebel Debug" count="4" />
+      <entry action="JRebel_Debug" count="479" />
+      <entry action="JRebel_Executor" count="7" />
+      <entry action="JavaScriptDebugger.OpenUrl" count="2" />
+      <entry action="Javaee.RefreshDeploymentStatus" count="3" />
+      <entry action="Jdbc.OpenConsole" count="44" />
+      <entry action="Jdbc.OpenConsole.New" count="1" />
+      <entry action="Jdbc.OpenEditor.DDL" count="6" />
+      <entry action="Jdbc.OpenEditor.Data" count="15" />
+      <entry action="Jdbc.OpenEditor.Grid.DDL" count="1" />
+      <entry action="Jpa.AssignDataSources" count="15" />
+      <entry action="JumpToLastChange" count="76" />
+      <entry action="JumpToLastWindow" count="1" />
+      <entry action="LoadUnloadModules" count="35" />
+      <entry action="LocalHistory.PutLabel" count="1" />
+      <entry action="LocalHistory.ShowHistory" count="1" />
+      <entry action="Macro.autoMake" count="35" />
+      <entry action="Macro.mavenautoimport" count="96" />
+      <entry action="MaintenanceAction" count="1" />
+      <entry action="MakeModule" count="2" />
+      <entry action="ManageRecentProjects" count="1" />
+      <entry action="MarkExcludeRoot" count="1" />
+      <entry action="MarkGeneratedSourceRoot" count="1" />
+      <entry action="Maven.AddManagedFiles" count="25" />
+      <entry action="Maven.CollapseAll" count="10" />
+      <entry action="Maven.DownloadAllGroupPopup" count="2" />
+      <entry action="Maven.ExecuteGoal" count="4" />
+      <entry action="Maven.GroupProjects" count="1" />
+      <entry action="Maven.OpenSettingsXml" count="2" />
+      <entry action="Maven.Reimport" count="206" />
+      <entry action="Maven.ReimportProject" count="22" />
+      <entry action="Maven.RemoveManagedFiles" count="2" />
+      <entry action="Maven.RunBuild" count="96" />
+      <entry action="Maven.ShowSettings" count="5" />
+      <entry action="Maven.ToggleOffline" count="2" />
+      <entry action="Maven.ToggleSkipTests" count="14" />
+      <entry action="Maven.UpdateFolders" count="6" />
+      <entry action="Maven.UpdateFoldersForProject" count="4" />
+      <entry action="MethodDown" count="7" />
+      <entry action="MethodHierarchy" count="1" />
+      <entry action="ModuleSettings" count="3" />
+      <entry action="Move" count="1" />
+      <entry action="MoveLineDown" count="139" />
+      <entry action="MoveLineUp" count="210" />
+      <entry action="MoveStatementDown" count="1" />
+      <entry action="MoveStatementUp" count="1" />
+      <entry action="NewClass" count="141" />
+      <entry action="NewDir" count="153" />
+      <entry action="NewElement" count="46" />
+      <entry action="NewElementSamePlace" count="7" />
+      <entry action="NewFile" count="36" />
+      <entry action="NewFxmlFile" count="10" />
+      <entry action="NewHtmlFile" count="4" />
+      <entry action="NewModule" count="12" />
+      <entry action="NewModuleInGroup" count="19" />
+      <entry action="NewProject" count="17" />
+      <entry action="NewScratchFile" count="1" />
+      <entry action="NextTemplateVariable" count="558" />
+      <entry action="OpenFile" count="15" />
+      <entry action="OpenModuleSettings" count="1" />
+      <entry action="OpenPersistenceERDiagramAction" count="3" />
+      <entry action="OptimizeImports" count="4" />
+      <entry action="OverrideMethods" count="14" />
+      <entry action="ParameterInfo" count="61" />
+      <entry action="PasteMultiple" count="2" />
+      <entry action="Pause" count="4" />
+      <entry action="PerforceDirect.Edit" count="1" />
+      <entry action="PopupHector" count="1" />
+      <entry action="PreviousTemplateVariable" count="7" />
+      <entry action="Print" count="3" />
+      <entry action="QuickImplementations" count="4" />
+      <entry action="QuickJavaDoc" count="112" />
+      <entry action="RecentFiles" count="35" />
+      <entry action="Refactorings.QuickListPopupAction" count="7" />
+      <entry action="ReformatCode" count="257" />
+      <entry action="RenameElement" count="95" />
+      <entry action="RenameFile" count="2" />
+      <entry action="Replace" count="5" />
+      <entry action="ReplaceInPath" count="1" />
+      <entry action="Rerun" count="39" />
+      <entry action="Resume" count="200" />
+      <entry action="RevealIn" count="157" />
+      <entry action="Run" count="113" />
+      <entry action="RunClass" count="38" />
+      <entry action="RunJsbtTask" count="1" />
+      <entry action="RunToCursor" count="8" />
+      <entry action="Runner.RestoreLayout" count="2" />
+      <entry action="SafeDelete" count="1" />
+      <entry action="SaveAll" count="172" />
+      <entry action="SearchEverywhere" count="191" />
+      <entry action="SelectAllOccurrences" count="45" />
+      <entry action="SelectNextOccurrence" count="237" />
+      <entry action="Show.Current.Revision" count="3" />
+      <entry action="ShowExecutionPoint" count="58" />
+      <entry action="ShowFilePath" count="3" />
+      <entry action="ShowIntentionActions" count="1138" />
+      <entry action="ShowPackageDeps" count="2" />
+      <entry action="ShowProjectStructureSettings" count="349" />
+      <entry action="ShowRecentTests" count="2" />
+      <entry action="ShowReformatFileDialog" count="2" />
+      <entry action="ShowSettings" count="478" />
+      <entry action="ShowUmlDiagram" count="14" />
+      <entry action="ShowUmlDiagramPopup" count="4" />
+      <entry action="SmartTypeCompletion" count="13" />
+      <entry action="Spring.Create.Context.File" count="2" />
+      <entry action="Start.Use.Vcs" count="2" />
+      <entry action="StartStopMacroRecording" count="4" />
+      <entry action="StepInto" count="554" />
+      <entry action="StepOut" count="43" />
+      <entry action="StepOver" count="1180" />
+      <entry action="Stop" count="755" />
+      <entry action="Struts2.Create.StrutsXml" count="3" />
+      <entry action="Subversion.BrowseSVNRepository" count="1" />
+      <entry action="Subversion.Create.External" count="1" />
+      <entry action="Subversion.ImportToSVNRepository" count="13" />
+      <entry action="Subversion.Share" count="2" />
+      <entry action="Subversion.ShareWholeProject" count="1" />
+      <entry action="SurroundWith" count="21" />
+      <entry action="SurroundWithLiveTemplate" count="20" />
+      <entry action="Synchronize" count="21" />
+      <entry action="SynchronizeCurrentFile" count="1" />
+      <entry action="TemplateProjectProperties" count="13" />
+      <entry action="ToggleDistractionFreeMode" count="2" />
+      <entry action="ToggleFullScreen" count="39" />
+      <entry action="ToggleLineBreakpoint" count="534" />
+      <entry action="TogglePowerSave" count="3" />
+      <entry action="TogglePresentationMode" count="2" />
+      <entry action="TypeHierarchy" count="92" />
+      <entry action="UML.ShowChanges" count="2" />
+      <entry action="UnmarkRoot" count="1" />
+      <entry action="UnselectPreviousOccurrence" count="1" />
+      <entry action="UsageView.Exclude" count="1" />
+      <entry action="Vcs.Log.OpenRepositoryVersion" count="2" />
+      <entry action="Vcs.Log.QuickSettings" count="2" />
+      <entry action="Vcs.Push" count="58" />
+      <entry action="Vcs.QuickListPopupAction" count="6" />
+      <entry action="Vcs.RefreshStatuses" count="1" />
+      <entry action="Vcs.ShowTabbedFileHistory" count="4" />
+      <entry action="Vcs.UpdateProject" count="40" />
+      <entry action="ViewBreakpoints" count="6" />
+      <entry action="ViewOfflineInspection" count="1" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="ViewToolButtons" count="1" />
+      <entry action="WebServicesPlugin.CreateRESTClient" count="18" />
+      <entry action="WebServicesPlugin.GenerateJavaFromWsdl" count="1" />
+      <entry action="XDebugger.EditWatch" count="1" />
+      <entry action="XDebugger.Inspect" count="1" />
+      <entry action="XDebugger.MuteBreakpoints" count="2" />
+      <entry action="XDebugger.NewWatch" count="6" />
+      <entry action="XDebugger.RemoveWatch" count="6" />
+      <entry action="XDebugger.SwitchWatchesInVariables" count="4" />
+      <entry action="XSD2Document" count="3" />
+      <entry action="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" count="7" />
+      <entry action="context.load" count="4" />
+      <entry action="javaee.UpdateRunningApplication" count="2" />
+      <entry action="jrebel.activate" count="3" />
+      <entry action="jrebel.config" count="2" />
+      <entry action="setBackgroundImage" count="15" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1516034919496" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.smarttype.afternew" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="201" last-shown="0" last-used="1523180568568" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.aslist" count="0" last-shown="1521177159870" last-used="0" shown-count="2" />
+    <feature id="codeassists.surroundwith.statement" count="24" last-shown="0" last-used="1520509733509" shown-count="0" />
+    <feature id="refactoring.rename" count="43" last-shown="0" last-used="1523021617630" shown-count="0" />
+    <feature id="navigation.popup.action" count="23" last-shown="0" last-used="1522399371636" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="3" last-shown="1523180558935" last-used="1522719926320" shown-count="549" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="11" last-shown="1523236950161" last-used="1517224645822" shown-count="30459" />
+    <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="242" last-shown="0" last-used="1523180741659" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="2836" last-shown="0" last-used="1523180551011" shown-count="0" />
+    <feature id="navigation.popup.file" count="1" last-shown="0" last-used="1520236886567" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="83" last-shown="0" last-used="1522916713335" shown-count="0" />
+    <feature id="editing.completion.smarttype.casting" count="3" last-shown="0" last-used="1521091089348" shown-count="0" />
+    <feature id="db.console.run.intention" count="198" last-shown="0" last-used="1522674418971" shown-count="0" />
+    <feature id="db.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="4" last-shown="0" last-used="1520045900558" shown-count="0" />
+    <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console.execute" count="2" last-shown="0" last-used="1522330297840" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="35" last-shown="0" last-used="1522041916858" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="207" last-shown="0" last-used="1523017019165" shown-count="0" />
+    <feature id="scratch" count="1" last-shown="0" last-used="1518327406746" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="20" last-shown="1520850714835" last-used="1523122156636" shown-count="290" />
+    <feature id="navigation.goto.implementation" count="99" last-shown="0" last-used="1523084224316" shown-count="0" />
+    <feature id="refactoring.move.moveInner" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="1" last-shown="0" last-used="1520156952281" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.global.member.name" count="0" last-shown="1523082596174" last-used="0" shown-count="100" />
+    <feature id="editing.completion.finishByExclamation" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="29" last-shown="0" last-used="1522399669171" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.copyClass" count="35" last-shown="0" last-used="1523021704548" shown-count="0" />
+    <feature id="move.element.left.right" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="jar.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="454" last-shown="0" last-used="1523020940331" shown-count="0" />
+    <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.chain" count="0" last-shown="1521177159870" last-used="0" shown-count="2" />
+    <feature id="ant.quickfix.CreateProperty" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="1521177159870" last-used="0" shown-count="2" />
+    <feature id="navigation.popup.camelprefix" count="4" last-shown="0" last-used="1520056503015" shown-count="0" />
+    <feature id="SearchEverywhere" count="178" last-shown="0" last-used="1523122332873" shown-count="0" />
+    <feature id="navigation.popup.class" count="5" last-shown="0" last-used="1519749658090" shown-count="0" />
+    <feature id="editor.delete.line" count="328" last-shown="0" last-used="1523236895620" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="25" last-shown="0" last-used="1520941344600" shown-count="0" />
+    <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="4" last-shown="1523180670952" last-used="1519970436085" shown-count="763" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="9465" last-shown="0" last-used="1523181015291" shown-count="0" />
+    <feature id="tag.name.completion" count="8" last-shown="0" last-used="1522670735909" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.array.member" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.postfix" count="115" last-shown="0" last-used="1523180618709" shown-count="0" />
+    <feature id="diagram.show.popup" count="4" last-shown="0" last-used="1523018456416" shown-count="0" />
+    <feature id="refactoring.introduceVariable.incompleteStatement" count="250" last-shown="0" last-used="1523069470925" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show.diff" count="2" last-shown="0" last-used="1520730924266" shown-count="0" />
+    <feature id="editing.select.word" count="2056" last-shown="0" last-used="1523180540275" shown-count="0" />
+    <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console" count="83" last-shown="0" last-used="1522674413829" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="7" last-shown="1522342144878" last-used="1522484592704" shown-count="703" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="13" last-shown="1523181014476" last-used="1521177163054" shown-count="910" />
+    <feature id="codeassist.inspect.batch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="13" last-shown="0" last-used="1520046952807" shown-count="0" />
+    <feature id="db.table.editor" count="214" last-shown="0" last-used="1523084174436" shown-count="0" />
+    <feature id="ant.quickfix.CreateTarget" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassist.locate.duplicates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="6" last-shown="0" last-used="1522811000075" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.block" count="26" last-shown="0" last-used="1522342351251" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="106" last-shown="1522133713454" last-used="1523082094850" shown-count="39" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show" count="17" last-shown="0" last-used="1523018557259" shown-count="0" />
+    <feature id="editing.completion.second.basic" count="918" last-shown="0" last-used="1523080978327" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="1520769662040" last-used="0" shown-count="241" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="68099" />
+      <option name="invocations" value="6404" />
+      <option name="startDate" value="1516032000000" />
+      <option name="dayCount" value="66" />
+      <option name="lastDate" value="1523116800000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="961" />
+      <option name="startDate" value="1516118400000" />
+      <option name="dayCount" value="58" />
+      <option name="lastDate" value="1523030400000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="HTML codeInspection.htmlInspections.AddCustomHtmlElementIntentionAction" count="1" />
+      <entry name="HTML lang.javascript.validation.fixes.RenameReferenceFix" count="1" />
+      <entry name="JAVA [!]com.seventh7.mybatis.intention.GenerateMapperIntention" count="1" />
+      <entry name="JAVA codeInspection.wrongPackageStatement.AdjustPackageNameFix" count="2" />
+      <entry name="JAVA com.siyeh.ipp.types.MakeMethodDefaultIntention" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.AddExceptionToThrowsFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.AddTypeCastFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.CreateClassFromUsageFix" count="2" />
+      <entry name="JAVA daemon.impl.quickfix.DefineParamsDefaultValueAction" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.MethodReturnTypeFix" count="1" />
+      <entry name="JAVA intention.impl.CreateSubclassAction" count="1" />
+      <entry name="JAVA intention.impl.ImplementAbstractMethodAction" count="3" />
+      <entry name="JAVA intention.impl.IntroduceVariableIntentionAction" count="7" />
+      <entry name="JAVA intention.impl.PriorityIntentionActionWrapper$HighPriorityIntentionActionWrapper" count="1" />
+      <entry name="JAVA intention.impl.SplitDeclarationAction" count="1" />
+      <entry name="JAVA lang.java.actions.CreateFieldAction" count="1" />
+      <entry name="JAVA lang.java.actions.CreateMethodAction" count="4" />
+      <entry name="JAVA org.jetbrains.idea.maven.dom.intentions.AddMavenDependencyQuickFix" count="1" />
+      <entry name="SpringDataQL com.siyeh.ig.annotation.SingleElementAnnotationInspection$ExpandAnnotationFix" count="2" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; Close Project" count="3" />
+      <entry path="File -&gt; Exit" count="1" />
+      <entry path="File -&gt; Export to Eclipse..." count="1" />
+      <entry path="File -&gt; IDE Settings Sync -&gt; Sync Plugins Silently" count="1" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="2" />
+      <entry path="File -&gt; New -&gt; Module from Existing Sources..." count="3" />
+      <entry path="File -&gt; New -&gt; Module..." count="2" />
+      <entry path="File -&gt; Sync Settings to JetBrains Account..." count="1" />
+      <entry path="File -&gt; Synchronize" count="2" />
+      <entry path="Tools -&gt; HTTP Client -&gt; Test RESTful Web Service" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+1" count="195" />
+      <entry shortcut="Alt+5" count="18" />
+      <entry shortcut="Alt+6" count="13" />
+      <entry shortcut="Alt+7" count="60" />
+      <entry shortcut="Alt+8" count="54" />
+      <entry shortcut="Alt+9" count="2" />
+      <entry shortcut="Alt+Back Quote" count="2" />
+      <entry shortcut="Alt+Backspace" count="1" />
+      <entry shortcut="Alt+Delete" count="1" />
+      <entry shortcut="Alt+Down" count="7" />
+      <entry shortcut="Alt+Enter" count="1138" />
+      <entry shortcut="Alt+F11" count="1" />
+      <entry shortcut="Alt+F12" count="50" />
+      <entry shortcut="Alt+F8" count="4" />
+      <entry shortcut="Alt+Insert" count="117" />
+      <entry shortcut="Alt+J" count="243" />
+      <entry shortcut="Alt+Left" count="51" />
+      <entry shortcut="Alt+P" count="3" />
+      <entry shortcut="Alt+Q" count="5" />
+      <entry shortcut="Alt+Right" count="57" />
+      <entry shortcut="Alt+S" count="41" />
+      <entry shortcut="Alt+Shift+Close Bracket" count="1" />
+      <entry shortcut="Alt+Shift+Down" count="139" />
+      <entry shortcut="Alt+Shift+J" count="1" />
+      <entry shortcut="Alt+Shift+L" count="4" />
+      <entry shortcut="Alt+Shift+Up" count="210" />
+      <entry shortcut="Alt+Slash" count="1729" />
+      <entry shortcut="Backspace" count="23834" />
+      <entry shortcut="Ctrl+1" count="3" />
+      <entry shortcut="Ctrl+2" count="1" />
+      <entry shortcut="Ctrl+3" count="2" />
+      <entry shortcut="Ctrl+7" count="2" />
+      <entry shortcut="Ctrl+8" count="8" />
+      <entry shortcut="Ctrl+9" count="3" />
+      <entry shortcut="Ctrl+A" count="127" />
+      <entry shortcut="Ctrl+Alt+B" count="35" />
+      <entry shortcut="Ctrl+Alt+C" count="4" />
+      <entry shortcut="Ctrl+Alt+E" count="1" />
+      <entry shortcut="Ctrl+Alt+Enter" count="1" />
+      <entry shortcut="Ctrl+Alt+F" count="5" />
+      <entry shortcut="Ctrl+Alt+H" count="4" />
+      <entry shortcut="Ctrl+Alt+I" count="3" />
+      <entry shortcut="Ctrl+Alt+Insert" count="7" />
+      <entry shortcut="Ctrl+Alt+J" count="20" />
+      <entry shortcut="Ctrl+Alt+L" count="257" />
+      <entry shortcut="Ctrl+Alt+Left" count="2" />
+      <entry shortcut="Ctrl+Alt+N" count="1" />
+      <entry shortcut="Ctrl+Alt+O" count="3" />
+      <entry shortcut="Ctrl+Alt+P" count="1" />
+      <entry shortcut="Ctrl+Alt+Period" count="2" />
+      <entry shortcut="Ctrl+Alt+Right" count="1" />
+      <entry shortcut="Ctrl+Alt+Shift+H" count="1" />
+      <entry shortcut="Ctrl+Alt+Shift+J" count="46" />
+      <entry shortcut="Ctrl+Alt+Shift+L" count="2" />
+      <entry shortcut="Ctrl+Alt+Shift+S" count="1" />
+      <entry shortcut="Ctrl+Alt+Shift+Slash" count="1" />
+      <entry shortcut="Ctrl+Alt+Shift+T" count="7" />
+      <entry shortcut="Ctrl+Alt+Shift+U" count="2" />
+      <entry shortcut="Ctrl+Alt+Space" count="5" />
+      <entry shortcut="Ctrl+Alt+T" count="21" />
+      <entry shortcut="Ctrl+Alt+U" count="1" />
+      <entry shortcut="Ctrl+Alt+V" count="4" />
+      <entry shortcut="Ctrl+Alt+Y" count="5" />
+      <entry shortcut="Ctrl+B" count="8" />
+      <entry shortcut="Ctrl+Backspace" count="3" />
+      <entry shortcut="Ctrl+C" count="1284" />
+      <entry shortcut="Ctrl+Close Bracket" count="1" />
+      <entry shortcut="Ctrl+D" count="283" />
+      <entry shortcut="Ctrl+Delete" count="27" />
+      <entry shortcut="Ctrl+Down" count="67" />
+      <entry shortcut="Ctrl+E" count="35" />
+      <entry shortcut="Ctrl+Enter" count="165" />
+      <entry shortcut="Ctrl+Equals" count="2" />
+      <entry shortcut="Ctrl+F" count="45" />
+      <entry shortcut="Ctrl+F12" count="6" />
+      <entry shortcut="Ctrl+F4" count="6" />
+      <entry shortcut="Ctrl+F6" count="1" />
+      <entry shortcut="Ctrl+F9" count="2" />
+      <entry shortcut="Ctrl+H" count="106" />
+      <entry shortcut="Ctrl+I" count="20" />
+      <entry shortcut="Ctrl+Insert" count="188" />
+      <entry shortcut="Ctrl+J" count="22" />
+      <entry shortcut="Ctrl+K" count="4" />
+      <entry shortcut="Ctrl+L" count="16" />
+      <entry shortcut="Ctrl+Left" count="119" />
+      <entry shortcut="Ctrl+Left+Ctrl+Left" count="34" />
+      <entry shortcut="Ctrl+M" count="3" />
+      <entry shortcut="Ctrl+Minus" count="24" />
+      <entry shortcut="Ctrl+N" count="5" />
+      <entry shortcut="Ctrl+O" count="14" />
+      <entry shortcut="Ctrl+Open Bracket" count="5" />
+      <entry shortcut="Ctrl+P" count="61" />
+      <entry shortcut="Ctrl+Period" count="44" />
+      <entry shortcut="Ctrl+Q" count="118" />
+      <entry shortcut="Ctrl+R" count="8" />
+      <entry shortcut="Ctrl+Right" count="127" />
+      <entry shortcut="Ctrl+S" count="170" />
+      <entry shortcut="Ctrl+Shift+A" count="23" />
+      <entry shortcut="Ctrl+Shift+B" count="3" />
+      <entry shortcut="Ctrl+Shift+Backspace" count="76" />
+      <entry shortcut="Ctrl+Shift+C" count="4" />
+      <entry shortcut="Ctrl+Shift+Down" count="1" />
+      <entry shortcut="Ctrl+Shift+Enter" count="382" />
+      <entry shortcut="Ctrl+Shift+Equals" count="11" />
+      <entry shortcut="Ctrl+Shift+F" count="14" />
+      <entry shortcut="Ctrl+Shift+F10" count="30" />
+      <entry shortcut="Ctrl+Shift+H" count="1" />
+      <entry shortcut="Ctrl+Shift+I" count="4" />
+      <entry shortcut="Ctrl+Shift+J" count="39" />
+      <entry shortcut="Ctrl+Shift+K" count="34" />
+      <entry shortcut="Ctrl+Shift+L" count="12" />
+      <entry shortcut="Ctrl+Shift+Left" count="2" />
+      <entry shortcut="Ctrl+Shift+M" count="3" />
+      <entry shortcut="Ctrl+Shift+Minus" count="2" />
+      <entry shortcut="Ctrl+Shift+Open Bracket" count="3" />
+      <entry shortcut="Ctrl+Shift+P" count="16" />
+      <entry shortcut="Ctrl+Shift+Page Up" count="1" />
+      <entry shortcut="Ctrl+Shift+R" count="1" />
+      <entry shortcut="Ctrl+Shift+Right" count="4" />
+      <entry shortcut="Ctrl+Shift+Semicolon" count="2" />
+      <entry shortcut="Ctrl+Shift+Slash" count="26" />
+      <entry shortcut="Ctrl+Shift+Space" count="13" />
+      <entry shortcut="Ctrl+Shift+T" count="11" />
+      <entry shortcut="Ctrl+Shift+U" count="121" />
+      <entry shortcut="Ctrl+Shift+Up" count="1" />
+      <entry shortcut="Ctrl+Shift+V" count="1" />
+      <entry shortcut="Ctrl+Slash" count="454" />
+      <entry shortcut="Ctrl+T" count="10" />
+      <entry shortcut="Ctrl+U" count="61" />
+      <entry shortcut="Ctrl+Up" count="55" />
+      <entry shortcut="Ctrl+V" count="2000" />
+      <entry shortcut="Ctrl+W" count="254" />
+      <entry shortcut="Ctrl+X" count="392" />
+      <entry shortcut="Ctrl+Y" count="328" />
+      <entry shortcut="Ctrl+Z" count="1209" />
+      <entry shortcut="Delete" count="681" />
+      <entry shortcut="Down" count="7837" />
+      <entry shortcut="End" count="22" />
+      <entry shortcut="Enter" count="14808" />
+      <entry shortcut="Escape" count="202" />
+      <entry shortcut="F1" count="2" />
+      <entry shortcut="F12" count="1" />
+      <entry shortcut="F2" count="9" />
+      <entry shortcut="F4" count="1" />
+      <entry shortcut="F5" count="3" />
+      <entry shortcut="Home" count="16" />
+      <entry shortcut="Insert" count="34" />
+      <entry shortcut="Left" count="3891" />
+      <entry shortcut="Page Down" count="7" />
+      <entry shortcut="Page Up" count="8" />
+      <entry shortcut="Right" count="5643" />
+      <entry shortcut="Shift+Backspace" count="40" />
+      <entry shortcut="Shift+Delete" count="5" />
+      <entry shortcut="Shift+Down" count="28" />
+      <entry shortcut="Shift+Enter" count="701" />
+      <entry shortcut="Shift+Escape" count="1" />
+      <entry shortcut="Shift+F2" count="1" />
+      <entry shortcut="Shift+F3" count="2" />
+      <entry shortcut="Shift+F4" count="16" />
+      <entry shortcut="Shift+F6" count="52" />
+      <entry shortcut="Shift+Insert" count="57" />
+      <entry shortcut="Shift+Left" count="115" />
+      <entry shortcut="Shift+Right" count="1299" />
+      <entry shortcut="Shift+Shift" count="191" />
+      <entry shortcut="Shift+Tab" count="92" />
+      <entry shortcut="Shift+Up" count="51" />
+      <entry shortcut="Tab" count="1461" />
+      <entry shortcut="Up" count="2439" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="bos_3.0" values="ECMAScript 5.1" collectionTime="1523082507384" />
+    </group>
+    <group name="frameworks">
+      <project id="bos_3.0" values="Spring,web" collectionTime="1523082507025" />
+    </group>
+    <group name="vcs">
+      <project id="bos_3.0" values="Git" collectionTime="1523082506980" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="bos_3.0" values="data.users.count.1+,data.branches.count.1+,data.git.root.count.1,data.commit.count.1+" collectionTime="1523082507239" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="bos_3.0" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1523082507026" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="bos_3.0" values="Application" collectionTime="1523082507026" />
+    </group>
+    <group name="file-type">
+      <project id="bos_3.0" values="HTML,JSP,UNKNOWN,PLAIN_TEXT,Markdown,JavaScript,JSON,XML,CSS,JAVA,Images,Properties,SourceMap,Native" collectionTime="1523082507025" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="bos_3.0" values="run.dashboard.disabled" collectionTime="1523082507222" />
+    </group>
+    <group name="images.ide.background">
+      <project id="bos_3.0" values="editor,frame" collectionTime="1523082507240" />
+    </group>
+    <group name="module-language-level">
+      <project id="bos_3.0" values="JDK_1_8" collectionTime="1523082507241" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="bos_3.0" values="Oracle/Oracle Database 10g Enterprise Edition Release 10.2.0.1.0 - Production&#10;With the Partitioning  OLAP and Data Mining options,Oracle/Oracle Database 10g Enterprise Edition Release 10.2.0.1.0 - Production&#10;With the Partitioning  OLAP and Data Mining options" collectionTime="1523082507385" />
+    </group>
+    <group name="all-bundled-tools">
+      <project id="bos_3.0" values="JAVA.ClassWithTooManyFields,JavaScript.JSHint,XML.JsfManagedBeansInconsistencyInspection,Groovy.GroovyOctalInteger,null.Annotator,XML.HibernateConfigDomFacetInspection,JAVA.PointlessArithmeticExpression,JAVA.InstanceVariableMayNotBeInitializedByReadObject,JAVA.ExternalizableClassWithSerializationMethods,JAVA.PublicConstructor,JAVA.CdiSpecializesInspection,XML.SpringRequiredPropertyInspection,JAVA.ReplaceNullCheck,JAVA.MethodOverridesStaticMethodOfSuperclass,JAVA.InnerClassFieldHidesOuterClassField,Groovy.GroovyOverlyNestedMethod,JavaScript.Jscs,Groovy.GroovyAssignmentToForLoopParameter,XML.JavaFxEventHandler,UAST.SpringJavaInjectionPointsAutowiringInspection,Groovy.GroovyAssignabilityCheck,JavaScript.JSStringConcatenationToES6Template,JAVA.OptionalIsPresent,JAVA.CdiInjectInspection,XML.MavenRedundantGroupId,JAVA.IdempotentLoopBody,JAVA.UnnecessarilyQualifiedStaticallyImportedElement,XML.SpringPlaceholdersInspection,UAST.ContextJavaBeanUnresolvedMethodsInspection,JAVA.ClassTooDeepInInheritanceTree,JAVA.ObjectEqualsCanBeEquality,JAVA.RawTypeCanBeGeneric,JavaScript.UnterminatedStatementJS,Groovy.GroovyMultipleReturnPointsPerMethod,JAVA.PublicConstructorInNonPublicClass,JavaScript.NestedConditionalExpressionJS,JAVA.AutoUnboxing,JavaScript.ES6MissingAwait,Groovy.GroovyContinue,JAVA.NonSynchronizedMethodOverridesSynchronizedMethod,JAVA.StringConcatenationInsideStringBufferAppend,Groovy.GroovyPointlessArithmetic,JAVA.CloneInNonCloneableClass,JAVA.ConstantForZeroLengthArrayAllocation,JAVA.UnnecessaryQualifierForThis,Groovy.ChangeToMethod,JAVA.CucumberJavaStepDefClassInDefaultPackage,JAVA.DefaultNotLastCaseInSwitch,XML.UtilSchemaInspection,JAVA.ExternalizableWithoutPublicNoArgConstructor,JAVA.AssertStatement,Groovy.GroovyUnusedCatchParameter,JAVA.MethodRefCanBeReplacedWithLambda,Groovy.GroovyEmptySyncBlock,JAVA.OverlyBroadThrowsClause,JAVA.MethodMayBeSynchronized,JPAQL.JpaQlInspection,JAVA.groupsTestNG,Groovy.GroovyUnsynchronizedMethodOverridesSynchronizedMethod,JAVA.MigrateAssertToMatcherAssert,JAVA.JpaDataSourceORMInspection,XML.HtmlDeprecatedTag,JAVA.EmptyWebServiceClass,JAVA.UnsecureRandomNumberGeneration,JavaScript.ConstantOnRightSideOfComparisonJS,JAVA.OverridableMethodCallDuringObjectConstruction,JAVA.PackageWithTooFewClasses,JAVA.PropertyValueSetToItself,JAVA.UseOfObsoleteDateTimeApi,JAVA.UnconditionalWait,JAVA.DataProviderReturnType,JavaScript.ES6ConvertVarToLetConst,null.InjectedReferences,JAVA.UseOfObsoleteAssert,SQL.SqlSignature,TypeScript.TypeScriptCheckImport,JavaScript.JSBitwiseOperatorUsage,JavaScript.FlowJSError,JAVA.RedundantNoArgConstructor,JAVA.ConfusingOctalEscapeSequence,TypeScript.TypeScriptFieldCanBeMadeReadonly,JAVA.UnnecessaryParentheses,JAVA.ClassNameDiffersFromFileName,JavaScript.AnonymousFunctionJS,JAVA.SpringFacetProgrammaticInspection,JAVA.CollectionDeclaredAsConcreteClass,XML.XmlInvalidId,JAVA.EjbClassBasicInspection,null.SyntaxError,CSS.CssInvalidPseudoSelector,JAVA.Java9CollectionFactory,JAVA.UnnecessaryLocalVariable,JAVA.DoubleLiteralMayBeFloatLiteral,JAVA.ProblematicVarargsMethodOverride,CSS.CssNoGenericFontName,JAVA.JpaEntityListenerInspection,JAVA.PackageInMultipleModules,JAVA.UnnecessaryExplicitNumericCast,JavaScript.PointlessBitwiseExpressionJS,JavaScript.DuplicateCaseLabelJS,JAVA.Java8MapApi,JAVA.InterfaceWithOnlyOneDirectInheritor,JAVA.BooleanExpressionMayBeConditional,JAVA.SpringSecurityAnnotationBeanPointersResolveInspection,Groovy.GroovyStaticVariableNamingConvention,FTL.FtlTypesInspection,JAVA.NegatedConditionalExpression,JAVA.SpringMVCInitBinder,JAVA.ImplicitNumericConversion,JAVA.UnnecessarySemicolon,JSON.SpringBootAdditionalConfig,JAVA.unchecked,JavaScript.JSCommentMatchesSignature,JAVA.MarkerInterface,JAVA.AbstractMethodCallInConstructor,Groovy.GroovyStaticMethodNamingConvention,JAVA.TestMethodWithIncorrectSignature,Groovy.GroovyFallthrough,JAVA.SpringFacetCodeInspection,JAVA.AssignmentToSuperclassField,CSS.CssNegativeValue,Properties.UnusedMessageFormatParameter,HTML.HtmlUnknownAttribute,JAVA.BooleanConstructorCall,JAVA.CallToThreadStartDuringObjectConstruction,JAVA.AssignmentToForLoopParameter,null.UnresolvedReference,JAVA.RestParamTypeInspection,JAVA.InstantiatingObjectToGetClassObject,JAVA.JpaQueryApiInspection,JAVA.ProhibitedExceptionCaught,null.Duplicates,JAVA.SpringDataRepositoryMethodParametersInspection,JavaScript.JSClassNamingConvention,JAVA.EqualsBetweenInconvertibleTypes,JAVA.MethodDoesntCallSuperMethod,JAVA.ConfusingFloatingPointLiteral,JAVA.ConvertJavadoc,JAVA.AtomicFieldUpdaterIssues,JAVA.DuplicateBooleanBranch,JavaScript.WithStatementJS,JAVA.PublicStaticCollectionField,JavaScript.JSPotentiallyInvalidConstructorUsage,XML.SpringXmlAutowiringInspection,JAVA.finally,XPath.HardwiredNamespacePrefix,JAVA.CdiInterceptorInspection,JAVA.MethodCanBeVariableArityMethod,XPath.CheckNodeTest,JAVA.SingleCharacterStringConcatenation,XML.WebProperties,JAVA.ConditionalBreakInInfiniteLoop,JAVA.CallToDriverManagerGetConnection,JAVA.NonShortCircuitBooleanExpression,XML.HardcodedActionUrl,JAVA.ArrayCreationWithoutNewKeyword,JAVA.JpaEntityListenerWarningsInspection,JAVA.StaticInheritance,JAVA.UnusedLabel,JAVA.RedundantCast,JAVA.PublicMethodNotExposedInInterface,JAVA.MessageMissingOnTestNGAssertion,Groovy.GroovyLocalVariableNamingConvention,JAVA.ObjectInstantiationInEqualsHashCode,JAVA.SizeReplaceableByIsEmpty,JavaScript.TextLabelInSwitchStatementJS,JAVA.LambdaParameterNamingConvention,XPath.IndexZeroUsage,JAVA.CloneReturnsClassType,JavaScript.JSUndeclaredVariable,Groovy.GroovyReturnFromClosureCanBeImplicit,JAVA.fallthrough,EL.ELDeferredExpressionsInspection,XML.SpringWebServicesConfigurationsInspection,JavaScript.CallerJS,JAVA.JavaLangInvokeHandleSignature,JAVA.UnresolvedPropertyKey,SQL.SqlResolve,JavaScript.StandardJS,JAVA.EnumAsIdentifier,JavaScript.JSRemoveUnnecessaryParentheses,JAVA.MagicCharacter,Groovy.GroovyResultOfAssignmentUsed,Groovy.GroovySynchronizedMethod,Groovy.GroovyNotifyWhileNotSynchronized,JAVA.NullThrown,JAVA.CStyleArrayDeclaration,JAVA.ForLoopReplaceableByForEach,JavaScript.JSClosureCompilerSyntax,JavaScript.JSDeprecatedSymbols,JAVA.ToArrayCallWithZeroLengthArrayArgument,RegExp.RegExpOctalEscape,JavaScript.SillyAssignmentJS,JAVA.CallToRuntimeExecWithNonConstantString,JAVA.ValidExternallyBoundObject,JAVA.IteratorNextCanNotThrowNoSuchElementException,JAVA.ClassOnlyUsedInOnePackage,JAVA.Since15,EL.JspUnescapedEl,JAVA.AsyncMethodInspection,JAVA.LoadLibraryWithNonConstantString,JAVA.AssignmentToStaticFieldFromInstanceMethod,RegExp.RegExpAnonymousGroup,JAVA.ReturnOfThis,JAVA.UtilityClass,Properties.SpringBootApplicationProperties,TypeScript.TypeScriptMissingAugmentationImport,null.HardCodedStringLiteral,JavaScript.OverlyComplexFunctionJS,JAVA.CdiUnproxyableBeanTypesInspection,null.LongLine,JavaScript.ES6PossiblyAsyncFunction,JAVA.deprecation,Groovy.GroovyDuplicateSwitchBranch,JAVA.ConnectionOpenedButNotSafelyClosed,JAVA.AccessToStaticFieldLockedOnInstance,JavaScript.FunctionNamingConventionJS,JAVA.LoopStatementThatDoesntLoop,FTL.FtlCallsInspection,JAVA.LambdaParameterHidesMemberVariable,JAVA.SingleClassImport,Groovy.GroovyEmptyCatchBlock,JavaScript.ES6ConvertRequireIntoImport,JAVA.ControlFlowStatementWithoutBraces,JavaScript.NestedFunctionCallJS,JAVA.AssertEqualsBetweenInconvertibleTypes,Groovy.GroovyRangeTypeCheck,Properties.SpringHandlersSchemasHighlighting,Properties.TrailingSpacesInProperty,JAVA.OverlyBroadCatchBlock,JAVA.CharacterComparison,JAVA.BreakStatementWithLabel,XML.JavaeeApplicationDomInspection,JAVA.MethodWithMultipleLoops,JavaScript.CommaExpressionJS,TypeScript.TypeScriptAccessibilityCheck,Groovy.GroovyDoubleNegation,JAVA.JavaDoc,JAVA.EqualsOnSuspiciousObject,JavaScript.JSPrimitiveTypeWrapperUsage,JAVA.WrongPackageStatement,JavaScript.NestedAssignmentJS,JAVA.Java9UndeclaredServiceUsage,JAVA.RedundantThrows,JAVA.CyclicClassDependency,Groovy.GroovyPointlessBoolean,JAVA.HibernateResourceOpenedButNotSafelyClosed,JAVA.EjbSessionHomeInterfaceInspection,JavaScript.OctalIntegerJS,JavaScript.ES6ModulesDependencies,JAVA.LoopWithImplicitTerminationCondition,JavaScript.ES6ConvertModuleExportToExport,Groovy.GroovyOverlyComplexArithmeticExpression,JAVA.FloatingPointEquality,null.XsltDeclarations,JAVA.EjbRemoteRequirementsInspection,JAVA.CallToThreadStopSuspendOrResumeManager,Groovy.GroovyNestedAssignment,JAVA.HtmlTagCanBeJavadocTag,XML.RequiredArtifactTypeInspection,XML.HtmlNonExistentInternetResource,JAVA.InfiniteRecursion,JAVA.DuplicateThrows,JAVA.PointlessIndexOfComparison,JAVA.EnumSwitchStatementWhichMissesCases,JavaScript.LocalVariableNamingConventionJS,JAVA.HardcodedFileSeparator,JAVA.ScheduledMethodInspection,JAVA.StaticFieldReferencedViaSubclass,JAVA.BooleanVariableAlwaysNegated,JAVA.RedundantStringFormatCall,JAVA.JavaReflectionInvocation,JAVA.DanglingJavadoc,JAVA.NonSerializableObjectBoundToHttpSession,null.GroovyUnusedDeclaration,JavaScript.JSFileReferences,JavaScript.DefaultNotLastCaseInSwitchJS,JAVA.TypeParameterHidesVisibleType,JAVA.rawtypes,null.SpellCheckingInspection,JavaScript.FunctionWithMultipleLoopsJS,JAVA.AssertWithSideEffects,JAVA.StaticMethodOnlyUsedInOneClass,JAVA.CovariantEquals,JAVA.IntLiteralMayBeLongLiteral,XML.WebflowModelInspection,JavaScript.DuplicateConditionJS,JAVA.CloneableClassWithoutClone,JAVA.UnaryPlus,JAVA.SuspiciousLiteralUnderscore,JAVA.FinalizeCalledExplicitly,JAVA.UnnecessaryThis,JAVA.Java8MapForEach,JAVA.OverloadedMethodsWithSameNumberOfParameters,JavaScript.ExceptionCaughtLocallyJS,UAST.SubscriberImplementation,JAVA.PointlessNullCheck,JAVA.StaticVariableMayNotBeInitialized,Groovy.GroovyNestedSynchronizedStatement,Groovy.GroovyNestedSwitch,JAVA.JDBCPrepareStatementWithNonConstantString,Gherkin.CucumberUndefinedStep,XML.SpringBeanLookupMethodInspection,JAVA.NumericOverflow,XML.SpringSecurityModelInspection,SQL.SqlCheckUsingColumns,JAVA.StreamToLoop,JAVA.ProhibitedExceptionDeclared,XML.XmlUnboundNsPrefix,JAVA.ReplaceInefficientStreamCount,JAVA.OverlyCoupledClass,JAVA.RedundantStringConstructorCall,JAVA.BigDecimalEquals,CSS.CssConvertColorToHexInspection,JAVA.NonSerializableClassWithSerialVersionUID,JAVA.ParameterNameDiffersFromOverriddenParameter,null.UnnecessaryModuleDependencyInspection,JAVA.MultipleMethodDesignatorsInspection,XML.SpringIntegrationModel,XML.SpringInactiveProfileHighlightingInspection,JavaScript.FallThroughInSwitchStatementJS,JavaScript.ConditionalExpressionJS,JAVA.UnnecessarilyQualifiedStaticUsage,XML.JavaFxUnusedImports,JavaScript.EmptyFinallyBlockJS,JAVA.RedundantCollectionOperation,JavaScript.EmptyCatchBlockJS,JAVA.MisorderedAssertEqualsArguments,JAVA.UtilityClassCanBeEnum,TypeScript.TypeScriptUnresolvedVariable,JavaScript.DynamicallyGeneratedCodeJS,JAVA.ReadResolveAndWriteReplaceProtected,Groovy.GroovyUntypedAccess,JAVA.InstanceofCatchParameter,JAVA.UseOfJDBCDriverClass,JAVA.SerializableNonStaticInnerClassWithoutSerialVersionUID,XML.ContextComponentScanInconsistencyInspection,XML.FacesModelInspection,JAVA.AssertEqualsMayBeAssertSame,JAVA.JavaLangImport,JavaScript.ContinueStatementJS,JAVA.NonFinalFieldReferenceInEquals,JAVA.ArrayEquality,JAVA.ClassWithoutConstructor,JAVA.UnnecessaryBoxing,JAVA.ConditionalCanBePushedInsideExpression,TypeScript.TypeScriptSuspiciousConstructorParameterAssignment,JAVA.SimplifiableIfStatement,JAVA.JavaRequiresAutoModule,JAVA.EjbInterfaceSignatureInspection,JAVA.AbstractMethodOverridesAbstractMethod,JAVA.UnnecessaryFinalOnLocalVariableOrParameter,JAVA.UnnecessaryBreak,JAVA.SynchronizationOnStaticField,Groovy.JavaStylePropertiesInvocation,Groovy.GroovyConditionalCanBeConditionalCall,HTML.JSUnresolvedLibraryURL,JAVA.ConstantOnRightSideOfComparison,JavaScript.JSReferencingArgumentsOutsideOfFunction,CSS.CssInvalidPropertyValue,JAVA.AwaitWithoutCorrespondingSignal,Groovy.GroovyLabeledStatement,JavaScript.JSAccessibilityCheck,JAVA.ConstantOnLeftSideOfComparison,JAVA.DuplicateCondition,JAVA.NewStringBufferWithCharArgument,JAVA.NonFinalGuard,JAVA.EqualsAndHashcode,JAVA.NonConstantLogger,JAVA.CallToSignalInsteadOfSignalAll,JAVA.BooleanParameter,JAVA.ConstantConditions,JAVA.ForeachStatement,JavaScript.BadExpressionStatementJS,ECMAScript 6.ES6CheckImport,JAVA.EqualsReplaceableByObjectsCall,JAVA.JavadocReference,JAVA.AssertionCanBeIf,Groovy.GroovyMethodParameterCount,JAVA.ConstantMathCall,HTML.HtmlUnknownBooleanAttribute,JAVA.CallToSimpleGetterFromWithinClass,JAVA.FinalizeNotProtected,XML.JavaFxResourcePropertyValue,JAVA.ComparatorNotSerializable,JavaScript.NonBlockStatementBodyJS,XML.CheckValidXmlInScriptTagBody,JAVA.CachedNumberConstructorCall,JAVA.SuspiciousIndentAfterControlStatement,JAVA.OptionalContainsCollection,JavaScript.ES6BindWithArrowFunction,JavaScript.FunctionTooLongJS,JavaScript.ObjectAllocationIgnored,JAVA.OnDemandImport,JAVA.RedundantIfStatement,JAVA.EmptyFinallyBlock,JAVA.TooBroadScope,JAVA.ImplicitCallToSuper,JAVA.MismatchedQueryAndUpdateOfCollection,TypeScript.SuspiciousTypeOfGuard,JAVA.LoggingConditionDisagreesWithLogStatement,XML.HibernateConfigDomInspection,XML.SpringFactoryMethodInspection,JAVA.MethodWithMultipleReturnPoints,JAVA.UnnecessaryFullyQualifiedName,JAVA.NonFinalFieldInEnum,JAVA.StringConcatenationInLoop,JAVA.DialogTitleCapitalization,JAVA.RedundantExplicitClose,JAVA.OverlyComplexArithmeticExpression,JAVA.UnclearExpression,JAVA.AssertEqualsBetweenInconvertibleTypesTestNG,HTML.HtmlExtraClosingTag,Groovy.GroovySynchronizationOnNonFinalField,SQL.SqlDropIndexedColumn,JAVA.ExceptionPackage,JavaScript.JSPotentiallyInvalidTargetOfIndexedPropertyAccess,JAVA.LocalVariableOfConcreteClass,JAVA.NegativelyNamedBooleanVariable,XML.SpringAopWarningsInspection,XML.CheckEmptyScriptTag,JAVA.UnnecessaryContinue,XML.SpringOsgiServiceCommonInspection,JAVA.ConditionalExpression,JAVA.ExpectedExceptionNeverThrownTestNG,JAVA.SingleStatementInBlock,JAVA.ContinueStatementWithLabel,JAVA.JDBCResourceOpenedButNotSafelyClosed,JAVA.ConstantJUnitAssertArgument,JAVA.PrimitiveArrayArgumentToVarargsMethod,JAVA.EjbEntityInterfaceInspection,JAVA.SimplifiableBooleanExpression,XML.TaglibDomModelInspection,XML.BvConstraintMappingsInspection,XML.Struts2ModelInspection,JAVA.UnknownLanguage,JAVA.ModuleWithTooManyClasses,XML.ServletWithoutMappingInspection,JAVA.ClassWithTooManyConstructors,JAVA.NonFinalUtilityClass,JavaScript.JSConstructorReturnsPrimitive,XML.EjbDomInspection,XML.JpaDataSourceORMDomInspection,JAVA.CloneCallsConstructors,JAVA.CharUsedInArithmeticContext,JAVA.SpringMVCViewInspection,JAVA.SpringJavaConfigExternalBeansErrorInspection,JAVA.ConcatenationWithEmptyString,Groovy.GroovyEmptyStatementBody,JAVA.NakedNotify,JAVA.NonFinalFieldInImmutable,JAVA.StringBufferMayBeStringBuilder,null.LossyEncoding,JAVA.SimplifiableJUnitAssertion,JAVA.NonFinalClone,JAVA.NativeMethod,JAVA.OverlyNestedMethod,XML.RequiredBeanTypeInspection,XML.SpringSecurityDebugActivatedInspection,JAVA.AwaitNotInLoop,JAVA.WaitWithoutCorrespondingNotify,JAVA.OverlyStrongTypeCast,JAVA.AbstractClassWithOnlyOneDirectInheritor,JAVA.IfMayBeConditional,JAVA.SpringJavaAutowiredMembersInspection,Groovy.TypeCustomizer,JAVA.SuspiciousNameCombination,JAVA.LabeledStatement,XML.SpringIntegrationDeprecations21,JAVA.ComparableImplementedButEqualsNotOverridden,JAVA.DesignForExtension,JAVA.SuppressionAnnotation,JavaScript.JSPotentiallyInvalidUsageOfClassThis,JAVA.UnnecessaryReturnStatement,JAVA.UnnecessaryCallToSuper,JAVA.MathRandomCastToInt,JAVA.SuspiciousGetterSetter,Groovy.GroovyDivideByZero,JAVA.ClassHasNoToStringMethod,JavaScript.JSLastCommaInObjectLiteral,XML.SpringBeanDepedencyCheckInspection,Groovy.GroovyUnnecessaryReturn,JAVA.ReflectionForUnavailableAnnotation,JAVA.CallToNumericToString,JAVA.ConstantTestNGAssertArgument,Groovy.GroovyOverlyLongMethod,null.XsltUnusedDeclaration,JAVA.SubtractionInCompareTo,JAVA.SamePackageImport,HTML.EmptyEventHandler,Groovy.GroovyConditional,JAVA.CallToSystemGC,JAVA.resource,JavaScript.SwitchStatementWithNoDefaultBranchJS,UAST.SpringCacheableAndCachePutInspection,JAVA.PatternNotApplicable,JAVA.ClassMayBeInterface,JAVA.ConstantAssertCondition,JavaScript.ReservedWordAsName,JAVA.SynchroniziationOnLockObject,JavaScript.FunctionWithMoreThanThreeNegationsJS,JAVA.UnnecessaryToStringCall,XML.JpaDomInspection,JavaScript.OverlyComplexArithmeticExpressionJS,JAVA.SameReturnValue,JAVA.NestedAssignment,JAVA.serial,JAVA.EjbInterfaceMethodInspection,JAVA.WeakerAccess,JavaScript.NegatedConditionalExpressionJS,JAVA.SameParameterValue,JAVA.PathAnnotation,JAVA.CollectionWithoutInitialCapacity,XML.HtmlUnknownAnchorTarget,JAVA.JUnitRule,XML.SpringOsgiElementsInconsistencyInspection,JAVA.ClassUnconnectedToPackage,TypeScript.TypeScriptValidateTypes,JavaScript.PointlessBooleanExpressionJS,SQL.SqlAmbiguousColumn,JAVA.IndexOfReplaceableByContains,JAVA.UnusedAssignment,JAVA.InnerClassOfInterface,JAVA.VoidMethodAnnotatedWithGET,JAVA.ChainOfInstanceofChecks,JAVA.InjectionNotApplicable,XML.SpringScopesInspection,Gherkin.GherkinBrokenTableInspection,JAVA.StringConcatenationInMessageFormatCall,Groovy.GroovySynchronizationOnVariableInitializedWithLiteral,JAVA.ThrowableNotThrown,XML.SelfIncludingJspFiles,JAVA.InstanceofIncompatibleInterface,JavaScript.ReuseOfLocalVariableJS,JAVA.EqualsCalledOnEnumConstant,JAVA.OverloadedVarargsMethod,CSS.CssUnitlessNumber,XML.SpringPublicFactoryMethodInspection,JAVA.FieldAccessNotGuarded,Groovy.GroovyWhileLoopSpinsOnField,JavaScript.UnnecessaryContinueJS,Properties.IncompleteProperty,JAVA.ImplicitlyExposedWebServiceMethods,JavaScript.ConstantConditionalExpressionJS,JAVA.UseOfPropertiesAsHashtable,JAVA.JNDIResourceOpenedButNotSafelyClosed,JAVA.ParameterTypePreventsOverriding,JAVA.OneWayWebMethod,JAVA.ConstantValueVariableUse,SQL.SqlShouldBeInGroupBy,JAVA.UnresolvedMessageChannel,JavaScript.JSXNamespaceValidation,JAVA.MisspelledEquals,JavaScript.JSLint,JAVA.VariableTypeCanBeExplicit,JAVA.EjbClassWarningsInspection,JAVA.NumericCastThatLosesPrecision,Groovy.GrUnresolvedAccess,JAVA.IntegerMultiplicationImplicitCastToLong,XML.WsdlHighlightingInspection,JAVA.CheckForOutOfMemoryOnLargeArrayAllocation,JAVA.SpringContextConfigurationInspection,JAVA.VariableArgumentMethod,JAVA.MethodParameterOfConcreteClass,JavaScript.GjsLint,JAVA.BusyWait,JAVA.SwitchStatementWithTooFewBranches,JAVA.CallToNotifyInsteadOfNotifyAll,JAVA.JavacQuirks,XML.XmlDefaultAttributeValue,JAVA.CallToTimeToString,JAVA.MissingAspectjAutoproxyInspection,JAVA.SimplifiableConditionalExpression,JAVA.AnonymousClassVariableHidesContainingMethodVariable,RegExp.RegExpEscapedMetaCharacter,JAVA.NonStaticInnerClassInSecureContext,JAVA.UnnecessarySuperQualifier,JAVA.MagicConstant,JAVA.LocalVariableNamingConvention,JAVA.ClassLoaderInstantiation,XML.XmlPathReference,JAVA.DeprecatedIsStillUsed,JAVA.StringBufferToStringInConcatenation,JAVA.UseOfAWTPeerClass,Flow JS.FlowJSConfig,JAVA.unused,JAVA.FinalMethodInFinalClass,JAVA.StaticNonFinalField,TypeScript.TypeScriptPreferShortImport,JAVA.ForLoopWithMissingComponent,JAVA.ThrowFromFinallyBlock,HTML.HtmlMissingClosingTag,JavaScript.LabeledStatementJS,Groovy.GroovySystemRunFinalizersOnExit,JAVA.FieldHasSetterButNoGetter,JAVA.ListIndexOfReplaceableByContains,JAVA.JUnit5Converter,JAVA.MultiCatchCanBeSplit,JAVA.DynamicRegexReplaceableByCompiledPattern,CSS.CssUnresolvedCustomPropertySet,JAVA.JUnit5MalformedParameterized,JAVA.EmptyClassInitializer,JAVA.SuspiciousToArrayCall,JAVA.OverlyComplexBooleanExpression,XML.JspTagBodyContent,Groovy.GroovyPublicFieldAccessedInSynchronizedContext,JAVA.TrivialFunctionalExpressionUsage,JAVA.NestedTryStatement,JAVA.EjbEnvironmentInspection,JAVA.BlockMarkerComments,JAVA.SimplifiedTestNGAssertion,EL.ELValidationInJSP,JAVA.NestedSynchronizedStatement,JAVA.SpringJavaConfigInconsistencyInspection,XML.HtmlUnknownTarget,JAVA.JpaObjectClassSignatureInspection,JAVA.NonPublicClone,JAVA.JUnitTestNG,EL.ELSpecValidationInJSP,JAVA.ParameterHidesMemberVariable,JAVA.MethodWithTooExceptionsDeclared,JAVA.IOResourceOpenedButNotSafelyClosed,JAVA.TryStatementWithMultipleResources,JAVA.UseOfSystemOutOrSystemErr,JAVA.FinalPrivateMethod,TypeScript.TypeScriptUMDGlobal,JavaScript.JSDeclarationsAtScopeStart,JAVA.UnnecessaryConstantArrayCreationExpression,JAVA.SerializableInnerClassWithNonSerializableOuterClass,JavaScript.ParameterNamingConventionJS,TypeScript.TypeScriptUnresolvedFunction,JAVA.BeforeOrAfterWithIncorrectSignature,JAVA.UseOfProcessBuilder,JAVA.NonBooleanMethodNameMayNotStartWithQuestion,JAVA.MethodMayBeStatic,JavaScript.InfiniteLoopJS,JAVA.UseBulkOperation,JAVA.override,Groovy.GroovyIfStatementWithTooManyBranches,JAVA.ClassIndependentOfModule,JAVA.ExceptionClassNameDoesntEndWithException,JAVA.StaticVariableUsedBeforeInitialization,CSS.W3CssValidation,null.UnusedDefine,JAVA.SpringElStaticFieldInjectionInspection,JAVA.ClassOnlyUsedInOneModule,HTML.PackageDotHtmlMayBePackageInfo,CSS.CssConvertColorToRgbInspection,JAVA.UnnecessaryTemporaryOnConversionToString,JAVA.SynchronizedOnLiteralObject,JavaScript.RedundantIfStatementJS,Groovy.GroovySwitchStatementWithNoDefault,JAVA.FieldCanBeLocal,JAVA.ConvertOldAnnotations,JAVA.Convert2streamapi,Groovy.GroovyNonShortCircuitBoolean,JAVA.ArrayHashCode,JAVA.CallToStringConcatCanBeReplacedByOperator,XML.HtmlPresentationalElement,JAVA.ParameterCanBeLocal,JavaScript.OverlyComplexBooleanExpressionJS,XML.SpringSecurityFiltersConfiguredInspection,JAVA.CastToConcreteClass,JAVA.EmptyTryBlock,JAVA.RedundantMethodOverride,null.MarkdownUnresolvedFileReference,Groovy.GroovyEmptyFinallyBlock,JAVA.StaticCollection,Properties.WrongPropertyKeyValueDelimiter,JAVA.TransientFieldInNonSerializableClass,JavaScript.InnerHTMLJS,JAVA.ClassEscapesDefinedScope,TypeScript.EqualityComparisonWithCoercionJS,JAVA.JUnitTestCaseWithNonTrivialConstructors,XML.SpringWebSocketConfigurationInspection,XML.HtmlFormInputWithoutLabel,JAVA.ComparisonOfShortAndChar,Groovy.GroovyThrowFromFinallyBlock,Groovy.GroovyWaitWhileNotSynchronized,JAVA.LiteralAsArgToStringEquals,Groovy.GrPackage,JAVA.CatchMayIgnoreException,JAVA.CastConflictsWithInstanceof,JAVA.AssertEqualsCalledOnArray,JAVA.CdiObservesInspection,XML.RequiredAttributes,JAVA.PublicField,JAVA.SwitchStatement,JavaScript.StatementWithEmptyBodyJS,JAVA.Convert2Lambda,JAVA.WaitOrAwaitWithoutTimeout,JAVA.JavaReflectionMemberAccess,JAVA.LocalCanBeFinal,JAVA.StaticVariableOfConcreteClass,Groovy.GroovyVariableNotAssigned,JAVA.InstanceVariableMayNotBeInitialized,JAVA.ThrowCaughtLocally,JavaScript.DocumentWriteJS,JAVA.SynchronizationOnLocalVariableOrMethodParameter,CSS.CssUnusedSymbol,SQL.SqlType,JavaScript.NestedSwitchStatementJS,JAVA.InterfaceMethodClashesWithObject,Groovy.GroovyIfStatementWithIdenticalBranches,Groovy.GroovyNegatedConditional,JAVA.OctalInteger,JAVA.SharedThreadLocalRandom,JAVA.SpringDataRepositoryMethodReturnTypeInspection,JAVA.CallToThreadSetPriority,JAVA.TextLabelInSwitchStatement,CSS.CssOptimizeSimilarProperties,JAVA.NotifyCalledOnCondition,Manifest.MisspelledHeader,Properties.DuplicatePropertyInspection,JAVA.ThrowablePrintedToSystemOut,JAVA.ImplicitDefaultCharsetUsage,JavaScript.JSUnresolvedExtXType,JAVA.CodeBlock2Expr,Groovy.GroovyConstantNamingConvention,JAVA.MethodNameSameAsClassName,FTL.FtlDeprecatedBuiltInsInspection,JAVA.SerialPersistentFieldsWithWrongSignature,JAVA.UseOfIndexZeroInJDBCResultSet,CSS.CssInvalidCharsetRule,Groovy.NewGroovyClassNamingConvention,JAVA.CallToRuntimeExec,JavaScript.ContinueStatementWithLabelJS,XML.SpringBatchModel,JavaScript.ES6ShorthandObjectProperty,SQL.SqlDeprecateType,Groovy.GroovyMapPutCanBeKeyedAccess,JAVA.LambdaBodyCanBeCodeBlock,JAVA.ReturnInsideFinallyBlock,SQL.SqlDerivedTableAlias,JAVA.UnnecessaryTemporaryOnConversionFromString,JAVA.ProtectedField,JavaScript.AssignmentToForLoopParameterJS,JavaScript.JSRedeclarationOfBlockScope,JavaScript.JSNonStrictModeUsed,XML.WadlDomInspection,SQL.SqlDialectInspection,XML.JavaFxUnresolvedStyleClassReference,JAVA.PackageWithTooManyClasses,XML.JavaFxUnresolvedFxIdReference,JAVA.ManualArrayToCollectionCopy,JavaScript.CoffeeScriptSwitchStatementWithNoDefaultBranch,XML.MavenModelInspection,Groovy.GroovyInstanceMethodNamingConvention,JAVA.MapReplaceableByEnumMap,JAVA.FieldMayBeStatic,JAVA.SignalWithoutCorrespondingAwait,JAVA.IfStatementWithNegatedCondition,JAVA.CdiStereotypeRestrictionsInspection,XML.CheckDtdRefs,JavaScript.ReturnInsideFinallyBlockJS,Groovy.DelegatesTo,Groovy.GroovyOverlyComplexBooleanExpression,JAVA.BooleanMethodNameMustStartWithQuestion,JAVA.BeforeOrAfterWithIncorrectSignature,JAVA.FrequentlyUsedInheritorInspection,JAVA.UnnecessaryJavaDocLink,JAVA.LambdaCanBeMethodCall,JAVA.LockAcquiredButNotSafelyReleased,JAVA.NonPrivateSerializationMethod,JAVA.CdiInjectionPointsInspection,JAVA.UnnecessaryUnboxing,JavaScript.JSIgnoredPromiseFromCall,JAVA.ObviousNullCheck,Groovy.GroovyMissingReturnStatement,JAVA.SleepWhileHoldingLock,JAVA.StaticInitializerReferencesSubClass,JavaScript.RedundantConditionalExpressionJS,JAVA.NestedConditionalExpression,JAVA.PatternOverriddenByNonAnnotatedMethod,JAVA.EmptySynchronizedStatement,JAVA.NonAtomicOperationOnVolatileField,ECMAScript 6.ES6ClassMemberInitializationOrder,JavaScript.UnnecessaryLocalVariableJS,JAVA.LongLiteralEndingWithLowercaseL,JAVA.JUnit5AssertionsConverter,JAVA.Java9RedundantRequiresStatement,Groovy.GroovyListSetCanBeKeyedAccess,JAVA.ManualArrayCopy,JAVA.WhileLoopReplaceableByForEach,JavaScript.CoffeeScriptArgumentsOutsideFunction,JAVA.ManagedBeanClassInspection,JAVA.CallToNativeMethodWhileLocked,XPath.RedundantTypeConversion,JAVA.LocalVariableHidesMemberVariable,JAVA.OverlyLongMethod,JAVA.SerialVersionUIDWithWrongSignature,JAVA.NonConstantStringShouldBeStringBuffer,JAVA.UseOfSunClasses,JavaScript.ForLoopReplaceableByWhile,XML.AntDuplicateTargetsInspection,JAVA.SingleCharacterStartsWith,JAVA.StringConcatenationMissingWhitespace,Groovy.GroovyAccessToStaticFieldLockedOnInstance,UAST.SpringBootBootstrapConfigurationInspection,Groovy.GroovyNegatedIf,XML.SpringMessageDispatcherWebXmlInspection,null.PointcutMethodStyleInspection,JAVA.SpringComponentScan,JAVA.FieldNameHidesFieldInSuperclass,XML.SpringInjectionValueStyleInspection,JAVA.JpaModelReferenceInspection,JAVA.AbsoluteAlignmentInUserInterface,JAVA.MethodWithMoreThanThreeNegations,JAVA.UseOfStringTokenizer,null.SSBasedInspection,JAVA.UnqualifiedFieldAccess,JAVA.DoubleCheckedLocking,Groovy.GroovyUnusedIncOrDec,XML.HibernateMappingDatasourceDomInspection,JAVA.AnonymousInnerClassMayBeStatic,JAVA.SwitchStatementDensity,JAVA.SimplifyStreamApiCallChains,JavaScript.JSUnusedLocalSymbols,JAVA.SingleCharacterStringConcatenation,JAVA.CallToPrintStackTrace,JAVA.EqualsWithItself,JAVA.MagicNumber,JavaScript.UnnecessaryLabelOnContinueStatementJS,JavaScript.DebuggerStatementJS,XML.WebflowConfigModelInspection,JAVA.EqualsWhichDoesntCheckParameterClass,JAVA.SimplifiableEqualsExpression,JAVA.OptionalUsedAsFieldOrParameterType,JavaScript.ConfusingPlusesOrMinusesJS,JAVA.LambdaParameterTypeCanBeSpecified,JAVA.RedundantStreamOptionalCall,Flow JS.FlowJSCoverage,XML.CheckTagEmptyBody,JAVA.ConstantExpression,JAVA.OctalAndDecimalIntegersInSameArray,JAVA.CallToSystemGetenv,JAVA.EmptyClass,JAVA.CallToDateToString,null.ArgNamesErrorsInspection,JAVA.CdiNormalScopeInspection,JavaScript.JSCheckFunctionSignatures,null.TodoComment,Groovy.GroovyWaitCallNotInLoop,JAVA.CallToSuspiciousStringMethod,SQL.SqlUnused,JavaScript.InfiniteRecursionJS,JAVA.UncheckedExceptionClass,Groovy.GroovyReturnFromFinallyBlock,JavaScript.JSComparisonWithNaN,JAVA.TryFinallyCanBeTryWithResources,JAVA.UndeclaredTests,JAVA.FieldNotUsedInToString,JAVA.MetaAnnotationWithoutRuntimeRetention,JAVA.AnonymousInnerClass,JavaScript.XHTMLIncompatabilitiesJS,JAVA.ConditionalCanBeOptional,Manifest.MissingFinalNewline,XML.AbstractBeanReferencesInspection,JAVA.ConfusingArgumentToVarargsMethod,JAVA.SerializableStoresNonSerializable,JavaScript.ThrowInsideFinallyBlockJS,JAVA.UsingRandomNextDoubleForRandomInteger,JAVA.PublicStaticArrayField,JAVA.EnumClass,JAVA.InstanceofConcreteClass,XML.CheckImageSize,JavaScript.FunctionWithInconsistentReturnsJS,JAVA.IfCanBeAssertion,null.InconsistentLineSeparators,JAVA.FinalMethod,JAVA.MethodNameSameAsParentName,JAVA.MalformedRegex,JAVA.ThreadLocalNotStaticFinal,JAVA.OverriddenMethodCallDuringObjectConstruction,JAVA.StringConcatenationArgumentToLogCall,JAVA.DoubleNegation,null.AroundAdviceStyleInspection,JavaScript.VoidExpressionJS,JAVA.NonThreadSafeLazyInitialization,JAVA.UnusedReturnValue,XML.FlowRequiredBeanTypeInspection,JAVA.UnnecessaryInterfaceModifier,JavaScript.UnusedCatchParameterJS,JAVA.ReuseOfLocalVariable,JAVA.SpringJavaConstructorAutowiringInspection,JAVA.SpringCacheableComponentsInspection,XML.JavaFxColorRgb,JAVA.VolatileLongOrDoubleField,JAVA.ClassNamePrefixedWithPackageName,JAVA.KeySetIterationMayUseEntrySet,JAVA.AssignmentUsedAsCondition,Groovy.GroovyConstantIfStatement,JAVA.RecordStoreOpenedButNotSafelyClosed,JAVA.WaitNotInLoop,JAVA.UnnecessaryUnicodeEscape,JAVA.AssertMessageNotString,JavaScript.UnnecessaryLabelJS,JavaScript.JSJQueryEfficiency,JAVA.CriteriaApiResolveInspection,JAVA.SwitchStatementWithoutDefaultBranch,XML.JspDirectiveInspection,SQL.MysqlParsing,JAVA.LambdaUnfriendlyMethodOverload,JAVA.EmptyDirectory,null.ArgNamesWarningsInspection,Groovy.GroovySynchronizationOnThis,JavaScript.ChainedEqualityComparisonsJS,Properties.InconsistentResourceBundle,JAVA.EjbEntityClassInspection,JAVA.MVCPathVariableInspection,JAVA.SynchronizationOnGetClass,JAVA.ErrorNotRethrown,XML.SpringIncorrectResourceTypeInspection,JavaScript.UnnecessaryLabelOnBreakStatementJS,JAVA.OverlyComplexAnonymousInnerClass,XML.MavenDuplicatePluginInspection,JAVA.StandardVariableNames,JAVA.ThrowsRuntimeException,JAVA.NegatedEqualityExpression,JAVA.AnonymousHasLambdaAlternative,JAVA.JUnit5MalformedRepeated,JavaScript.JSFunctionExpressionToArrowFunction,JAVA.VariablesOfDifferentTypesInDeclaration,JAVA.ClassWithTooManyDependencies,JAVA.unchecked,JAVA.JUnit3StyleTestMethodInJUnit4Class,JAVA.ChainedEqualityComparisons,JAVA.ClassNewInstance,JAVA.SerializableDeserializableClassInSecureContext,Flow JS.FlowJSFlagCommentPlacement,JAVA.InvalidComparatorMethodReference,JAVA.UseOfObsoleteCollectionType,Groovy.GroovyConstructorNamedArguments,EL.ELMethodSignatureInspection,JAVA.NonFinalFieldOfException,Gherkin.CucumberTableInspection,Groovy.GroovyResultOfObjectAllocationIgnored,JavaScript.JSMethodCanBeStatic,JavaScript.JSTypeOfValues,JAVA.StringTokenizerDelimiter,JavaScript.ConstantIfStatementJS,JAVA.ThreadDeathNotRethrown,JAVA.ModuleWithTooFewClasses,JAVA.VolatileArrayField,JAVA.UnnecessaryCodeBlock,JAVA.FeatureEnvy,JAVA.ConditionalExpressionWithIdenticalBranches,JAVA.SpringTestingTransactionalInspection,JAVA.InstanceofThis,JAVA.NestedSwitchStatement,JAVA.TransientFieldNotInitialized,JAVA.MismatchedReadAndWriteOfArray,JAVA.MoveFieldAssignmentToInitializer,Groovy.GrUnnecessarySemicolon,XML.BvConfigDomInspection,JAVA.MissingDeprecatedAnnotation,JAVA.NewExceptionWithoutArguments,JAVA.AbstractMethodOverridesConcreteMethod,JAVA.RSReferenceInspection,JAVA.SpringTransactionalComponentInspection,XML.SpringBeanNameConventionInspection,Gherkin.CucumberExamplesColon,JAVA.AmbiguousFieldAccess,JAVA.ClassWithMultipleLoggers,Groovy.GrMethodMayBeStatic,JAVA.UnknownGuard,XML.ValidatorModelInspection,JAVA.UnnecessaryDefault,JAVA.StaticGuardedByInstance,JAVA.NonFinalStaticVariableUsedInClassInitialization,JAVA.RedundantInterfaceDeclaration,JAVA.AbstractClassWithoutAbstractMethods,JAVA.PackageInfoWithoutPackage,Groovy.GroovyDocCheck,JAVA.CloneDoesntDeclareCloneNotSupportedException,JAVA.JsfJamExtendsClassInconsistencyInspection,JavaScript.IncompatibleBitwiseMaskOperation,JAVA.CyclicPackageDependency,JAVA.CallToThreadRun,XML.UnparsedCustomBeanInspection,JAVA.RedundantExplicitVariableType,TypeScript.TypescriptExplicitMemberType,JavaScript.NestedFunctionJS,JavaScript.JSNonASCIINames,JAVA.UnconstructableJUnitTestCase,JAVA.JpaMissingIdInspection,JAVA.UtilityClassWithPublicConstructor,JAVA.EjbStaticAccessInspection,null.InconsistentLanguageLevel,JAVA.OverlyLongLambda,RegExp.RegExpRepeatedSpace,JAVA.DiamondCanBeReplacedWithExplicitTypeArguments,UAST.SpringCacheNamesInspection,JAVA.InnerClassMayBeStatic,JAVA.CustomClassloader,JAVA.NonSerializableObjectPassedToObjectStream,JAVA.OverlyLargePrimitiveArrayInitializer,UAST.PublisherImplementation,JavaScript.JSUnresolvedFunction,Groovy.GroovyMethodWithMoreThanThreeNegations,XML.CheckXmlFileWithXercesValidator,Groovy.GroovyListGetCanBeKeyedAccess,SQL.SqlConstantCondition,JAVA.CompareToUsesNonFinalVariable,JavaScript.CoffeeScriptLiteralNotFunction,JAVA.CdiAlternativeInspection,JAVA.MalformedSetUpTearDown,null.SpringAopErrorsInspection,JAVA.ChannelOpenedButNotSafelyClosed,JavaScript.ES6ConvertToForOf,JavaScript.ThisExpressionReferencesGlobalObjectJS,JavaScript.MagicNumberJS,JAVA.AssignmentOrReturnOfFieldWithMutableType,CSS.CssInvalidFunction,XML.XmlHighlighting,Groovy.GroovyUnnecessaryContinue,JAVA.InfiniteLoopStatement,Groovy.GroovyAssignmentCanBeOperatorAssignment,JAVA.JUnitTestMethodInProductSource,JAVA.PublicInnerClass,JAVA.FieldNamingConvention,JAVA.MissortedModifiers,JAVA.TestOnlyProblems,JAVA.ObjectEquality,JAVA.CallToSystemExit,JAVA.DollarSignInName,JAVA.ComparatorCombinators,JAVA.ClassWithoutNoArgConstructor,JAVA.UnnecessaryUnaryMinus,JAVA.SimplifyOptionalCallChains,JAVA.IfCanBeSwitch,JAVA.ZeroLengthArrayAllocation,Groovy.ChangeToOperator,UAST.ImplicitSubclassInspection,JAVA.ConstructorWithTooManyParameters,JAVA.ClassInitializerMayBeStatic,JAVA.Java9ReflectionClassVisibility,null.DeclareParentsInspection,XML.BatchJobDomInspection,JavaScript.JSSuspiciousNameCombination,Groovy.GroovyInstanceVariableNamingConvention,JAVA.AssignmentReplaceableWithOperatorAssignment,JAVA.CallToSystemRunFinalizersOnExit,JAVA.ConditionalExpressionWithNegatedCondition,JAVA.SingleElementAnnotation,JAVA.CdiUnknownProducersForDisposerMethodInspection,JavaScript.JSPotentiallyInvalidUsageOfThis,Groovy.PlayPropertyInspection,JAVA.ObjectAllocationInLoop,JavaScript.ConfusingFloatingPointLiteralJS,CSS.CssInvalidAtRule,JAVA.SimplifyForEach,JAVA.ConstraintValidatorCreator,XML.SpringXmlAutowireExplicitlyInspection,JAVA.StringEqualsEmptyString,JAVA.NullableProblems,JAVA.StaticMethodReferencedViaSubclass,JAVA.RestResourceMethodInspection,Groovy.GroovyNestedConditional,JAVA.MissingPackageInfo,JAVA.SuspiciousMethodCalls,JAVA.LoggerInitializedWithForeignClass,JAVA.InnerClassTooDeeplyNested,RegExp.RegExpDuplicateAlternationBranch,JAVA.ArrayLengthInLoopCondition,XML.SpringOsgiListenerInspection,JAVA.MultipleTopLevelClassesInFile,XML.SpringFacetInspection,JAVA.InstanceGuardedByStatic,JAVA.ForLoopReplaceableByWhile,JAVA.CheckedExceptionClass,JAVA.removal,JAVA.CallToSystemSetSecurityManager,JAVA.UnnecessaryCallToStringValueOf,JAVA.JpaAttributeMemberSignatureInspection,SQL.SqlSideEffects,UAST.SpringCacheAnnotationsOnInterfaceInspection,Groovy.GroovyLoopStatementThatDoesntLoop,JAVA.FinalStaticMethod,JAVA.ProhibitedExceptionThrown,JAVA.IgnoredJUnitTest,JAVA.ReturnOfNull,RegExp.RegExpRedundantEscape,JAVA.LogStatementGuardedByLogCondition,JAVA.dependsOnMethodTestNG,JAVA.UNUSED_IMPORT,Groovy.GroovyAccessibility,JavaScript.FunctionWithMultipleReturnPointsJS,CSS.CssUnknownTarget,JavaScript.ShiftOutOfRangeJS,JAVA.Convert2Diamond,JAVA.ConstantConditionalExpression,JavaScript.WebpackConfigHighlighting,JAVA.TypeParameterExplicitlyExtendsObject,JAVA.SerializableClassWithUnconstructableAncestor,JAVA.Java9ModuleExportsPackageToItself,Groovy.GrUnnecessaryPublicModifier,JAVA.DuplicatedDataProviderNames,Groovy.GroovyInfiniteLoopStatement,JAVA.HardcodedLineSeparator,XML.XmlUnusedNamespaceDeclaration,JAVA.ClassWithOnlyPrivateConstructors,JAVA.MultipleVariablesInDeclaration,SpEL.SpringElInspection,JAVA.RedundantLambdaParameterType,JAVA.StringToUpperCaseOrToLowerCaseWithoutLocale,JavaScript.JSReferencingMutableVariableFromClosure,JAVA.NewMethodNamingConvention,FTL.FtlImportCallInspection,JAVA.FinalizeDeclaration,JAVA.BigDecimalMethodWithoutRoundingCalled,JavaScript.AssignmentResultUsedJS,JAVA.StringConcatenationInFormatCall,Properties.UnusedProperty,XML.WebflowSetupInspection,JAVA.SpringLookupInjectionInspection,JAVA.ExpectedExceptionNeverThrown,JAVA.ThisEscapedInObjectConstruction,RegExp.RegExpUnexpectedAnchor,CSS.CssRedundantUnit,JAVA.ThrowInsideCatchBlockWhichIgnoresCaughtException,JAVA.MisorderedAssertEqualsArgumentsTestNG,JAVA.UseCompareMethod,TypeScript.SuspiciousInstanceOfGuard,JAVA.RedundantArrayCreation,JAVA.AbstractClassNeverImplemented,JAVA.SerializableHasSerializationMethods,JAVA.SpringJavaAutowiredFieldsWarningInspection,JavaScript.IfStatementWithTooManyBranchesJS,JavaScript.BreakStatementWithLabelJS,JavaScript.EmptyTryBlockJS,JAVA.CallToThreadDumpStack,CSS.CssUnresolvedCustomProperty,XML.DuplicatedBeanNamesInspection,JAVA.AssignmentToCatchBlockParameter,Groovy.GroovyMapGetCanBeKeyedAccess,JAVA.JUnit4AnnotatedMethodInJUnit3TestCase,JAVA.RedundantComparatorComparing,Groovy.GroovyUnreachableStatement,JAVA.EqualsHashCodeCalledOnUrl,Groovy.GroovyConstantConditional,JAVA.ArrayEquals,JAVA.StringBufferWithoutInitialCapacity,null.DefaultFileTemplate,JAVA.SillyAssignment,JAVA.MethodOverridesInaccessibleMethodOfSuper,JavaScript.UnnecessaryReturnStatementJS,XML.JspAbsolutePathInspection,Groovy.GroovyUncheckedAssignmentOfMemberOfRawType,JAVA.JDBCExecuteWithNonConstantString,JAVA.PackageVisibleInnerClass,JavaScript.JSUnnecessarySemicolon,JAVA.ConstructorNotProtectedInAbstractClass,Groovy.GrEqualsBetweenInconvertibleTypes,XML.CdiDomBeans,JAVA.ClassWithTooManyTransitiveDependencies,JAVA.ComparatorResultComparison,JAVA.SetReplaceableByEnumSet,JAVA.ClassWithTooManyTransitiveDependents,JAVA.InterfaceNeverImplemented,JAVA.UnnecessarilyQualifiedInnerClassAccess,JAVA.DoubleBraceInitialization,JAVA.SimpleDateFormatWithoutLocale,JAVA.AccessingNonPublicFieldOfAnotherObject,SQL.SqlIdentifier,JavaScript.JSUndefinedPropertyAssignment,JavaScript.CoffeeScriptUnusedLocalSymbols,null.ProblematicWhitespace,JavaScript.JSUnusedAssignment,JAVA.ComparisonToNaN,JAVA.CollectionsFieldAccessReplaceableByMethodCall,CSS.CssUnknownProperty,JAVA.Annotation,JAVA.StringConcatenation,Groovy.GroovyOverlyComplexMethod,CSS.CssFloatPxLength,JavaScript.JSArrowFunctionBracesCanBeRemoved,JavaScript.NegatedIfStatementJS,JAVA.ArraysAsListWithZeroOrOneArgument,Groovy.GrUnnecessaryDefModifier,XML.InjectionValueTypeInspection,JPAQL.EjbQlInspection,JavaScript.OverlyNestedFunctionJS,Groovy.GroovyBreak,Groovy.GroovyAssignmentToMethodParameter,null.UnusedLibrary,XML.AntMissingPropertiesFileInspection,JAVA.ConstantDeclaredInInterface,JAVA.divzero,SQL.SqlNoDataSourceInspection,SQL.SqlNullComparison,JAVA.ConstantDeclaredInAbstractClass,JAVA.SuiteNotDeclaredStatic,JAVA.ClassExplicitlyExtendsThread,JavaScript.BreakStatementJS,JAVA.AutoBoxing,JAVA.MalformedXPath,Groovy.GroovyTrivialConditional,JAVA.AnonymousInnerClassWithTooManyMethods,JAVA.CollectionAddAllCanBeReplacedWithConstructor,Groovy.SingletonConstructor,JAVA.RedundantFieldInitialization,JAVA.WSReferenceInspection,JAVA.FuseStreamOperations,JAVA.AnnotationClass,JAVA.NonExceptionNameEndsWithException,JAVA.UnqualifiedStaticUsage,JAVA.TypeParameterExtendsFinalClass,JavaScript.AssignmentReplaceableWithOperatorAssignmentJS,JAVA.BooleanMethodIsAlwaysInverted,JAVA.StringBufferReplaceableByString,JAVA.SynchronizedMethod,JAVA.SyntheticAccessorCall,JAVA.MinMaxValuesInspection,JAVA.AbstractClassExtendsConcreteClass,JAVA.ImplicitArrayToString,JAVA.DisjointPackage,XML.AntResolveInspection,JAVA.PublicMethodWithoutLogging,JAVA.CapturingCleaner,CSS.CssMissingSemicolon,JavaScript.JSUnfilteredForInLoop,JAVA.ListenerMayUseAdapter,JAVA.CaughtExceptionImmediatelyRethrown,SQL.SqlAddNotNullColumn,JAVA.TryWithIdenticalCatches,JAVA.MethodOverloadsMethodOfSuperclass,JAVA.LambdaCanBeReplacedWithAnonymous,JAVA.ExplicitArgumentCanBeLambda,Groovy.GroovyGStringKey,JavaScript.LoopStatementThatDoesntLoopJS,JAVA.TypeMayBeWeakened,CSS.CssInvalidHtmlTagReference,JAVA.MethodParameterNamingConvention,JAVA.ClassExplicitlyExtendsObject,JAVA.RedundantConditionalExpression,XML.JpaORMDomInspection,JavaScript.NonShortCircuitBooleanExpressionJS,SQL.SqlStorageInspection,Groovy.GroovyUnconditionalWait,JAVA.AccessToNonThreadSafeStaticField,JAVA.DefaultAnnotationParam,JAVA.Java8ArraySetAll,JAVA.WhileLoopSpinsOnField,JAVA.Convert2MethodRef,JavaScript.ChainedFunctionCallJS,JAVA.NonReproducibleMathCall,XML.SpringBeanAttributesInspection,JAVA.UnqualifiedInnerClassAccess,JAVA.EjbInterceptorInspection,JAVA.ResultOfObjectAllocationIgnored,JAVA.ReturnOfInnerClass,JavaScript.AmdModulesDependencies,null.XsltVariableShadowing,JAVA.ResultOfMethodCallIgnored,JAVA.SuspiciousArrayCast,JAVA.Guava,XML.JspPropertiesInspection,JAVA.AmbiguousMethodCall,JAVA.MultipleExceptionsDeclaredOnTestMethod,Groovy.GroovyBusyWait,JAVA.NoopMethodInAbstractClass,JAVA.ReplaceAllDot,JavaScript.BlockStatementJS,JAVA.StatementWithEmptyBody,FTL.FtlFileReferencesInspection,JAVA.ClassWithoutLogger,SQL.SqlAutoIncrementDuplicate,Properties.SuspiciousLocalesLanguages,JAVA.NonPrivateFieldAccessedInSynchronizedContext,JAVA.ConfusingMainMethod,JAVA.RedundantTypeArguments,JAVA.EjbInterceptorWarningsInspection,JAVA.EjbThisExpressionInspection,Groovy.GroovyDoubleCheckedLocking,JAVA.CucumberJavaStepDefClassIsPublic,JAVA.SpringTestingDirtiesContextInspection,CSS.CssInvalidElement,JAVA.CdiManagedBeanInconsistencyInspection,JAVA.JavaModuleNaming,XML.SpringBeanInstantiationInspection,JavaScript.CoffeeScriptFunctionSignatures,JAVA.AssertAsIdentifier,JAVA.MethodOnlyUsedFromInnerClass,JAVA.JUnit5Platform,JAVA.CdiScopeInspection,Groovy.GroovyContinueOrBreakFromFinallyBlock,JAVA.RestWrongDefaultValueInspection,JAVA.ClassReferencesSubclass,JAVA.UnnecessaryLabelOnBreakStatement,JAVA.CdiTypedAnnotationInspection,JAVA.NewClassNamingConvention,JavaScript.DivideByZeroJS,Groovy.GroovyInArgumentCheck,JAVA.JUnitTestMethodWithNoAssertions,JavaScript.JSUnusedGlobalSymbols,JAVA.StringEqualsCharSequence,JAVA.FieldAccessedSynchronizedAndUnsynchronized,CSS.Stylelint,JAVA.NonSerializableFieldInSerializableClass,XML.MavenPropertyInParent,JAVA.UnnecessaryInheritDoc,Gherkin.GherkinMisplacedBackground,JAVA.CdiDisposerMethodInspection,JAVA.ClassWithTooManyDependents,XML.DeprecatedClassUsageInspection,JAVA.NonFinalFieldReferencedInHashCode,SQL.SqlInsertValues,JAVA.CanBeFinal,JAVA.PatternValidation,XML.SpringXmlModelInspection,JAVA.MultiplyOrDivideByPowerOfTwo,JAVA.MethodNamesDifferingOnlyByCase,RegExp.RegExpSingleCharAlternation,JAVA.EjbEntityHomeInspection,JAVA.InstanceVariableUsedBeforeInitialized,JAVA.Dependency,JavaScript.StringLiteralBreaksHTMLJS,JAVA.UnqualifiedMethodAccess,JAVA.OverlyComplexMethod,JAVA.LoopConditionNotUpdatedInsideLoop,JAVA.IfStatementWithTooManyBranches,JAVA.UnnecessaryEnumModifier,JAVA.SpringJavaStaticMembersAutowiringInspection,JAVA.CollectionContainsUrl,JAVA.CallToSimpleSetterFromWithinClass,JAVA.ClassExplicitlyAnnotation,JAVA.SpringWebServiceAnnotationsInconsistencyInspection,JAVA.CloneableClassInSecureContext,Groovy.GroovyConditionalWithIdenticalBranches,JAVA.WaitCalledOnCondition,JAVA.LocalVariableUsedAndDeclaredInDifferentSwitchBranches,XML.JavaFxDefaultTag,JAVA.ReferencesToClassesFromDefaultPackagesInJSPFile,JavaScript.NpmUsedModulesInstalled,JAVA.MethodCallInLoopCondition,JAVA.IfStatementWithIdenticalBranches,JavaScript.CoffeeScriptInfiniteLoop,JAVA.InstanceVariableOfConcreteClass,JAVA.FieldMayBeFinal,JAVA.CopyConstructorMissesField,Groovy.GroovyParameterNamingConvention,JavaScript.ForLoopThatDoesntUseLoopVariableJS,JAVA.JpaAttributeTypeInspection,JAVA.LanguageMismatch,XML.ValidatorConfigModelInspection,JAVA.CdiStereotypeInspection,JAVA.SynchronizeOnNonFinalField,JAVA.EndlessStream,JAVA.CdiDecoratorInspection,JAVA.ObjectToString,JAVA.ProtectedInnerClass,null.XsltTemplateInvocation,JAVA.LimitedScopeInnerClass,JAVA.EmptyMethod,JAVA.VariableNotUsedInsideIf,JAVA.LawOfDemeter,XML.JavaFxRedundantPropertyValue,JAVA.QuestionableName,JAVA.UnnecessaryLabelOnContinueStatement,JavaScript.IncrementDecrementResultUsedJS,JavaScript.JSMismatchedCollectionQueryUpdate,yaml.SpringBootApplicationYaml,CSS.CssUnresolvedClass,JavaScript.Eslint,JAVA.StringBufferField,JAVA.ExtendsUtilityClass,JavaScript.ConstantOnLefSideOfComparisonJS,JAVA.OverlyComplexClass,JAVA.DuplicateStringLiteralInspection,JAVA.IntegerDivisionInFloatingPointContext,JavaScript.CoffeeScriptSillyAssignment,JAVA.ChainedMethodCall,JAVA.PointlessBooleanExpression,JAVA.CallToThreadYield,JAVA.ParameterizedParametersStaticCollection,JAVA.NonSerializableClassWithSerializationMethods,JavaScript.JSConsecutiveCommasInArrayLiteral,JAVA.MethodReturnAlwaysConstant,JAVA.ContinueOrBreakFromFinallyBlock,JAVA.OptionalAssignedToNull,Groovy.GroovyInfiniteRecursion,JAVA.OverlyCoupledMethod,JAVA.ArrayObjectsEquals,JAVA.SuspiciousSystemArraycopy,JAVA.UnnecessaryInitCause,JAVA.ExtendsThrowable,Groovy.ClashingTraitMethods,XPath.ImplicitTypeConversion,JAVA.FinalClass,JAVA.NumberEquality,JAVA.MalformedFormatString,JAVA.NotifyWithoutCorrespondingWait,CSS.CssInvalidMediaFeature,JAVA.OverwrittenKey,JavaScript.OverlyComplexFunctionJS,JAVA.StringEquality,JAVA.SuspiciousArrayMethodCall,JavaScript.ContinueOrBreakFromFinallyBlockJS,JAVA.IncorrectOnMessageMethodsInspection,JAVA.ServerEndpointInconsistencyInspection,TypeScript.TypeScriptAbstractClassConstructorCanBeMadeProtected,JAVA.ClassNameSameAsAncestorName,JAVA.RedundantStringOperation,JAVA.ComparatorMethodParameterNotUsed,CSS.CssInvalidImport,JSON.JsonDuplicatePropertyKeys,JAVA.ValueOfIncrementOrDecrementUsed,RegExp.RegExpEmptyAlternationBranch,XML.MimeType,JAVA.FunctionalExpressionCanBeFolded,JAVA.InterfaceMayBeAnnotatedFunctional,JAVA.AssignmentToMethodParameter,Groovy.SecondUnsafeCall,JAVA.StaticImport,JAVA.EnumerationCanBeIteration,JAVA.EjbProhibitedPackageUsageInspection,JAVA.BigDecimalLegacyMethod,JAVA.MessageMissingOnJUnitAssertion,JavaScript.ConditionalExpressionWithIdenticalBranchesJS,FTL.FtlWellformednessInspection,XML.WebWarnings,Play.PlayCustomTagNameInspection,JavaScript.JSAnnotator,JAVA.ProtectedMemberInFinalClass,JAVA.CustomSecurityManager,Groovy.GroovyEmptyTryBlock,JAVA.ShiftOutOfRange,JAVA.JUnitTestCaseWithNoTests,JAVA.BreakStatement,TypeScript.TypeScriptValidateJSTypes,Gherkin.CucumberMissedExamples,Groovy.GrFinalVariableAccess,XML.XmlWrongRootElement,null.RedundantSuppression,XML.HibernateMappingDomInspection,JAVA.ClassExtendsConcreteCollection,JAVA.IteratorHasNextCallsIteratorNext,UAST.UnassignedFluxMonoInstance,JAVA.UnpredictableBigDecimalConstructorCall,HTML.QuirksModeInspectionTool,JSON.PackageJsonMismatchedDependency,JAVA.MethodWithTooManyParameters,FTL.FtlReferencesInspection,JAVA.AccessStaticViaInstance,JAVA.ContinueStatement,JavaScript.JSDuplicatedDeclaration,XML.SpringBeanConstructorArgInspection,Properties.AlphaUnsortedPropertiesFile,Groovy.GrDeprecatedAPIUsage,JAVA.WaitNotifyWhileNotSynced,JAVA.AssignmentToNull,JAVA.PointlessBitwiseExpression,JavaScript.TailRecursionJS,JAVA.SpringDataMethodInconsistencyInspection,JAVA.JUnitDatapoint,JAVA.NestedMethodCall,Groovy.GroovyResultOfIncrementOrDecrementUsed,JAVA.Contract,XML.BatchXmlDomInspection,JAVA.UtilityClassWithoutPrivateConstructor,JAVA.InnerClassReferencedViaSubclass,Groovy.GroovySillyAssignment,JAVA.SpringRequiredAnnotationInspection,JAVA.PackageNamingConvention,JAVA.PlaceholderCountMatchesArgumentCount,JavaScript.PointlessArithmeticExpressionJS,JAVA.SuperTearDownInFinally,JAVA.UseOfClone,Groovy.NewInstanceOfSingleton,Groovy.GroovyThreadStopSuspendResume,Groovy.UnnecessaryQualifiedReference,JAVA.AtomicFieldUpdaterNotStaticFinal,JAVA.BoxingBoxedValue,JAVA.ExcessiveLambdaUsage,Groovy.GroovyVariableCanBeFinal,Groovy.GrUnnecessaryAlias,JAVA.MethodReturnOfConcreteClass,JAVA.IncompatibleBitwiseMaskOperation,JavaScript.IfStatementWithIdenticalBranchesJS,SQL.SqlPostgresqlSelectFromProcedure,CSS.CssOverwrittenProperties,JAVA.Anonymous2MethodRef,Groovy.GrReassignedInClosureLocalVar,UAST.SpringEventListenerInspection,JAVA.StaticPseudoFunctionalStyleMethod,JAVA.PackageVisibleField,JavaScript.JSUnresolvedVariable,JavaScript.AssignmentToFunctionParameterJS,JSON.JsonStandardCompliance,JAVA.Java8CollectionRemoveIf,JAVA.InstantiatingAThreadWithDefaultRunMethod,JAVA.AccessOfSystemProperties,JAVA.NonJaxWsWebServices,JavaScript.ES6UnusedImports,Groovy.ClashingGetters,JAVA.SynchronizeOnThis,JAVA.TailRecursion,XML.JdkProxiedBeanTypeInspection,JavaScript.JSValidateJSDoc,JAVA.AssignmentToLambdaParameter,JAVA.ObjectEqualsNull,JAVA.BadOddness,JAVA.CastToIncompatibleInterface,JavaScript.JSValidateTypes,JAVA.InstantiationOfUtilityClass,JavaScript.EqualityComparisonWithCoercionJS,JAVA.SimplifiableAnnotation,JAVA.TestNGDataProvider,JAVA.JUnitTestCaseInProductSource,JAVA.SwitchStatementWithTooManyBranches,CSS.CssMissingComma,JAVA.JavadocHtmlLint,XML.SpringInjectionValueConsistencyInspection,Groovy.GroovyUnusedAssignment,JAVA.AbstractMethodWithMissingImplementations,XML.XmlDuplicatedId,JAVA.Singleton,JAVA.MismatchedQueryAndUpdateOfStringBuilder,Groovy.GroovyConditionalCanBeElvis,JAVA.ReturnSeparatedFromComputation,JAVA.NonConstantFieldWithUpperCaseName,null.UnhandledExceptionInJSP,XML.JpaConfigDomFacetInspection,Groovy.GroovyTrivialIf,JAVA.SocketOpenedButNotSafelyClosed,null.NonAsciiCharacters,JAVA.Java8ListSort,JAVA.ClassWithTooManyMethods,JAVA.SimplifyCollector,XML.MavenDuplicateDependenciesInspection,JavaScript.JSLastCommaInArrayLiteral,JAVA.ConfusingElseBranch,JavaScript.UnreachableCodeJS,JAVA.NonStaticInitializer,HTML.HtmlUnknownTag,JavaScript.PlatformDetectionJS,JAVA.CollectionAddedToSelf,JAVA.WaitWhileHoldingTwoLocks" collectionTime="1523082507089" />
+    </group>
+    <group name="Editor">
+      <project id="bos_3.0" values="autoOptimizeImports" collectionTime="1523082507027" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="bos_3.0" values="oracle.jdbc.OracleDriver,oracle.jdbc.OracleDriver" collectionTime="1523082507385" />
+    </group>
+    <group name="spring">
+      <project id="bos_3.0" values="xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/task,xmlNS_www.springframework.org/schema/data/jpa,fileset_userConfiguredPerFacet_0,fileset_configFiles10,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,fileset_mixedContext,xmlNS_cxf.apache.org/configuration/foo,fileset_autodetect_NONE,fileset_userConfiguredPerFacet_1,xmlNS_www.springframework.org/schema/data/jpa,xmlNS_www.springframework.org/schema/tx,xmlNS_cxf.apache.org/configuration/foo,xmlNS_www.springframework.org/schema/jdbc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/jdbc,xmlNS_cxf.apache.org/jaxrs,xmlNS_www.springframework.org/schema/aop,fileset_autodetect_NONE,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop" collectionTime="1523082507396" />
+    </group>
+    <group name="module type">
+      <project id="bos_3.0" values="JAVA_MODULE" collectionTime="1523082507026" />
+    </group>
+    <group name="vcs-stats">
+      <project id="bos_3.0" values="active.changelists.count.1,unversioned.files.count.100+,ignored.files.count.1K+,vcs.roots.count.1,has.default.vcs.root.mapping.disabled" collectionTime="1523082506979" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="bos_3.0" values="Project" collectionTime="1523082507384" />
+    </group>
+    <group name="Git">
+      <project id="bos_3.0" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,version.2.16.2-CYGWIN,config.save.policy.STASH,config.push.autoupdate.disabled,data.remotes.in.project.1,config.ssh.enabled,data.remote.servers.github.com.1,data.remote.branches.count.1,data.local.branches.count.1" collectionTime="1523082507292" />
+    </group>
+    <group name="libraries">
+      <project id="bos_3.0" values="hibernate,TransactionJavaee,JMS,spring-data-jpa,spring,CDI,struts2" collectionTime="1523082507238" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="bos_3.0" values="spring-core_4.1.7.RELEASE,spring-data-commons_1.11.0.RELEASE,freemarker_2.3.22,spring-data-jpa_1.9.0.RELEASE,spring-mvc_4.1.7.RELEASE" collectionTime="1523082507278" />
+    </group>
+    <group name="vcs-options">
+      <project id="bos_3.0" values="perform.rollback.in.background.disabled,commit.use.right.margin.enabled,changelist.preselect.existing.disabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,commit.show.unversioned.enabled,perform.commit.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled,include.text.into.shelf.enabled,check.conflicts.in.background.disabled,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,show.changes.preview.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled,perform.edit.in.background.enabled" collectionTime="1523082506978" />
+    </group>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="$Redo@MainToolbar" count="11" />
+      <entry action="Back@MainToolbar" count="16" />
+      <entry action="CaptureMemorySnapShot@MainToolbar" count="3" />
+      <entry action="ChangesView.Move@SPECIFIC_FILES_DIALOG" count="1" />
+      <entry action="ChangesView.Refresh@ChangesViewToolbar" count="4" />
+      <entry action="ChangesView.Revert@ChangesViewToolbar" count="1" />
+      <entry action="ChangesView.Revert@MainToolbar" count="10" />
+      <entry action="CheckStyleCloseAction@CheckStyle" count="1" />
+      <entry action="CheckStyleCurrentFileAction@CheckStyle" count="8" />
+      <entry action="CheckStyleDisplayErrorsAction@CheckStyle" count="3" />
+      <entry action="CheckinProject@ChangesViewToolbar" count="1" />
+      <entry action="CheckinProject@MainToolbar" count="106" />
+      <entry action="Compare.SameVersion@MainToolbar" count="5" />
+      <entry action="CompileDirty@MainToolbar" count="30" />
+      <entry action="Console.Jdbc.Execute@EditorToolbar" count="70" />
+      <entry action="Console.TableResult.AddRow@EditorToolbar" count="38" />
+      <entry action="Console.TableResult.ChooseExtractor@unknown" count="4" />
+      <entry action="Console.TableResult.CompareWith@EditorToolbar" count="1" />
+      <entry action="Console.TableResult.CountRows@unknown" count="1" />
+      <entry action="Console.TableResult.DeleteRows@EditorToolbar" count="2" />
+      <entry action="Console.TableResult.DumpGroup@EditorToolbar" count="2" />
+      <entry action="Console.TableResult.ImportTable@EditorToolbar" count="6" />
+      <entry action="Console.TableResult.Options@EditorToolbar" count="4" />
+      <entry action="Console.TableResult.Reload@EditorToolbar" count="577" />
+      <entry action="Console.TableResult.Submit@EditorToolbar" count="83" />
+      <entry action="Console.TableResult.SubmitAndCommit@EditorToolbar" count="12" />
+      <entry action="Console.Transaction.TxSettings@unknown" count="8" />
+      <entry action="Database.Settings@EditorToolbar" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="51" />
+      <entry action="DatabaseView.CloseConnectionAction@ProjectViewToolbar" count="7" />
+      <entry action="DatabaseView.CopyAction@ProjectViewToolbar" count="3" />
+      <entry action="DatabaseView.PropertiesAction@ProjectViewToolbar" count="39" />
+      <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="471" />
+      <entry action="Debug@MainToolbar" count="23" />
+      <entry action="Debugger.PopFrame@DebuggerToolbar" count="3" />
+      <entry action="EvaluateExpression@DebuggerToolbar" count="9" />
+      <entry action="FileChooser.NewFile@FileChooserDialog" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="3" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="1" />
+      <entry action="FileChooser.ShowHiddens@FileChooserDialog" count="12" />
+      <entry action="FindBugs.GroupByBugCategory@FindBugs-IDEA" count="3" />
+      <entry action="FindBugs.GroupByPackage@FindBugs-IDEA" count="2" />
+      <entry action="FindBugs.ProjectFilesAction@FindBugs-IDEA" count="1" />
+      <entry action="ForceStepInto@DebuggerToolbar" count="38" />
+      <entry action="JRebel Debug@MainToolbar" count="4" />
+      <entry action="JRebel_Debug@MainToolbar" count="479" />
+      <entry action="JRebel_Executor@MainToolbar" count="7" />
+      <entry action="Javaee.RefreshDeploymentStatus@unknown" count="3" />
+      <entry action="Jdbc.OpenConsole@ProjectViewToolbar" count="43" />
+      <entry action="Jdbc.OpenEditor.DDL@ProjectViewToolbar" count="6" />
+      <entry action="Jdbc.OpenEditor.Data@ProjectViewToolbar" count="15" />
+      <entry action="Jdbc.OpenEditor.Grid.DDL@unknown" count="1" />
+      <entry action="Maven.AddManagedFiles@Maven_Navigator_Toolbar" count="25" />
+      <entry action="Maven.CollapseAll@Maven Navigator Toolbar" count="3" />
+      <entry action="Maven.CollapseAll@Maven_Navigator_Toolbar" count="7" />
+      <entry action="Maven.DownloadAllGroupPopup@Maven_Navigator_Toolbar" count="2" />
+      <entry action="Maven.ExecuteGoal@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.ExecuteGoal@Maven_Navigator_Toolbar" count="3" />
+      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="110" />
+      <entry action="Maven.RunBuild@Maven_Navigator_Toolbar" count="95" />
+      <entry action="Maven.ShowSettings@Maven_Navigator_Toolbar" count="5" />
+      <entry action="Maven.ToggleOffline@Maven_Navigator_Toolbar" count="2" />
+      <entry action="Maven.ToggleSkipTests@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.ToggleSkipTests@Maven_Navigator_Toolbar" count="13" />
+      <entry action="Maven.UpdateFolders@Maven_Navigator_Toolbar" count="6" />
+      <entry action="OpenFile@MainToolbar" count="3" />
+      <entry action="Pause@DebuggerToolbar" count="4" />
+      <entry action="Print@RunnerToolbar" count="3" />
+      <entry action="Rerun@DebuggerToolbar" count="2" />
+      <entry action="Rerun@RunnerToolbar" count="37" />
+      <entry action="Resume@DebuggerToolbar" count="200" />
+      <entry action="Run@MainToolbar" count="113" />
+      <entry action="RunConfiguration@MainToolbar" count="5" />
+      <entry action="RunToCursor@DebuggerToolbar" count="8" />
+      <entry action="Runner.RestoreLayout@DebuggerToolbar" count="2" />
+      <entry action="Show Options@ToolWindowHeader" count="1" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="58" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="347" />
+      <entry action="ShowSettings@MainToolbar" count="478" />
+      <entry action="ShowUmlDiagram@Maven_Navigator_Toolbar" count="1" />
+      <entry action="StartStopMacroRecording@StatusBarPlace" count="2" />
+      <entry action="StepInto@DebuggerToolbar" count="554" />
+      <entry action="StepOut@DebuggerToolbar" count="43" />
+      <entry action="StepOver@DebuggerToolbar" count="1180" />
+      <entry action="Stop@DebuggerToolbar" count="9" />
+      <entry action="Stop@MainToolbar" count="725" />
+      <entry action="Stop@RunnerToolbar" count="21" />
+      <entry action="Synchronize@MainToolbar" count="14" />
+      <entry action="Vcs.Log.QuickSettings@Vcs.Log.Toolbar" count="2" />
+      <entry action="Vcs.ShowTabbedFileHistory@MainToolbar" count="2" />
+      <entry action="Vcs.UpdateProject@MainToolbar" count="24" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="6" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="2" />
+      <entry action="XDebugger.NewWatch@DebuggerToolbar" count="5" />
+      <entry action="XDebugger.RemoveWatch@DebuggerToolbar" count="6" />
+      <entry action="XDebugger.SwitchWatchesInVariables@DebuggerToolbar" count="4" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="11" />
+      <entry action="com.intellij.codeInsight.documentation.DockablePopupManager$3@JavadocToolbar" count="6" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction@JavadocToolbar" count="1" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="2" />
+      <entry action="com.intellij.compiler.impl.CompilerPropertiesAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.database.console.JdbcConsole$8@toolbar" count="1" />
+      <entry action="com.intellij.database.dataSource.DataSourceScopeEditor$RefreshAction@DbSourceSchemas" count="2" />
+      <entry action="com.intellij.database.run.AbstractQueryLanguageConsole$7@EditorToolbar" count="5" />
+      <entry action="com.intellij.database.run.AbstractQueryLanguageConsole$7@toolbar" count="2" />
+      <entry action="com.intellij.database.run.ui.TableResultPanel$MyCornerToolsComponent$2@" count="2" />
+      <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$AddAction@ProjectViewToolbar" count="2" />
+      <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$GoToDriverAction@ProjectViewToolbar" count="2" />
+      <entry action="com.intellij.database.view.ui.DatabaseConfigEditorImpl$RemoveAction@ProjectViewToolbar" count="7" />
+      <entry action="com.intellij.execution.JavaTestFrameworkRunnableState$2@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.execution.configurations.CommandLineState$PauseOutputAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="553" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@TestRunnerResults" count="19" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="17" />
+      <entry action="com.intellij.execution.junit2.ui.actions.RerunFailedTestsAction@DebuggerToolbar" count="4" />
+      <entry action="com.intellij.execution.junit2.ui.actions.RerunFailedTestsAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="17" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="43" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="4" />
+      <entry action="com.intellij.ide.actions.ContextHelpAction@ChangesViewToolbar" count="1" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="196" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$5@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$HideWarningsAction@CompilerMessagesToolbar" count="2" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$5@FileTemplatesConfigurable" count="1" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="8" />
+      <entry action="com.intellij.ide.hierarchy.HierarchyBrowserBase$CloseAction@TypeHierarchyViewToolbar" count="2" />
+      <entry action="com.intellij.ide.hierarchy.HierarchyBrowserBaseEx$AlphaSortAction@TypeHierarchyViewToolbar" count="2" />
+      <entry action="com.intellij.ide.hierarchy.ViewClassHierarchyAction@TypeHierarchyViewToolbar" count="4" />
+      <entry action="com.intellij.ide.hierarchy.ViewSubtypesHierarchyAction@TypeHierarchyViewToolbar" count="2" />
+      <entry action="com.intellij.ide.hierarchy.ViewSupertypesHierarchyAction@TypeHierarchyViewToolbar" count="9" />
+      <entry action="com.intellij.ide.plugins.PluginManagerMain$RefreshAction@PluginManager" count="1" />
+      <entry action="com.intellij.ide.util.PackageChooserDialog$NewPackageAction@PackageChooserDialog" count="3" />
+      <entry action="com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog$MyJavaeeTreeView$5@ProjectViewToolbar" count="1" />
+      <entry action="com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog$MyJavaeeTreeView$8@ProjectViewToolbar" count="14" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="12" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$10@Keymap" count="1" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="31" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="1" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="4" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="5" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.artifacts.actions.RemovePackagingElementAction@ProjectStructureArtifactEditor" count="6" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="7" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$AddExcludedRootActionButton@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.openapi.vcs.actions.ShowPrevChangeMarkerAction@toolbar" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ChangesViewManager$ToggleDetailsAction@ChangesViewToolbar" count="2" />
+      <entry action="com.intellij.openapi.vcs.changes.actions.IgnoredSettingsAction@ChangesViewToolbar" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.MultipleChangeListBrowser$2@ChangesBrowser" count="9" />
+      <entry action="com.intellij.openapi.vcs.ex.LineStatusMarkerPopupRenderer$ShowLineStatusRangeDiffAction@toolbar" count="1" />
+      <entry action="com.intellij.openapi.vcs.ex.RollbackLineStatusRangeAction@toolbar" count="2" />
+      <entry action="com.intellij.openapi.vcs.ex.ShowLineStatusRangeDiffAction@toolbar" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="125" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="450" />
+      <entry action="com.intellij.ui.classFilter.ClassFilterEditor$1@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.ui.navigation.BackAction@ProjectStructure" count="1" />
+      <entry action="com.intellij.ui.navigation.BackAction@ProjectViewToolbar" count="3" />
+      <entry action="com.intellij.uml.core.actions.UmlCategorySwitcher@Diagrams" count="35" />
+      <entry action="com.intellij.ws.rest.client.RESTClient$2@RestClient" count="347" />
+      <entry action="com.intellij.ws.rest.client.RESTClient$3@RestClient" count="6" />
+      <entry action="com.intellij.ws.rest.client.RESTClient$HighlightAction@RestClientResponseToolbar" count="17" />
+      <entry action="com.intellij.ws.rest.client.RESTClient$ReformatAction@RestClientResponseToolbar" count="23" />
+      <entry action="javaee.UpdateRunningApplication@DebuggerToolbar" count="2" />
+      <entry action="org.jetbrains.idea.maven.execution.MavenResumeAction@RunnerToolbar" count="11" />
+      <entry action="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$AddLocationAction@RepositoryBrowser.Toolbar" count="7" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="8" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$NewSession@Terminal" count="2" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="39" />
+      <entry feature="CreateFile.CreateStrutsXmlAction" count="2" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="11" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.with_mappings" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="180" />
+      <entry feature="OpenInBrowser.Firefox" count="18" />
+      <entry feature="StripeButton[Terminal].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="18" />
+      <entry feature="debugger.reload.classes" count="768" />
+      <entry feature="diff.DirDiffTableModel" count="5" />
+      <entry feature="diff.DirDiffViewer" count="5" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.IGNORE_WHITESPACES" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="19" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="439" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="6" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="32" />
+      <entry feature="execute.Application.Run" count="47" />
+      <entry feature="execute.JUnit.Debug" count="72" />
+      <entry feature="execute.JUnit.JRebel Debug" count="9" />
+      <entry feature="execute.JUnit.JRebel Executor" count="1" />
+      <entry feature="execute.JUnit.Run" count="376" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="1" />
+      <entry feature="execute.MavenRunConfiguration.JRebel Debug" count="25" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="17" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="5" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JRebel Debug" count="16" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="71" />
+      <entry feature="git.branch.checkout.local" count="65" />
+      <entry feature="git.branch.checkout.with.rebase" count="2" />
+      <entry feature="git.branch.create.new" count="13" />
+      <entry feature="git.branch.delete.local" count="7" />
+      <entry feature="git.branch.rebase" count="2" />
+      <entry feature="git.branch.rename" count="1" />
+      <entry feature="git.checkout.as.new.branch" count="8" />
+      <entry feature="ide.help.ideaInterface.changes" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="2" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.settings.Advanced" count="3" />
+      <entry feature="ide.settings.Annotation_Processors" count="33" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Application&#10;Servers" count="3" />
+      <entry feature="ide.settings.Assign_Data_Sources" count="19" />
+      <entry feature="ide.settings.Assign_Naming_Strategies..." count="3" />
+      <entry feature="ide.settings.Auto_Import" count="7" />
+      <entry feature="ide.settings.Code Completion" count="5" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Folding" count="1" />
+      <entry feature="ide.settings.Color Scheme" count="1" />
+      <entry feature="ide.settings.Color_Scheme" count="22" />
+      <entry feature="ide.settings.Color_Scheme_Font" count="4" />
+      <entry feature="ide.settings.Compiler" count="3" />
+      <entry feature="ide.settings.Console_Colors" count="3" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Edit_Macros" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="2" />
+      <entry feature="ide.settings.File_Types" count="4" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="21" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.General" count="50" />
+      <entry feature="ide.settings.Importing" count="4" />
+      <entry feature="ide.settings.Inspections" count="14" />
+      <entry feature="ide.settings.JRebel" count="3" />
+      <entry feature="ide.settings.Java_Compiler" count="17" />
+      <entry feature="ide.settings.Keymap" count="14" />
+      <entry feature="ide.settings.Kotlin_Compiler" count="6" />
+      <entry feature="ide.settings.Live_Templates" count="30" />
+      <entry feature="ide.settings.Maven" count="10" />
+      <entry feature="ide.settings.Plugins" count="24" />
+      <entry feature="ide.settings.Project_Structure" count="8" />
+      <entry feature="ide.settings.Runner" count="10" />
+      <entry feature="ide.settings.Smart_Keys" count="2" />
+      <entry feature="ide.settings.Subversion" count="2" />
+      <entry feature="ide.settings.System Settings" count="1" />
+      <entry feature="ide.settings.System_Settings" count="3" />
+      <entry feature="ide.settings.Terminal" count="4" />
+      <entry feature="ide.settings.Tomcat_Server" count="5" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ide.settings.Vim_Emulation" count="2" />
+      <entry feature="ide.settings.XML_Catalog" count="2" />
+      <entry feature="idea.caches.invalidated" count="8" />
+      <entry feature="ideaapp.started" count="296" />
+      <entry feature="project.view.pane.PackagesPane" count="5" />
+      <entry feature="project.view.pane.ProjectPane" count="4" />
+      <entry feature="project.view.pane.Scope.Project Files" count="2" />
+      <entry feature="show.recent.tests.action" count="2" />
+      <entry feature="spring.CreateElementQuickFix.CreateNewBean" count="1" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="89" />
+      <entry feature="spring.SpringConfigurationCheckTask.CreateDefault" count="1" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="1" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="6" />
+      <entry feature="terminal.ssh" count="2" />
+      <entry feature="terminal.win" count="61" />
+      <entry feature="tips.of.the.day.next" count="13" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="1" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="2" />
+      <entry feature="uml.ShowDiagram.JAVA" count="10" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="2" />
+      <entry feature="uml.ShowDiagram.JavaScript-modules-diagram.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="3" />
+      <entry feature="uml.ShowDiagram.MAVEN.popup" count="1" />
+      <entry feature="uml.ShowDiagram.Persistence" count="3" />
+      <entry feature="vcs.log.OpenRepositoryVersion" count="2" />
+      <entry feature="vcs.log.ShowDiff" count="2" />
+      <entry feature="welcome.screen.Help.JetBrainsTV" count="1" />
+      <entry feature="welcome.screen.HelpTopics" count="1" />
+      <entry feature="welcome.screen.ShowTips" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="66" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="106" />
+      <entry feature="welcome.screen.WelcomeScreen.Documentation" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="13" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="16" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="42" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" time="1523120443547" show-notification="false" />
 </application>

@@ -1005,10 +1005,24 @@
         <option name="tabIndex" value="1" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="OverheadMonitor" />
+        <option name="minimizedInGrid" value="true" />
+        <option name="placeInGrid" value="right" />
+        <option name="tabIndex" value="0" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_bos_3_0\logs\localhost.2018-04-05.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
-        <option name="leftProportion" value="0.19474836" />
-        <option name="rightProportion" value="0.1995614" />
+        <option name="leftProportion" value="0.19409513" />
+        <option name="rightProportion" value="0.19901586" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />

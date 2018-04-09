@@ -44,13 +44,13 @@
     <location key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" x="353" y="0" />
     <location key="#Assign_Data_Sources.0.0.1366.768" x="438" y="107" />
     <location key="#Plugins.0.0.1920.1080@120dpi" x="553" y="108" />
-    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="99" y="128" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="183" y="82" />
     <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="665" y="143" />
-    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="1127" y="226" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="1128" y="226" />
     <location key="new project wizard.0.0.1920.1080@120dpi" x="431" y="248" />
-    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="456" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="963" y="506" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="524" y="164" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="578" y="149" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="513" y="66" />
     <location key="#Tomcat_Server.0.0.1920.1080@120dpi" x="707" y="426" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080@120dpi" x="655" y="128" />
     <location key="StructurePopup.0.0.1920.1080@120dpi" x="670" y="301" />
@@ -78,7 +78,7 @@
     <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1920.1080@120dpi" x="876" y="192" />
     <location key="DetectedRootsChooserDialog.0.0.1920.1080@120dpi" x="787" y="200" />
     <location key="struts2 file set editor.0.0.1920.1080@120dpi" x="616" y="221" />
-    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080@120dpi" x="402" y="188" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080@120dpi" x="403" y="188" />
     <location key="com.intellij.database.dbimport.ImportDialog.0.0.1920.1080@120dpi" x="439" y="79" />
     <location key="com.intellij.database.view.ui.DbObjectDialog.0.0.1920.1080@120dpi" x="568" y="274" />
     <location key="jetbrains.javascript.buildTools.run-task-popup.0.0.1920.1080@120dpi" x="793" y="334" />
@@ -98,7 +98,7 @@
     <location key="RefactorJ.ExtractClass.0.0.1920.1080@120dpi" x="650" y="180" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" x="683" y="359" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080@120dpi" x="635" y="372" />
-    <location key="find.popup.0.0.1920.1080@120dpi" x="570" y="117" />
+    <location key="find.popup.0.0.1920.1080@120dpi" x="567" y="117" />
     <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080@120dpi" x="456" y="47" />
     <location key="chooseDestDirectoryDialog.0.0.1920.1080@120dpi" x="710" y="272" />
     <location key="git4idea.ui.GitResetDialog.0.0.1920.1080@120dpi" x="739" y="385" />
@@ -134,6 +134,7 @@
     <location key="#Compiler.0.0.1920.1080@120dpi" x="14" y="242" />
     <location key="Registry.0.0.1920.1080@120dpi" x="444" y="106" />
     <location key="#Inspections.0.0.1920.1080@120dpi" x="588" y="184" />
+    <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="383" y="318" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="686" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
@@ -164,14 +165,14 @@
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" width="899" height="564" />
     <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" width="727" height="728" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1245" height="881" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1864" height="218" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1864" height="218" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1864" height="218" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1864" height="218" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1864" height="314" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1864" height="314" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1864" height="314" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="314" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1866" height="250" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1866" height="250" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1866" height="250" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1866" height="250" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1866" height="250" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1866" height="250" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1866" height="250" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1866" height="250" />
     <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1864" height="255" />
     <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1864" height="255" />
     <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1864" height="255" />
@@ -181,13 +182,13 @@
     <size key="new project wizard.0.0.1920.1080@120dpi" width="1032" height="704" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1611" height="832" />
     <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="500" height="137" />
-    <size key="DebuggerActiveHint.0.0.1920.1080@120dpi" width="647" height="508" />
+    <size key="DebuggerActiveHint.0.0.1920.1080@120dpi" width="648" height="509" />
     <size key="org.intellij.images.editor.actions.SetBackgroundImageDialog.0.0.1920.1080@120dpi" width="1140" height="1030" />
     <size key="jetbrains.javascript.buildTools.run-task-popup.0.0.1920.1080@120dpi" width="315" height="345" />
     <size key="HiddenNamespacesPopup.0.0.1920.1080@120dpi" width="278" height="561" />
     <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1920.1080@120dpi" width="818" height="1030" />
     <size key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080@120dpi" width="759" height="359" />
-    <size key="find.popup.0.0.1920.1080@120dpi" width="1039" height="804" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="1049" height="814" />
     <size key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" width="880" height="646" />
     <size key="struts2 file set editor.0.0.1920.1080@120dpi" width="1067" height="618" />
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080@120dpi" width="1113" height="685" />
@@ -203,5 +204,6 @@
     <size key="GridCell.Tab.5.right.0.0.1920.1080@120dpi" width="1864" height="255" />
     <size key="GridCell.Tab.5.bottom.0.0.1920.1080@120dpi" width="1864" height="255" />
     <size key="Registry.0.0.1920.1080@120dpi" width="1155" height="818" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" width="948" height="349" />
   </component>
 </application>

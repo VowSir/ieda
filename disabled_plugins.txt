@@ -1,6 +1,5 @@
 CFML Support
 CVS
-ClearcasePlugin
 CloudBees
 CloudFoundry
 DevKit
@@ -40,6 +39,7 @@ com.intellij.uiDesigner
 com.intellij.vaadin
 com.intellij.velocity
 com.jetbrains.plugins.asp
+com.jetbrains.restClient
 cucumber-groovy
 hg4idea
 org.intellij.grails

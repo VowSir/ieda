@@ -1,107 +1,109 @@
 <application>
   <component name="PropertiesComponent">
-    <property name="evlsprt3.172" value="14" />
-    <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="ts.lib.d.ts.version" value="2.4.1" />
-    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
-    <property name="project.wizard.template" value="Maven" />
-    <property name="file.chooser.recent.files" value="C:/develop/ideaproject/bos_3.0&#10;C:/develop/ideaproject/crm_domain/pom.xml&#10;C:/develop/ideaproject/crm_domain&#10;C:/develop/ideaproject/bos_2.0/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos_2.0/crm_management/pom.xml&#10;C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml&#10;C:/develop/ideaproject/bos/common_parent/pom.xml&#10;C:/develop/ideaproject/bos&#10;C:/develop/ideaproject/bos_2.0&#10;C:/develop/apache-maven-3.5.2&#10;C:/develop/ideaproject/bos_2.0/bos_parent&#10;C:/develop/ideaproject/bos_2.0/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_parent/pom.xml&#10;C:/aming/picture4k/夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/地球和月亮5K壁纸5120x2880_彼岸图网.jpg&#10;C:/aming/picture4k/和服女孩坐在小溪的图片 小提琴,蝴蝶_彼岸图网.jpg&#10;C:/develop/ideaproject/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_parent&#10;C:/develop/ideaproject/common_parent&#10;C:/develop/ideaproject/common_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/common_parent/pom.xml" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="130" />
-    <property name="KEYMAP" value="maven&#10;m&#10;au&#10;auto&#10;git" />
-    <property name="typescript.show.auto.import" value="true" />
-    <property name="es6.show.auto.import" value="true" />
-    <property name="selected.color.option.type" value="JSP_DIRECTIVE_BACKGROUND" />
-    <property name="ColorChooser.RecentColors" value="185-255-21-255,,,222-42-224-255,,,28-255-34-255,,,85-224-52-255,,,61-255-48-255,,,255-42-47-255,,,255-32-75-255,,,76-255-32-255,,,251-120-255-255,,,58-255-72-255,,,58-82-255-255,,,38-97-84-255,,,100-255-21-255,,,95-97-13-255,,,97-55-17-255,,,242-246-255-255,,,248-254-255-255,,,254-255-204-255,,,17-215-255-255,,,41-231-255-255" />
-    <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="PLUGIN_FILTER" value="jre&#10;lom&#10;vim&#10;asp&#10;my" />
-    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
-    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.271" />
-    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
-    <property name="file.gist.reindex.count" value="6941" />
-    <property name="Copy.OpenInEditor" value="true" />
-    <property name="fileTypeChangedCounter" value="10" />
-    <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
-    <property name="MavenModuleWizard.inheritGroupId" value="true" />
-    <property name="MavenModuleWizard.inheritVersion" value="true" />
-    <property name="spring.initializr.service.url.history" value="" />
-    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="LiveContextsPanel[0]" value="0.15810277" />
-    <property name="SpringBeansModulesPanel[0]" value="0.15467905" />
-    <property name="LiveContextsPanel[1]" value="0.18796992" />
-    <property name="JUnitSupport.hidePassedTests" value="false" />
-    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="C:\aming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:\ming\twow.png&#10;D:\picture\twow.png&#10;D:\ming\picture\two.jpg" />
-    <property name="LayoutCode.optimizeImports" value="false" />
-    <property name="ShowDocumentationInToolWindow" value="false" />
-    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
-    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
-    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
-    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
-    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
-    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
     <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
-    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
     <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ColorChooser.RecentColors" value="185-255-21-255,,,222-42-224-255,,,28-255-34-255,,,85-224-52-255,,,61-255-48-255,,,255-42-47-255,,,255-32-75-255,,,76-255-32-255,,,251-120-255-255,,,58-255-72-255,,,58-82-255-255,,,38-97-84-255,,,100-255-21-255,,,95-97-13-255,,,97-55-17-255,,,242-246-255-255,,,248-254-255-255,,,254-255-204-255,,,17-215-255-255,,,41-231-255-255" />
     <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.68359375" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
-    <property name="LAST_INJECTED_LANGUAGE" value="XML" />
-    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.64857143" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15467905" />
     <property name="FrameworksFinderRecursivePanel[1]" value="0.18315019" />
-    <property name="JpaViewFrameworkProvider:Module[2]" value="0.22446689" />
     <property name="FrameworksFinderRecursivePanel[2]" value="0.22446689" />
     <property name="FrameworksFinderRecursivePanel[3]" value="0.28985506" />
     <property name="FrameworksFinderRecursivePanel[4]" value="0.40899795" />
     <property name="FrameworksFinderRecursivePanel[5]" value="0.6944444" />
-    <property name="ignore.ide.set.hidpi.mode" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JpaViewFrameworkProvider:Module[2]" value="0.22446689" />
+    <property name="KEYMAP" value="maven&#10;m&#10;au&#10;auto&#10;git" />
+    <property name="LAST_INJECTED_LANGUAGE" value="XML" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.15810277" />
+    <property name="LiveContextsPanel[1]" value="0.18796992" />
+    <property name="MavenHelper.lastRadioButton" value="list" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="htt&#10;ang&#10;jre&#10;lom&#10;vim" />
     <property name="ProjectStructure.TopLevelElements" value="0.15461704" />
-    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
-    <property name="dir.diff.space.button.info" value="1" />
-    <property name="FileChooser.ShowPath" value="true" />
-    <property name="dir.diff.panel.divider.location" value="150" />
-    <property name="idea.background.frame" value="C:\aming\picture4k\夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg,58,scale,center" />
-    <property name="last.imported.location" value="C:/develop/ideaproject/crm_domain/pom.xml" />
-    <property name="create.project.preferred.importer" value="Existing Sources" />
-    <property name="ideavim.statistics.timestamp" value="1520904613714" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SearchEveryWhereHistory" value="to&#10;//&#10;todo&#10;SimpleRepository&#10;JpaRepository" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.64857143" />
+    <property name="SpringBeansModulesPanel[0]" value="0.15467905" />
     <property name="SpringBeansModulesPanel[1]" value="0.1293661" />
     <property name="SpringBeansModulesPanel[2]" value="0.1485884" />
     <property name="SpringBeansModulesPanel[3]" value="0.17452008" />
-    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
-    <property name="LayoutCode.processChangedText" value="false" />
-    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
     <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="dir.diff.panel.divider.location" value="150" />
+    <property name="dir.diff.space.button.info" value="1" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.172" value="14" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
+    <property name="file.chooser.recent.files" value="C:/develop/ideaproject/sell&#10;C:/develop/ideaproject/bos_3.0/bos_fore&#10;C:/cmder_mini/Cmder.exe&#10;C:/develop/ideaproject/bos_3.0&#10;C:/develop/ideaproject/crm_domain/pom.xml&#10;C:/develop/ideaproject/crm_domain&#10;C:/develop/ideaproject/bos_2.0/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos_2.0/crm_management/pom.xml&#10;C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml&#10;C:/develop/ideaproject/bos/common_parent/pom.xml&#10;C:/develop/ideaproject/bos&#10;C:/develop/ideaproject/bos_2.0&#10;C:/develop/apache-maven-3.5.2&#10;C:/develop/ideaproject/bos_2.0/bos_parent&#10;C:/develop/ideaproject/bos_2.0/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_parent/pom.xml&#10;C:/aming/picture4k/夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:/aming/picture4k/地球和月亮5K壁纸5120x2880_彼岸图网.jpg&#10;C:/aming/picture4k/和服女孩坐在小溪的图片 小提琴,蝴蝶_彼岸图网.jpg&#10;C:/develop/ideaproject/bos_parent/bos_management/pom.xml&#10;C:/develop/ideaproject/bos_parent" />
+    <property name="file.gist.reindex.count" value="7590" />
+    <property name="fileTypeChangedCounter" value="10" />
     <property name="idea.background.editor" value="C:\aming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,4,scale,center" />
+    <property name="idea.background.frame" value="C:\aming\picture4k\夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg,58,scale,center" />
+    <property name="ideavim.statistics.timestamp" value="1520904613714" />
+    <property name="ignore.ide.set.hidpi.mode" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.271" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="C:/develop/ideaproject/bos_3.0/bos_fore" />
+    <property name="lastTip" value="130" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
-    <property name="MavenHelper.lastRadioButton" value="list" />
-    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
-    <property name="search.everywhere.max.popup.width" value="810" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="C:\aming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:\ming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg&#10;C:\ming\twow.png&#10;D:\picture\twow.png&#10;D:\ming\picture\two.jpg" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="selected.color.option.type" value="JSP_DIRECTIVE_BACKGROUND" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="2.7.2" />
+    <property name="typescript.show.auto.import" value="true" />
   </component>
 </application>

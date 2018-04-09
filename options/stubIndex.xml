@@ -2,6 +2,9 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="markdown.header" />
+        <option value="js.doc.modules" />
+        <option value="ts.local.classes" />
         <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
@@ -36,7 +39,6 @@
         <option value="angularjs.symbol.index" />
         <option value="angularjs.filter.index" />
         <option value="angularjs.module.index" />
-        <option value="angularjs.decorators.index" />
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.doc.index" />
         <option value="angularjs.directives.index" />

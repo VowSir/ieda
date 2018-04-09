@@ -3,6 +3,8 @@
     <option name="recentPaths">
       <list>
         <option value="C:/develop/ideaproject/bos_3.0/common_parent" />
+        <option value="C:/develop/ideaproject/springboot" />
+        <option value="C:/develop/ideaproject/sell" />
         <option value="C:/develop/ideaproject/bos" />
       </list>
     </option>
@@ -12,6 +14,7 @@
       </list>
     </option>
     <option name="lastPath" value="C:/develop/ideaproject/bos_3.0/common_parent" />
+    <option name="pid" value="16900" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/codeapp/TortoiseSVN/springboot_study">
@@ -105,11 +108,11 @@
         <entry key="C:/develop/ideaproject/bos_3.0/common_parent">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4574.11" />
+              <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522743503314" />
-              <option name="buildTimestamp" value="1510606438873" />
+              <option name="projectOpenTimestamp" value="1523268392869" />
+              <option name="buildTimestamp" value="1522093180685" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -391,11 +394,11 @@
         <entry key="C:/develop/ideaproject/sell">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4343.14" />
+              <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1521681815353" />
-              <option name="buildTimestamp" value="1506404249003" />
+              <option name="projectOpenTimestamp" value="1523008065109" />
+              <option name="buildTimestamp" value="1522093162552" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -413,11 +416,11 @@
         <entry key="C:/develop/ideaproject/springboot">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4343.14" />
+              <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518928329702" />
-              <option name="buildTimestamp" value="1506404221830" />
+              <option name="projectOpenTimestamp" value="1523234232260" />
+              <option name="buildTimestamp" value="1522093160930" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -918,6 +921,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="C:/develop/ideaproject/bos_3.0" />
+    <option name="lastProjectLocation" value="C:/develop/ideaproject" />
   </component>
 </application>
