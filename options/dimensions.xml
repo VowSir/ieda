@@ -44,20 +44,20 @@
     <location key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" x="353" y="0" />
     <location key="#Assign_Data_Sources.0.0.1366.768" x="438" y="107" />
     <location key="#Plugins.0.0.1920.1080@120dpi" x="553" y="108" />
-    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="183" y="82" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="50" y="137" />
     <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="665" y="143" />
     <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="1128" y="226" />
     <location key="new project wizard.0.0.1920.1080@120dpi" x="431" y="248" />
     <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="963" y="506" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="524" y="164" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="513" y="66" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="547" y="161" />
     <location key="#Tomcat_Server.0.0.1920.1080@120dpi" x="707" y="426" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080@120dpi" x="655" y="128" />
     <location key="StructurePopup.0.0.1920.1080@120dpi" x="670" y="301" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="720" y="135" />
     <location key="#com.intellij.codeInsight.daemon.impl.quickfix.LocateLibraryDialog.0.0.1920.1080@120dpi" x="769" y="409" />
     <location key="org.intellij.images.editor.actions.SetBackgroundImageDialog.0.0.1920.1080@120dpi" x="370" y="0" />
-    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="311" y="0" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="311" y="50" />
     <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.1920.1080@120dpi" x="487" y="141" />
     <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1920.1080@120dpi" x="750" y="414" />
     <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1920.1080@120dpi" x="780" y="414" />
@@ -99,7 +99,7 @@
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" x="683" y="359" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080@120dpi" x="635" y="372" />
     <location key="find.popup.0.0.1920.1080@120dpi" x="567" y="117" />
-    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080@120dpi" x="456" y="47" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080@120dpi" x="396" y="361" />
     <location key="chooseDestDirectoryDialog.0.0.1920.1080@120dpi" x="710" y="272" />
     <location key="git4idea.ui.GitResetDialog.0.0.1920.1080@120dpi" x="739" y="385" />
     <location key="git4idea.ui.GitTagDialog.0.0.1920.1080@120dpi" x="739" y="318" />
@@ -130,11 +130,15 @@
     <location key="svn.upgradeDialog.0.0.1920.1080@120dpi" x="721" y="386" />
     <location key="svn4idea.checkout.options.0.0.1920.1080@120dpi" x="641" y="353" />
     <location key="#common_parent_[install:install].0.0.1920.1080@120dpi" x="466" y="3" />
-    <location key="#bos_management_[tomcat7:run].0.0.1920.1080@120dpi" x="466" y="3" />
+    <location key="#bos_management_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="127" />
     <location key="#Compiler.0.0.1920.1080@120dpi" x="14" y="242" />
     <location key="Registry.0.0.1920.1080@120dpi" x="444" y="106" />
     <location key="#Inspections.0.0.1920.1080@120dpi" x="588" y="184" />
     <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="383" y="318" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1920.1080@120dpi" x="689" y="326" />
+    <location key="#bos_fore_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="127" />
+    <location key="#bos_sms_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="127" />
+    <location key="#crm_management_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="127" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="686" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
@@ -164,7 +168,7 @@
     <size key="DebuggerActiveHint.0.0.1366.768" width="475" height="445" />
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" width="899" height="564" />
     <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" width="727" height="728" />
-    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1245" height="881" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1245" height="828" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1866" height="250" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1866" height="250" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1866" height="250" />

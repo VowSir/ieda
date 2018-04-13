@@ -1,8 +1,11 @@
+AntSupport
 CFML Support
 CVS
+CheckStyle-IDEA
 CloudBees
 CloudFoundry
 DevKit
+FindBugs-IDEA
 Geronimo
 GlassFish
 Heroku
