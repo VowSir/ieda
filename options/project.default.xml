@@ -70,7 +70,7 @@
         <property name="last_opened_file_path" value="C:/decodeapp/Git/git/bin/git.exe" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+        <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
       </component>
       <component name="SvnConfiguration">
         <configuration useDefault="false">C:\codeapp\TortoiseSVN</configuration>

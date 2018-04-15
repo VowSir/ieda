@@ -2,21 +2,14 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="C:/develop/ideaproject/bos_3.0" />
         <option value="C:/develop/ideaproject/sell" />
-        <option value="C:/develop/ideaproject/bos_3.0/common_parent" />
         <option value="C:/develop/ideaproject/guns/guns-parent" />
         <option value="C:/develop/ideaproject/study" />
-        <option value="C:/develop/ideaproject/bos" />
         <option value="C:/develop/ideaproject/springboot" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="C:/develop/ideaproject/sell" />
-      </list>
-    </option>
-    <option name="lastPath" value="C:/develop/ideaproject/sell" />
-    <option name="pid" value="6676" />
+    <option name="pid" value="12208" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/codeapp/TortoiseSVN/springboot_study">
@@ -107,14 +100,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/develop/ideaproject/bos_3.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523758034463" />
+              <option name="buildTimestamp" value="1522093142794" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/develop/ideaproject/bos_3.0/common_parent">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523580569727" />
-              <option name="buildTimestamp" value="1522093160336" />
+              <option name="projectOpenTimestamp" value="1523669754124" />
+              <option name="buildTimestamp" value="1522093155576" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -421,8 +425,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523584203854" />
-              <option name="buildTimestamp" value="1522093196758" />
+              <option name="projectOpenTimestamp" value="1523686701564" />
+              <option name="buildTimestamp" value="1522093196082" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -621,6 +625,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1519367898456" />
               <option name="buildTimestamp" value="1506404243365" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/develop/ideawork/bos_3.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523673347756" />
+              <option name="buildTimestamp" value="1522093192939" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

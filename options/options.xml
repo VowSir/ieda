@@ -36,13 +36,14 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileChooser.ShowPath" value="true" />
-    <property name="FileTemplates.SelectedTemplate" value="db.properties" />
+    <property name="FileTemplates.SelectedTemplate" value="applicationannotation.xml" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15467905" />
     <property name="FrameworksFinderRecursivePanel[1]" value="0.18315019" />
     <property name="FrameworksFinderRecursivePanel[2]" value="0.22446689" />
     <property name="FrameworksFinderRecursivePanel[3]" value="0.28985506" />
     <property name="FrameworksFinderRecursivePanel[4]" value="0.40899795" />
     <property name="FrameworksFinderRecursivePanel[5]" value="0.6944444" />
+    <property name="JUnit.Splitter.Proportion" value="0.1540142" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="JpaViewFrameworkProvider:Module[2]" value="0.22446689" />
     <property name="KEYMAP" value="maven&#10;m&#10;au&#10;auto&#10;git" />
@@ -57,11 +58,12 @@
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="PLUGIN_FILTER" value="fin&#10;che&#10;ant&#10;htt&#10;ang" />
+    <property name="PLUGIN_FILTER" value="jre&#10;docker&#10;dokcer&#10;fram&#10;rest" />
     <property name="ProjectStructure.TopLevelElements" value="0.15461704" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
     <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
-    <property name="SearchEveryWhereHistory" value="to&#10;//&#10;todo&#10;SimpleRepository&#10;JpaRepository" />
+    <property name="SearchEveryWhereHistory" value="Configuration&#10;to&#10;//&#10;todo&#10;SimpleRepository" />
+    <property name="SettingsSearchHistory" value="file" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.64857143" />
     <property name="SplitFileEditor.Proportion" value="0.69784707" />
@@ -84,8 +86,8 @@
     <property name="evlsprt3.172" value="14" />
     <property name="evlsprt3.181" value="16" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
-    <property name="file.chooser.recent.files" value="C:/develop/ideaproject/guns/guns-parent&#10;C:/develop/ideaproject/guns&#10;C:/develop/ideaproject/guns/guns-parent/pom.xml&#10;C:/develop/ideaproject/guns/guns-generator/pom.xml&#10;C:/develop/ideaproject/guns/guns-admin/pom.xml&#10;C:/develop/ideaproject/guns/guns-core/pom.xml&#10;C:/develop/ideaproject/study&#10;C:/develop/ideaproject/sell&#10;C:/develop/ideaproject/bos_3.0/bos_fore&#10;C:/cmder_mini/Cmder.exe&#10;C:/develop/ideaproject/bos_3.0&#10;C:/develop/ideaproject/crm_domain/pom.xml&#10;C:/develop/ideaproject/crm_domain&#10;C:/develop/ideaproject/bos_2.0/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos_2.0/crm_management/pom.xml&#10;C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml&#10;C:/develop/ideaproject/bos/common_parent/pom.xml&#10;C:/develop/ideaproject/bos&#10;C:/develop/ideaproject/bos_2.0&#10;C:/develop/apache-maven-3.5.2&#10;C:/develop/ideaproject/bos_2.0/bos_parent&#10;C:/develop/ideaproject/bos_2.0/bos_parent/bos_management/pom.xml" />
-    <property name="file.gist.reindex.count" value="12836" />
+    <property name="file.chooser.recent.files" value="C:/develop/ideaproject/bos_3.0&#10;C:/develop/ideawork/bos_3.0&#10;C:/develop/ideaproject/bos_3.0/bos_fore/src/main/webapp/freemarker&#10;C:/develop/ideaproject/guns/guns-parent&#10;C:/develop/ideaproject/guns&#10;C:/develop/ideaproject/guns/guns-parent/pom.xml&#10;C:/develop/ideaproject/guns/guns-generator/pom.xml&#10;C:/develop/ideaproject/guns/guns-admin/pom.xml&#10;C:/develop/ideaproject/guns/guns-core/pom.xml&#10;C:/develop/ideaproject/study&#10;C:/develop/ideaproject/sell&#10;C:/develop/ideaproject/bos_3.0/bos_fore&#10;C:/cmder_mini/Cmder.exe&#10;C:/develop/ideaproject/crm_domain/pom.xml&#10;C:/develop/ideaproject/crm_domain&#10;C:/develop/ideaproject/bos_2.0/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos_2.0/crm_management/pom.xml&#10;C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml&#10;C:/develop/ideaproject/bos/common_parent/pom.xml&#10;C:/develop/ideaproject/bos&#10;C:/develop/ideaproject/bos_2.0&#10;C:/develop/apache-maven-3.5.2" />
+    <property name="file.gist.reindex.count" value="14763" />
     <property name="fileTypeChangedCounter" value="10" />
     <property name="idea.background.editor" value="C:\aming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,4,scale,center" />
     <property name="idea.background.frame" value="C:\aming\picture4k\夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg,58,scale,center" />

@@ -2,9 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="markdown.header" />
-        <option value="js.doc.modules" />
-        <option value="ts.local.classes" />
         <option value="java.module.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
@@ -20,6 +17,7 @@
         <option value="aj.itd.class" />
         <option value="aj.itd.method" />
         <option value="aj.itd.field" />
+        <option value="markdown.header" />
         <option value="gr.anonymous.class" />
         <option value="gr.class.super" />
         <option value="gr.script.class" />
@@ -42,8 +40,10 @@
         <option value="angularjs.controller.index" />
         <option value="angularjs.directives.doc.index" />
         <option value="angularjs.directives.index" />
+        <option value="js.doc.modules" />
         <option value="js.gcl.modules" />
         <option value="js.nonglobal.symbol.index" />
+        <option value="ts.local.classes" />
         <option value="es6.assignment.index" />
         <option value="js.exported.index" />
         <option value="js.global.symbol.index" />
