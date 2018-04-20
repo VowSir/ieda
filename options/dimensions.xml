@@ -48,9 +48,9 @@
     <location key="#Browse_Repositories.0.0.1920.1080@120dpi" x="665" y="143" />
     <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="1128" y="226" />
     <location key="new project wizard.0.0.1920.1080@120dpi" x="431" y="248" />
-    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="963" y="506" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="983" y="553" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="524" y="164" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="522" y="132" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="317" y="132" />
     <location key="#Tomcat_Server.0.0.1920.1080@120dpi" x="707" y="426" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080@120dpi" x="655" y="128" />
     <location key="StructurePopup.0.0.1920.1080@120dpi" x="670" y="301" />
@@ -109,7 +109,7 @@
     <location key="VCS.ChangeListViewerDialog.0.0.1920.1080@120dpi" x="663" y="159" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080@120dpi" x="527" y="13" />
     <location key="spring file set editor.0.0.1920.1080@120dpi" x="603" y="113" />
-    <location key="#xdebugger.evaluate.0.0.1920.1080@120dpi" x="231" y="276" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080@120dpi" x="669" y="470" />
     <location key="#xdebugger.XInspectDialog.0.0.1920.1080@120dpi" x="174" y="239" />
     <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.1920.1080@120dpi" x="756" y="268" />
     <location key="#com.intellij.ws.actions.GenerateJavaFromWsdlAction$1.0.0.1920.1080@120dpi" x="570" y="242" />
@@ -137,10 +137,12 @@
     <location key="IdeErrosDialog.0.0.1920.1080@120dpi" x="383" y="318" />
     <location key="#BuildArtifactsBeforeRunChooser.0.0.1920.1080@120dpi" x="689" y="326" />
     <location key="#bos_fore_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="127" />
-    <location key="#bos_sms_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="127" />
+    <location key="#bos_sms_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="90" />
     <location key="#crm_management_[tomcat7:run].0.0.1920.1080@120dpi" x="550" y="127" />
     <location key="#Java_Type_Renderers.0.0.1920.1080@120dpi" x="8" y="50" />
     <location key="#com.intellij.debugger.actions.ViewTextAction.0.0.1920.1080@120dpi" x="54" y="438" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080@120dpi" x="639" y="116" />
+    <location key="extract.method.dialog.0.0.1920.1080@120dpi" x="626" y="281" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" width="1092" height="686" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
@@ -170,15 +172,15 @@
     <size key="DebuggerActiveHint.0.0.1366.768" width="475" height="445" />
     <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" width="899" height="564" />
     <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1366.768" width="727" height="728" />
-    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1245" height="828" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="868" height="267" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="868" height="267" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="868" height="267" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="868" height="267" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="868" height="267" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="868" height="267" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="868" height="267" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="868" height="267" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1245" height="948" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1866" height="281" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1866" height="281" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1866" height="281" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1866" height="281" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1866" height="284" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1866" height="284" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1866" height="284" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1866" height="284" />
     <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1864" height="255" />
     <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1864" height="255" />
     <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1864" height="255" />
@@ -188,7 +190,7 @@
     <size key="new project wizard.0.0.1920.1080@120dpi" width="1032" height="704" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1750" height="849" />
     <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="500" height="137" />
-    <size key="DebuggerActiveHint.0.0.1920.1080@120dpi" width="1189" height="357" />
+    <size key="DebuggerActiveHint.0.0.1920.1080@120dpi" width="1115" height="357" />
     <size key="org.intellij.images.editor.actions.SetBackgroundImageDialog.0.0.1920.1080@120dpi" width="1140" height="1030" />
     <size key="jetbrains.javascript.buildTools.run-task-popup.0.0.1920.1080@120dpi" width="315" height="345" />
     <size key="HiddenNamespacesPopup.0.0.1920.1080@120dpi" width="278" height="561" />
@@ -214,5 +216,6 @@
     <size key="#Browse_Repositories.0.0.1920.1080@120dpi" width="1035" height="703" />
     <size key="#xdebugger.XInspectDialog.0.0.1920.1080@120dpi" width="422" height="591" />
     <size key="#com.intellij.debugger.actions.ViewTextAction.0.0.1920.1080@120dpi" width="1663" height="353" />
+    <size key="javadoc.popup.new.0.0.1920.1080@120dpi" width="544" height="182" />
   </component>
 </application>

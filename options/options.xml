@@ -36,7 +36,7 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileChooser.ShowPath" value="true" />
-    <property name="FileTemplates.SelectedTemplate" value="applicationannotation.xml" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15467905" />
     <property name="FrameworksFinderRecursivePanel[1]" value="0.18315019" />
     <property name="FrameworksFinderRecursivePanel[2]" value="0.22446689" />
@@ -58,15 +58,15 @@
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="PLUGIN_FILTER" value="jre&#10;docker&#10;dokcer&#10;fram&#10;rest" />
+    <property name="PLUGIN_FILTER" value="vim&#10;jre&#10;docker&#10;dokcer&#10;fram" />
     <property name="ProjectStructure.TopLevelElements" value="0.15461704" />
     <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
     <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
-    <property name="SearchEveryWhereHistory" value="Configuration&#10;to&#10;//&#10;todo&#10;SimpleRepository" />
+    <property name="SearchEveryWhereHistory" value="up&#10;Configuration&#10;to&#10;//&#10;todo" />
     <property name="SettingsSearchHistory" value="file" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.64857143" />
-    <property name="SplitFileEditor.Proportion" value="0.69784707" />
+    <property name="SplitFileEditor.Proportion" value="0.15" />
     <property name="SpringBeansModulesPanel[0]" value="0.15467905" />
     <property name="SpringBeansModulesPanel[1]" value="0.1293661" />
     <property name="SpringBeansModulesPanel[2]" value="0.1485884" />
@@ -86,17 +86,18 @@
     <property name="evlsprt3.172" value="14" />
     <property name="evlsprt3.181" value="16" />
     <property name="export.settings.path" value="D:\idea\theme\1432977083.jar" />
-    <property name="file.chooser.recent.files" value="C:/develop/ideaproject/bos_3.0&#10;C:/develop/ideawork/bos_3.0&#10;C:/develop/ideaproject/bos_3.0/bos_fore/src/main/webapp/freemarker&#10;C:/develop/ideaproject/guns/guns-parent&#10;C:/develop/ideaproject/guns&#10;C:/develop/ideaproject/guns/guns-parent/pom.xml&#10;C:/develop/ideaproject/guns/guns-generator/pom.xml&#10;C:/develop/ideaproject/guns/guns-admin/pom.xml&#10;C:/develop/ideaproject/guns/guns-core/pom.xml&#10;C:/develop/ideaproject/study&#10;C:/develop/ideaproject/sell&#10;C:/develop/ideaproject/bos_3.0/bos_fore&#10;C:/cmder_mini/Cmder.exe&#10;C:/develop/ideaproject/crm_domain/pom.xml&#10;C:/develop/ideaproject/crm_domain&#10;C:/develop/ideaproject/bos_2.0/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos_2.0/crm_management/pom.xml&#10;C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml&#10;C:/develop/ideaproject/bos/common_parent/pom.xml&#10;C:/develop/ideaproject/bos&#10;C:/develop/ideaproject/bos_2.0&#10;C:/develop/apache-maven-3.5.2" />
-    <property name="file.gist.reindex.count" value="14765" />
+    <property name="file.chooser.recent.files" value="C:/develop/ideawork/sell&#10;C:/sell&#10;D:/study/ganhuo/spring/Spring Boot企业微信点餐系统/sell&#10;C:/develop/apache-tomcat-8.5.27&#10;C:/develop/ideaproject/bos_3.0&#10;C:/develop/ideawork/bos_3.0&#10;C:/develop/ideaproject/bos_3.0/bos_fore/src/main/webapp/freemarker&#10;C:/develop/ideaproject/guns/guns-parent&#10;C:/develop/ideaproject/guns&#10;C:/develop/ideaproject/guns/guns-parent/pom.xml&#10;C:/develop/ideaproject/guns/guns-generator/pom.xml&#10;C:/develop/ideaproject/guns/guns-admin/pom.xml&#10;C:/develop/ideaproject/guns/guns-core/pom.xml&#10;C:/develop/ideaproject/study&#10;C:/develop/ideaproject/sell&#10;C:/develop/ideaproject/bos_3.0/bos_fore&#10;C:/cmder_mini/Cmder.exe&#10;C:/develop/ideaproject/crm_domain/pom.xml&#10;C:/develop/ideaproject/crm_domain&#10;C:/develop/ideaproject/bos_2.0/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos_2.0/crm_management/pom.xml&#10;C:/aming/api/jdk8doc/api&#10;C:/aming/api/jdk8doc&#10;C:/develop/ideaproject/bos/crm_management/pom.xml&#10;C:/develop/ideaproject/bos/crm_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_sms/pom.xml&#10;C:/develop/ideaproject/bos/bos_domain/pom.xml&#10;C:/develop/ideaproject/bos/bos_fore/pom.xml&#10;C:/develop/ideaproject/bos_2.0/bos_management/src/main/resources&#10;C:/develop/ideaproject/bos/bos_management/pom.xml" />
+    <property name="file.gist.reindex.count" value="15412" />
     <property name="fileTypeChangedCounter" value="10" />
     <property name="idea.background.editor" value="C:\aming\picture4k\狼嗥叫4k简约壁纸_彼岸图网.jpg,4,scale,center" />
     <property name="idea.background.frame" value="C:\aming\picture4k\夜晚 空间 星星 女孩 星空4K壁纸_彼岸图网.jpg,58,scale,center" />
-    <property name="ideavim.statistics.timestamp" value="1520904613714" />
+    <property name="ideavim.statistics.timestamp" value="1524022616755" />
     <property name="ignore.ide.set.hidpi.mode" value="true" />
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
     <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
     <property name="javaee.appServer.lastUsedServer" value="Tomcat 8.5.271" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port" value="9836" />
     <property name="last.imported.location" value="C:/develop/ideaproject/guns/guns-parent" />
     <property name="lastTip" value="130" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
@@ -104,6 +105,7 @@
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="search.everywhere.max.popup.width" value="790" />
     <property name="selected.color.option.type" value="JSP_DIRECTIVE_BACKGROUND" />
     <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
     <property name="spring.initializr.service.url.history" value="" />

@@ -24,6 +24,9 @@
       <component name="CodeInsightWorkspaceSettings">
         <option name="optimizeImportsOnTheFly" value="true" />
       </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+      </component>
       <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
         <file url="PROJECT" charset="UTF-8" />
       </component>
@@ -70,7 +73,7 @@
         <property name="last_opened_file_path" value="C:/decodeapp/Git/git/bin/git.exe" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+        <property name="settings.editor.selected.configurable" value="project.propCompiler" />
       </component>
       <component name="SvnConfiguration">
         <configuration useDefault="false">C:\codeapp\TortoiseSVN</configuration>

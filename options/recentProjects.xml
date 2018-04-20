@@ -3,13 +3,20 @@
     <option name="recentPaths">
       <list>
         <option value="C:/develop/ideaproject/bos_3.0" />
-        <option value="C:/develop/ideaproject/sell" />
-        <option value="C:/develop/ideaproject/guns/guns-parent" />
         <option value="C:/develop/ideaproject/study" />
+        <option value="C:/develop/ideaproject/guns/guns-parent" />
+        <option value="C:/develop/ideaproject/sell" />
+        <option value="C:/develop/ideawork/sell" />
         <option value="C:/develop/ideaproject/springboot" />
       </list>
     </option>
-    <option name="pid" value="14164" />
+    <option name="openPaths">
+      <list>
+        <option value="C:/develop/ideaproject/bos_3.0" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:/develop/ideaproject/bos_3.0" />
+    <option name="pid" value="22688" />
     <option name="additionalInfo">
       <map>
         <entry key="C:/codeapp/TortoiseSVN/springboot_study">
@@ -106,8 +113,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523758988832" />
-              <option name="buildTimestamp" value="1522093159875" />
+              <option name="projectOpenTimestamp" value="1524206968040" />
+              <option name="buildTimestamp" value="1522093150886" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -282,8 +289,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523415880716" />
-              <option name="buildTimestamp" value="1522093140634" />
+              <option name="projectOpenTimestamp" value="1523958721269" />
+              <option name="buildTimestamp" value="1522093151285" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -425,8 +432,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523686701564" />
-              <option name="buildTimestamp" value="1522093196082" />
+              <option name="projectOpenTimestamp" value="1523877620666" />
+              <option name="buildTimestamp" value="1522093188685" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -557,8 +564,8 @@
               <option name="build" value="IU-181.4203.550" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1523415387160" />
-              <option name="buildTimestamp" value="1522093188611" />
+              <option name="projectOpenTimestamp" value="1524022764023" />
+              <option name="buildTimestamp" value="1522093148575" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -639,6 +646,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:/develop/ideawork/sell">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523877411122" />
+              <option name="buildTimestamp" value="1522093188685" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:/develop/springdemo">
           <value>
             <RecentProjectMetaInfo>
@@ -658,6 +676,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1518573872043" />
               <option name="buildTimestamp" value="1506404221688" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/sell">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523876812499" />
+              <option name="buildTimestamp" value="1522093188685" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -958,6 +987,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/study/ganhuo/spring/Spring Boot企业微信点餐系统/sell">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.4203.550" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523876623045" />
+              <option name="buildTimestamp" value="1522093160066" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:/SSH">
           <value>
             <RecentProjectMetaInfo>
@@ -971,6 +1011,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="C:/develop/ideaproject/guns" />
+    <option name="lastProjectLocation" value="D:/study/ganhuo/spring/Spring Boot企业微信点餐系统" />
   </component>
 </application>

@@ -22,9 +22,13 @@
       <file name="C:/develop/ideaproject/studyframwork/src/io/service/UserService.java" timestamp="1520906108511">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="C:/develop/ideaproject/study/pom.xml" timestamp="1524022741015">
+        <mark key="'" line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="11" column="43" filename="C:/develop/ideaproject/studyframwork/web/WEB-INF/web.xml" />
+      <jump line="2" column="0" filename="C:/develop/ideaproject/study/pom.xml" />
     </jumps>
     <registers>
       <register name=":" type="4">
@@ -36,10 +40,13 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>q</entry>
         <entry>x</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
