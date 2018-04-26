@@ -1,16 +1,88 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
+    <state version="4" enabled="false" />
+    <globalmarks>
+      <mark key="M" line="30" column="0" filename="C:/develop/mymaven/repository/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" protocol="jar" />
+    </globalmarks>
     <filemarks>
-      <file name="C:/develop/ideaproject/studyframwork/src/io/service/utils/JDKProxyFactory.java" timestamp="1520908559515">
-        <mark key="." line="51" column="0" />
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/web/action/take_delivery/WayBillAction.java" timestamp="1524446937127">
+        <mark key="'" line="71" column="68" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="75" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/sell/src/main/java/exception/SellException.java" timestamp="1524635491101">
+        <mark key="[" line="12" column="4" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/webapp/WEB-INF/web.xml" timestamp="1524555547114">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+      </file>
+      <file name="C:/develop/ideaproject/studyframwork/src/io/service/UserService.java" timestamp="1520906108511">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" timestamp="1524461410906">
+        <mark key="'" line="37" column="57" />
+        <mark key="[" line="102" column="27" />
+        <mark key="]" line="99" column="74" />
+        <mark key="^" line="99" column="74" />
+        <mark key="." line="99" column="74" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/system/impl/RoleServiceImpl.java" timestamp="1524656391208">
+        <mark key="'" line="17" column="13" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="C:/develop/ideaproject/studyframwork/test/io/annotatin/dogImplTest.java" timestamp="1520907265067">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/sell/src/main/java/com/ming/service/OrderService.java" timestamp="1524634688714">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/sell/src/main/java/com/ming/service/impl/OrderServiceImpl.java" timestamp="1524635879460">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/resources/applicationContext-shiro.xml" timestamp="1524575111291">
+        <mark key="'" line="29" column="34" />
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/web/action/system/UserAction.java" timestamp="1524560132876">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+      </file>
+      <file name="C:/develop/ideaproject/study/pom.xml" timestamp="1524450192536">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/study/README.md" timestamp="1524448744908">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524419262008">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/T_ORDER [bos]" timestamp="1524271206312">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/webapp/unautnorized.html" timestamp="1524556506731">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="C:/develop/ideaproject/studyframwork/web/WEB-INF/web.xml" timestamp="1520906061282">
         <mark key="'" line="11" column="43" />
@@ -19,44 +91,231 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="C:/develop/ideaproject/studyframwork/src/io/service/UserService.java" timestamp="1520906108511">
-        <mark key="[" line="4" column="0" />
+      <file name="C:/develop/ideaproject/study/src/main/java/com/mmm/LambdaFirst.java" timestamp="1524450347878">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/develop/ideaproject/study/pom.xml" timestamp="1524022741015">
-        <mark key="'" line="2" column="0" />
+      <file name="/T_WAY_BILL [bos]" timestamp="1524271205793">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/webapp/pages/take_delivery/different_waybill.html" timestamp="1524271419772">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="40" />
+        <mark key="^" line="28" column="40" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/webapp/pages/take_delivery/waybill_manage.html" timestamp="1524464137107">
+        <mark key="'" line="43" column="55" />
+        <mark key="[" line="84" column="58" />
+      </file>
+      <file name="C:/develop/ideaproject/sell/src/main/java/com/ming/emuns/ResultEnum.java" timestamp="1524635412470">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1524450326895">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/develop/mymaven/repository/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1524446969348">
+        <mark key="'" line="104" column="1" />
+        <mark key="m" line="30" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/bos_3.0/bos_management/src/main/resources/applicationContext.xml" timestamp="1524555718029">
+        <mark key="[" line="103" column="40" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="C:/develop/ideaproject/sell/src/main/java/com/ming/dto/OrderDTO.java" timestamp="1524634342961">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="41" column="27" />
       </file>
     </filemarks>
     <jumps>
       <jump line="11" column="43" filename="C:/develop/ideaproject/studyframwork/web/WEB-INF/web.xml" />
       <jump line="2" column="0" filename="C:/develop/ideaproject/study/pom.xml" />
+      <jump line="44" column="0" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="40" column="33" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="22" column="0" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="0" column="0" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/webapp/pages/take_delivery/different_waybill.html" />
+      <jump line="56" column="31" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/web/action/take_delivery/WayBillAction.java" />
+      <jump line="60" column="31" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/web/action/take_delivery/WayBillAction.java" />
+      <jump line="46" column="8" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/web/action/take_delivery/WayBillAction.java" />
+      <jump line="49" column="12" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/web/action/take_delivery/WayBillAction.java" />
+      <jump line="82" column="18" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="93" column="0" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="43" column="55" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/webapp/pages/take_delivery/waybill_manage.html" />
+      <jump line="99" column="0" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="0" column="0" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="17" column="0" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="66" column="16" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="49" column="16" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="38" column="57" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/take_delivery/impl/WayBillServiceImpl.java" />
+      <jump line="334" column="26" filename="C:/develop/mymaven/repository/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
+      <jump line="71" column="68" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/web/action/take_delivery/WayBillAction.java" />
+      <jump line="30" column="0" filename="C:/develop/mymaven/repository/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
+      <jump line="41" column="1" filename="C:/develop/mymaven/repository/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
+      <jump line="121" column="1" filename="C:/develop/mymaven/repository/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
+      <jump line="104" column="1" filename="C:/develop/mymaven/repository/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
+      <jump line="14" column="25" filename="C:/develop/ideaproject/study/src/main/java/com/mmm/LambdaFirst.java" />
+      <jump line="29" column="34" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/resources/applicationContext-shiro.xml" />
+      <jump line="34" column="35" filename="C:/develop/ideaproject/sell/src/main/java/com/ming/dto/OrderDTO.java" />
+      <jump line="14" column="4" filename="C:/develop/ideaproject/sell/src/main/java/com/ming/dto/OrderDTO.java" />
+      <jump line="36" column="37" filename="C:/develop/ideaproject/sell/src/main/java/com/ming/service/OrderService.java" />
+      <jump line="0" column="0" filename="C:/develop/ideaproject/sell/src/main/java/com/ming/service/OrderService.java" />
+      <jump line="16" column="35" filename="C:/develop/ideaproject/sell/src/main/java/com/ming/emuns/ResultEnum.java" />
+      <jump line="20" column="0" filename="C:/develop/ideaproject/sell/src/main/java/com/ming/emuns/ResultEnum.java" />
+      <jump line="18" column="7" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/system/impl/RoleServiceImpl.java" />
+      <jump line="17" column="13" filename="C:/develop/ideaproject/bos_3.0/bos_management/src/main/java/io/maang/bos/service/system/impl/RoleServiceImpl.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmQ=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgIEBJZA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>s s</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy/Uy7WlusWy6dGvCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CmQ=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICBASWQK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA8IS0tIMmow+hkYW+w/NfUtq+0tL2oyrXP1sDgIC0tPgogICAgPGVsYXN0aWNzZWFyY2g6cmVwb3NpdG9yaWVzIGJhc2UtcGFja2FnZT0iaW8ubWFhbmcuYm9zLmluZGV4Ii8+CgoKICAgIDwhLS0gxeTWw2VsYXN0aWNzZWFyY2ggway90yAtLT4KICAgIDxlbGFzdGljc2VhcmNoOnRyYW5zcG9ydC1jbGllbnQgaWQ9ImNsaWVudCIgY2x1c3Rlci1ub2Rlcz0iMTI3LjAuMC4xOjkzMDAiLz4KCiAgICA8IS0tIHNwcmluZyBkYXRhIGVsYXN0aWNzZWFyY2ggsdjQ69LAwLVlbGFzdGljc2VhcmNoVGVtcGxhdGUgIGlksdjQ686qZWxhc3RpY3NlYXJjaFRlbXBsYXRlILK7xNzQ3rjEIC0tPgogICAgPGJlYW4gaWQ9ImVsYXN0aWNzZWFyY2hUZW1wbGF0ZSIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuZGF0YS5lbGFzdGljc2VhcmNoLmNvcmUuRWxhc3RpY3NlYXJjaFRlbXBsYXRlIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnIG5hbWU9ImNsaWVudCIgcmVmPSJjbGllbnQiLz4KICAgIDwvYmVhbj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSkpUT2dubFBhcnNlclN0YXRlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU1VDQ0VTUzsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBBY3Rpb25Db250ZXh0LmdldENvbnRleHQoKS5nZXRWYWx1ZVN0YWNrKCkucHVzaChyZXN1bHQpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>s s</last-search>
+      <last-offset />
+      <last-pattern>s s</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>s s</entry>
+      </history-search>
       <history-cmd>
-        <entry>q</entry>
+        <entry>/s s</entry>
         <entry>x</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

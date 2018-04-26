@@ -1040,15 +1040,40 @@
         <option name="tabIndex" value="1" />
         <option name="window" value="0" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_bos_2_0\logs\localhost.2018-04-21.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_study\logs\localhost.2018-04-24.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\idea\.IntelliJIdea\system\tomcat\Unnamed_study\logs\catalina.2018-04-24.log" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
-        <option name="leftProportion" value="0.19363686" />
-        <option name="rightProportion" value="0.19857378" />
+        <option name="leftProportion" value="0.19354838" />
+        <option name="rightProportion" value="0.1984691" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
         <option name="defaultIndex" value="5" />
         <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="6" />
+        <option name="index" value="2" />
       </TabImpl>
       <TabImpl>
         <option name="defaultIndex" value="3" />

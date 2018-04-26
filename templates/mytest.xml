@@ -1,5 +1,5 @@
 <templateSet group="mytest">
-  <template name="pv" value="public void $var$() {&#10;    $end$&#10;}" description="public void" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="@Test&#10;public void $var$() {&#10;    $end$&#10;}" description="public void" toReformat="false" toShortenFQNames="true">
     <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>

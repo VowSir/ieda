@@ -9,7 +9,6 @@ FindBugs-IDEA
 Geronimo
 GlassFish
 Heroku
-IdeaVIM
 J2ME
 JBoss
 JSR45Plugin
